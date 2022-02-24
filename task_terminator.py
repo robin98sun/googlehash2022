@@ -16,6 +16,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
+# reading the file
 with open(args.input, 'r') as f:
     lines = f.readlines()
 
@@ -72,7 +73,8 @@ for i in range(1, len(lines)):
                 "score": scores,
                 "days": days,
                 "deadline": deadline,
-                "skills": {}
+                "skills": {},
+                "skills-in-order": [],
             }
 
         project_pointer += 1
@@ -81,7 +83,11 @@ for i in range(1, len(lines)):
     elif reading_target == "skill-requirements":
         skill_name, level = line.split(" ")
         level = int(level)
-        projects[project_name]["skills"][skill_name] = level
+        if skill_name not in projects[project_name]["skills"]:
+            projects[project_name]["skills"][skill_name] = []
+        projects[project_name]["skills"][skill_name].append(level)
+
+        projects[project_name]["skills-in-order"].append(skill_name)
         skill_pointer += 1
         if skill_pointer >= skill_requirements:
             if project_pointer >= project_count:
@@ -101,6 +107,9 @@ with open(project_file, 'w') as f:
 
 with open(contributor_file, 'w') as f:
     json.dump(contributors, f, indent=4)
+
+
+# finished reading file
 
 
 
