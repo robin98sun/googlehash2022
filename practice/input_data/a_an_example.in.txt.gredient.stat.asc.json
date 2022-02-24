@@ -1,0 +1,32 @@
+[
+    {
+        "name": "cheese",
+        "like": 1,
+        "dislike": 0
+    },
+    {
+        "name": "peppers",
+        "like": 1,
+        "dislike": 0
+    },
+    {
+        "name": "mushrooms",
+        "like": 1,
+        "dislike": 0
+    },
+    {
+        "name": "tomatoes",
+        "like": 1,
+        "dislike": 0
+    },
+    {
+        "name": "basil",
+        "like": 1,
+        "dislike": 1
+    },
+    {
+        "name": "pineapple",
+        "like": 0,
+        "dislike": 1
+    }
+]

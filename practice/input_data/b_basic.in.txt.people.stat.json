@@ -1,0 +1,37 @@
+{
+    "people1": {
+        "like": {
+            "akuof": true,
+            "byyii": true
+        },
+        "dislike": {}
+    },
+    "people2": {
+        "like": {
+            "dlust": true,
+            "luncl": true
+        },
+        "dislike": {}
+    },
+    "people3": {
+        "like": {
+            "akuof": true,
+            "luncl": true
+        },
+        "dislike": {}
+    },
+    "people4": {
+        "like": {
+            "dlust": true,
+            "vxglq": true
+        },
+        "dislike": {}
+    },
+    "people5": {
+        "like": {
+            "dlust": true,
+            "xveqd": true
+        },
+        "dislike": {}
+    }
+}

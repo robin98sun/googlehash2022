@@ -1,0 +1,26 @@
+{
+    "people1": {
+        "like": {
+            "cheese": true,
+            "peppers": true
+        },
+        "dislike": {}
+    },
+    "people2": {
+        "like": {
+            "basil": true
+        },
+        "dislike": {
+            "pineapple": true
+        }
+    },
+    "people3": {
+        "like": {
+            "mushrooms": true,
+            "tomatoes": true
+        },
+        "dislike": {
+            "basil": true
+        }
+    }
+}

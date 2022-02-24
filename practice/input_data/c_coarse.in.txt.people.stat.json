@@ -1,0 +1,98 @@
+{
+    "people1": {
+        "like": {
+            "akuof": true,
+            "byyii": true,
+            "dlust": true
+        },
+        "dislike": {
+            "xdozp": true
+        }
+    },
+    "people2": {
+        "like": {
+            "dlust": true,
+            "luncl": true,
+            "qzfyo": true
+        },
+        "dislike": {
+            "xdozp": true
+        }
+    },
+    "people3": {
+        "like": {
+            "akuof": true,
+            "luncl": true,
+            "vxglq": true
+        },
+        "dislike": {
+            "qzfyo": true
+        }
+    },
+    "people4": {
+        "like": {
+            "dlust": true,
+            "vxglq": true,
+            "luncl": true
+        },
+        "dislike": {}
+    },
+    "people5": {
+        "like": {
+            "dlust": true,
+            "xveqd": true,
+            "tfeej": true
+        },
+        "dislike": {}
+    },
+    "people6": {
+        "like": {
+            "qzfyo": true,
+            "vxglq": true,
+            "luncl": true
+        },
+        "dislike": {
+            "byyii": true
+        }
+    },
+    "people7": {
+        "like": {
+            "luncl": true,
+            "xdozp": true,
+            "xveqd": true
+        },
+        "dislike": {
+            "sunhp": true
+        }
+    },
+    "people8": {
+        "like": {
+            "byyii": true,
+            "xdozp": true,
+            "tfeej": true
+        },
+        "dislike": {
+            "qzfyo": true
+        }
+    },
+    "people9": {
+        "like": {
+            "dlust": true,
+            "akuof": true,
+            "tfeej": true
+        },
+        "dislike": {
+            "xveqd": true
+        }
+    },
+    "people10": {
+        "like": {
+            "vxglq": true,
+            "dlust": true,
+            "byyii": true
+        },
+        "dislike": {
+            "akuof": true
+        }
+    }
+}
