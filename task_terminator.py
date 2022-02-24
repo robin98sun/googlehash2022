@@ -16,38 +16,91 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-
 with open(args.input, 'r') as f:
     lines = f.readlines()
 
-contributor_count, project_count = int(lines[0].split(" "))
+contributor_count, project_count = lines[0][:-1].split(" ")
+contributor_count, project_count = int(contributor_count), int(project_count)
 print("{} contributors, {} projects".format(contributor_count, project_count))
 
-# for i in range(1, len(lines)):
-#     line = lines[i]
+
+contributors = {}
+expertises = {}
+projects = {}
+
+contributor_pointer = 0
+expertise_pointer = 0
+project_pointer = 0
+skill_pointer = 0
+
+contributor_name, expertise_count = "", 0
+
+project_name, days, scores, deadline, skill_requirements = "", 0, 0, 0, 0
+
+reading_target="contributors"
+
+for i in range(1, len(lines)):
+    line = lines[i][:-1]
+    if reading_target == "contributors":
+
+        contributor_name, expertise_count = line.split(" ")
+        expertise_count = int(expertise_count)
+
+        if contributor_name not in contributors:
+            contributors[contributor_name] = {}
+
+        reading_target = "expertises"
+        contributor_pointer += 1
+
+    elif reading_target == "expertises":
+        skill, level = line.split(" ")
+        level = int(level)
+        contributors[contributor_name][skill] = level
+        expertise_pointer += 1
+        if expertise_pointer >= expertise_count:
+            if contributor_pointer >= contributor_count:
+                reading_target = "project"
+            else:
+                reading_target = "contributors"
+                expertise_pointer = 0
+
+    elif reading_target == "project":
+        project_name, days, scores, deadline, skill_requirements = line.split(" ")
+        days, scores, deadline, skill_requirements = int(days), int(scores), int(deadline), int(skill_requirements)
+        if project_name not in projects:
+            projects[project_name] = {}
+
+        project_pointer += 1
+        reading_target = "skill-requirements"
+
+    elif reading_target == "skill-requirements":
+        skill_name, level = line.split(" ")
+        level = int(level)
+        projects[project_name][skill_name] = level
+        skill_pointer += 1
+        if skill_pointer >= skill_requirements:
+            if project_pointer >= project_count:
+                break
+            else:
+                reading_target = "project"
+                skill_pointer = 0
+
+project_file = "./projects.json"
+contributor_file = "./contributors.json"
+
+print("{} contributors in memory".format(len(contributors)))
+print("{} projects in memory".format(len(projects)))
+
+with open(project_file, 'w') as f:
+    json.dump(projects, f, indent=4)
+
+with open(contributor_file, 'w') as f:
+    json.dump(contributors, f, indent=4)
 
 
-#     people_id = int((i+1) / 2)
-#     people_key = "people" + str(people_id)
-#     if people_key not in people_dict:
-#         people_dict[people_key] = {
-#             "like": {},
-#             "dislike": {}
-#         }
-#     taste_key = "like"
-#     if i % 2 == 0:
-#         taste_key = "dislike"
-#     xc = 0
-#     for x in line.split(" "):
-#         xc += 1
-#         if xc ==1:
-#             continue
-#         if "\n" in x:
-#             x = x[:-1]
-#         people_dict[people_key][taste_key][x] = True
-#         if x not in gredient_dict:
-#             gredient_dict[x] = {
-#                 "like": {},
-#                 "dislike": {}
-#             }
-#         gredient_dict[x][taste_key][people_key] = True
+
+
+
+
+
+
