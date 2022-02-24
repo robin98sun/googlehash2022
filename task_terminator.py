@@ -68,7 +68,12 @@ for i in range(1, len(lines)):
         project_name, days, scores, deadline, skill_requirements = line.split(" ")
         days, scores, deadline, skill_requirements = int(days), int(scores), int(deadline), int(skill_requirements)
         if project_name not in projects:
-            projects[project_name] = {}
+            projects[project_name] = {
+                "score": scores,
+                "days": days,
+                "deadline": deadline,
+                "skills": {}
+            }
 
         project_pointer += 1
         reading_target = "skill-requirements"
@@ -76,7 +81,7 @@ for i in range(1, len(lines)):
     elif reading_target == "skill-requirements":
         skill_name, level = line.split(" ")
         level = int(level)
-        projects[project_name][skill_name] = level
+        projects[project_name]["skills"][skill_name] = level
         skill_pointer += 1
         if skill_pointer >= skill_requirements:
             if project_pointer >= project_count:
