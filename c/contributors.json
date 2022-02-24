@@ -1,0 +1,7501 @@
+{
+    "c1198": {
+        "Creativity-js": 2,
+        "XML-py": 4,
+        "Creativity": 3
+    },
+    "c121": {
+        "R-py": 1,
+        "BusinessAnalysis-lib": 4,
+        "Dart-lib": 3
+    },
+    "c26": {
+        "Haskell-js": 2,
+        "AI++": 2,
+        "Bash-js": 1
+    },
+    "c587": {
+        "Kotlin-lib": 4,
+        "Java-3+0": 3,
+        "PHP-js": 3
+    },
+    "c1079": {
+        "BusinessAnalysis-lib": 2,
+        "R-NET": 1,
+        "JavaScript-NET": 3
+    },
+    "c1042": {
+        "Kotlin-3+0": 2,
+        "BigQuery-2+0": 4,
+        "Communication-lib": 2
+    },
+    "c664": {
+        "MachineLearning-lib": 2,
+        "CloudComputing-NET": 4,
+        "Kotlin-lib": 1
+    },
+    "c184": {
+        "Management-3+0": 1,
+        "Shell-lib": 1,
+        "Ruby-3+0": 2
+    },
+    "c736": {
+        "MySQL-NET": 1,
+        "TechWriting": 3,
+        "PublicSpeaking-py": 2
+    },
+    "c1094": {
+        "BusinessAnalysis-lib": 2,
+        "Go": 1,
+        "Swift": 2
+    },
+    "c1324": {
+        "PublicSpeaking-2+0": 3,
+        "Analysis-NET": 2,
+        "TypeScript-lib": 1
+    },
+    "c740": {
+        "Ruby-3+0": 1,
+        "C-2+0": 1,
+        "Creativity": 3
+    },
+    "c955": {
+        "Angular-py": 3,
+        "Parallelization-NET": 2,
+        "Kotlin-lib": 4
+    },
+    "c653": {
+        "Perl-lib": 4,
+        "Bash-js": 2,
+        "Communication": 2
+    },
+    "c1446": {
+        "SignalProcessing++": 4,
+        "Assembly-py": 3,
+        "TechWriting": 2
+    },
+    "c986": {
+        "Communication-lib": 2,
+        "R-NET": 1,
+        "Shell-lib": 2
+    },
+    "c212": {
+        "SQL++": 4,
+        "Perl-3+0": 4,
+        "Creativity-js": 4
+    },
+    "c533": {
+        "XML-js": 1,
+        "PublicSpeaking-2+0": 3,
+        "SignalProcessing-js": 2
+    },
+    "c530": {
+        "Science-lib": 1,
+        "Bash-js": 1,
+        "Privacy-js": 1
+    },
+    "c1065": {
+        "Dart-lib": 3,
+        "SQL++": 1,
+        "Python-2+0": 2
+    },
+    "c1130": {
+        "AI-py": 1,
+        "Creativity-NET": 2,
+        "Haskell-2+0": 2
+    },
+    "c185": {
+        "CloudComputing-2+0": 1,
+        "R-py": 3,
+        "Privacy-js": 4
+    },
+    "c383": {
+        "Haskell-2+0": 4,
+        "Communication-lib": 4,
+        "C-2+0": 3
+    },
+    "c343": {
+        "Haskell-js": 4,
+        "C++-lib": 1,
+        "Management-3+0": 1
+    },
+    "c1124": {
+        "Objective-C-py": 4,
+        "MachineLearning-2+0": 2,
+        "Assembly-2+0": 4
+    },
+    "c1183": {
+        "Pascal-2+0": 2,
+        "Assembly-lib": 3,
+        "AI-py": 3
+    },
+    "c874": {
+        "Ajax-py": 2,
+        "Swift-NET": 3,
+        "C++-py": 4
+    },
+    "c531": {
+        "Kotlin-3+0": 4,
+        "Ada-py": 3,
+        "Management-lib": 3
+    },
+    "c0": {
+        "Communication-lib": 3,
+        "Delphi-lib": 1,
+        "Assembly-py": 3
+    },
+    "c675": {
+        "Ruby-js": 3,
+        "C++-js": 1,
+        "Go": 3
+    },
+    "c1193": {
+        "Pascal-3+0": 4,
+        "VideoProduction-js": 4,
+        "Dart-3+0": 3
+    },
+    "c1251": {
+        "Bash": 2,
+        "Assembly-lib": 1,
+        "CloudComputing-2+0": 3
+    },
+    "c491": {
+        "Science-py": 2,
+        "MakingMemes-js": 3,
+        "Pascal-2+0": 1
+    },
+    "c83": {
+        "TechWriting-2+0": 4,
+        "Ruby-3+0": 1,
+        "Swift-lib": 2
+    },
+    "c1205": {
+        "JavaScript-2+0": 2,
+        "Shell-py": 1,
+        "BusinessAnalysis++": 4
+    },
+    "c76": {
+        "JavaScript-2+0": 1,
+        "Swift-lib": 4,
+        "COBOL++": 4
+    },
+    "c670": {
+        "BusinessAnalysis-js": 4,
+        "Blockchain++": 2,
+        "Ada-py": 2
+    },
+    "c1456": {
+        "Management-lib": 1,
+        "VideoProduction": 3,
+        "C-3+0": 3
+    },
+    "c382": {
+        "Dart-lib": 4,
+        "SignalProcessing-3+0": 4,
+        "SQL++": 1
+    },
+    "c1237": {
+        "Security-NET": 1,
+        "JavaScript": 3,
+        "MySQL-lib": 3
+    },
+    "c271": {
+        "Angular-NET": 2,
+        "Delphi-js": 2,
+        "Creativity-NET": 2
+    },
+    "c1169": {
+        "Python": 1,
+        "Privacy-js": 3,
+        "COBOL-lib": 4
+    },
+    "c193": {
+        "BigQuery-2+0": 1,
+        "R-py": 2,
+        "VideoProduction-2+0": 4
+    },
+    "c1383": {
+        "HTML++": 4,
+        "Privacy-lib": 2,
+        "Delphi": 1
+    },
+    "c44": {
+        "AI++": 4,
+        "Blockchain-3+0": 2,
+        "Accessibility++": 4
+    },
+    "c63": {
+        "Python-3+0": 2,
+        "Dart-lib": 3,
+        "Objective-C-2+0": 3
+    },
+    "c697": {
+        "C++-lib": 1,
+        "Assembly-2+0": 2,
+        "Perl-lib": 1
+    },
+    "c135": {
+        "R-NET": 3,
+        "HTML-js": 4,
+        "Dart": 1
+    },
+    "c701": {
+        "SQL-NET": 1,
+        "JavaScript-NET": 2,
+        "Analysis": 2
+    },
+    "c1163": {
+        "Management-3+0": 3,
+        "TypeScript-py": 1,
+        "PublicSpeaking-2+0": 1
+    },
+    "c137": {
+        "Go": 3,
+        "Bash": 1,
+        "Pascal-py": 2
+    },
+    "c337": {
+        "JavaScript-NET": 3,
+        "Dart-lib": 1,
+        "Objective-C-lib": 3
+    },
+    "c920": {
+        "Delphi-py": 4,
+        "Go-NET": 2,
+        "Science-lib": 4
+    },
+    "c856": {
+        "Kotlin-3+0": 1,
+        "VisualBasic": 1,
+        "Accessibility": 4
+    },
+    "c1442": {
+        "Science-py": 4,
+        "Dart-lib": 4,
+        "Haskell-js": 3
+    },
+    "c999": {
+        "TypeScript": 3,
+        "Assembly-lib": 2,
+        "Communication++": 1
+    },
+    "c1322": {
+        "CloudComputing-2+0": 1,
+        "Bash-js": 3,
+        "Ajax-py": 3
+    },
+    "c1105": {
+        "Bash-py": 1,
+        "Delphi-py": 4,
+        "Haskell-py": 4
+    },
+    "c1257": {
+        "CloudComputing": 1,
+        "Dart": 2,
+        "Analysis": 1
+    },
+    "c1321": {
+        "R++": 3,
+        "Java-lib": 2,
+        "Assembly-NET": 3
+    },
+    "c641": {
+        "Blockchain": 3,
+        "JavaScript-2+0": 3,
+        "Perl-py": 1
+    },
+    "c55": {
+        "Ruby-2+0": 4,
+        "Communication-NET": 2,
+        "Assembly-py": 1
+    },
+    "c41": {
+        "JavaScript-2+0": 1,
+        "Haskell": 1,
+        "VideoProduction": 1
+    },
+    "c1046": {
+        "Communication-lib": 2,
+        "Accessibility": 1,
+        "Objective-C-py": 1
+    },
+    "c737": {
+        "BusinessAnalysis": 3,
+        "SQL++": 2,
+        "Management++": 1
+    },
+    "c1170": {
+        "XML-2+0": 3,
+        "Objective-C-2+0": 1,
+        "Bash-NET": 4
+    },
+    "c834": {
+        "Swift-js": 1,
+        "CloudComputing-NET": 3,
+        "Swift-lib": 4
+    },
+    "c933": {
+        "Python-2+0": 3,
+        "Management-3+0": 4,
+        "AI++": 2
+    },
+    "c845": {
+        "Haskell-js": 4,
+        "Communication-js": 2,
+        "SignalProcessing-py": 1
+    },
+    "c183": {
+        "SQL-js": 1,
+        "Assembly-NET": 1,
+        "XML-2+0": 2
+    },
+    "c4": {
+        "VisualBasic-NET": 4,
+        "Objective-C-2+0": 2,
+        "SQL-2+0": 3
+    },
+    "c204": {
+        "COBOL": 1,
+        "Perl-py": 2,
+        "Python-3+0": 4
+    },
+    "c512": {
+        "VisualBasic-2+0": 4,
+        "Privacy-lib": 3,
+        "BusinessAnalysis-lib": 3
+    },
+    "c963": {
+        "MATLAB++": 2,
+        "Ajax-2+0": 4,
+        "Shell-3+0": 2
+    },
+    "c283": {
+        "BusinessAnalysis++": 3,
+        "MySQL-NET": 1,
+        "Science-lib": 2
+    },
+    "c668": {
+        "Management": 4,
+        "Bash-py": 4,
+        "R-py": 2
+    },
+    "c1295": {
+        "PHP-3+0": 2,
+        "Security-3+0": 4,
+        "TechWriting-js": 2
+    },
+    "c551": {
+        "Blockchain++": 3,
+        "Analysis++": 3,
+        "MySQL-lib": 3
+    },
+    "c960": {
+        "BigQuery-2+0": 3,
+        "SignalProcessing-2+0": 4,
+        "Communication-2+0": 1
+    },
+    "c907": {
+        "HTML-2+0": 2,
+        "Haskell-lib": 3,
+        "Shell-py": 1
+    },
+    "c708": {
+        "HTML-js": 2,
+        "TypeScript-py": 3,
+        "PublicSpeaking-NET": 4
+    },
+    "c561": {
+        "BusinessAnalysis-js": 4,
+        "PHP-js": 1,
+        "Swift": 3
+    },
+    "c179": {
+        "Science-lib": 3,
+        "VisualBasic++": 4,
+        "Bash-js": 2
+    },
+    "c850": {
+        "MachineLearning-2+0": 2,
+        "Analysis-NET": 3,
+        "Go-lib": 4
+    },
+    "c1399": {
+        "Management++": 2,
+        "MySQL-lib": 3,
+        "BigQuery-NET": 3
+    },
+    "c1349": {
+        "SQL": 1,
+        "Bash": 4,
+        "Go": 4
+    },
+    "c219": {
+        "MakingMemes-py": 2,
+        "TypeScript": 2,
+        "MachineLearning-2+0": 3
+    },
+    "c621": {
+        "Bash": 2,
+        "Kotlin-lib": 4,
+        "SQL-js": 3
+    },
+    "c111": {
+        "Bash-2+0": 1,
+        "BusinessAnalysis-js": 2,
+        "Accessibility-js": 4
+    },
+    "c780": {
+        "TypeScript": 3,
+        "SignalProcessing-3+0": 2,
+        "PublicSpeaking-2+0": 1
+    },
+    "c899": {
+        "Python": 4,
+        "Ada-NET": 2,
+        "Management-2+0": 2
+    },
+    "c527": {
+        "Perl-NET": 1,
+        "JavaScript-2+0": 1,
+        "SQL": 3
+    },
+    "c847": {
+        "MySQL": 3,
+        "Communication-2+0": 1,
+        "SignalProcessing-2+0": 1
+    },
+    "c499": {
+        "PublicSpeaking-2+0": 3,
+        "Analysis-3+0": 2,
+        "Accessibility-js": 4
+    },
+    "c679": {
+        "MATLAB": 2,
+        "Assembly-2+0": 4,
+        "Dart": 1
+    },
+    "c107": {
+        "JavaScript-NET": 3,
+        "Shell-2+0": 4,
+        "Java-2+0": 2
+    },
+    "c320": {
+        "Python-2+0": 1,
+        "JavaScript-NET": 1,
+        "TechWriting++": 1
+    },
+    "c1138": {
+        "Java-lib": 1,
+        "Ada-py": 3,
+        "XML-3+0": 2
+    },
+    "c1116": {
+        "MATLAB++": 1,
+        "Objective-C-lib": 2,
+        "MachineLearning-lib": 1
+    },
+    "c235": {
+        "Accessibility++": 4,
+        "Shell-3+0": 3,
+        "Ruby-js": 1
+    },
+    "c1281": {
+        "COBOL++": 4,
+        "Analysis": 3,
+        "TypeScript-lib": 2
+    },
+    "c1308": {
+        "CSS-NET": 4,
+        "PHP-py": 4,
+        "CloudComputing-lib": 3
+    },
+    "c1310": {
+        "Kotlin-3+0": 2,
+        "XML-2+0": 2,
+        "Objective-C-2+0": 3
+    },
+    "c1253": {
+        "Communication++": 1,
+        "Swift-NET": 4,
+        "Bash": 3
+    },
+    "c987": {
+        "Creativity-js": 3,
+        "Pascal-3+0": 2,
+        "Java-lib": 3
+    },
+    "c800": {
+        "Accessibility++": 4,
+        "Perl-3+0": 3,
+        "VisualBasic-NET": 1
+    },
+    "c1232": {
+        "Creativity-NET": 1,
+        "BusinessAnalysis-3+0": 4,
+        "Perl-3+0": 2
+    },
+    "c1191": {
+        "Bash": 3,
+        "HTML-2+0": 1,
+        "Analysis-NET": 1
+    },
+    "c588": {
+        "HTML-2+0": 4,
+        "Python-3+0": 3,
+        "AI++": 1
+    },
+    "c1129": {
+        "Java-2+0": 3,
+        "XML-js": 1,
+        "Perl-3+0": 2
+    },
+    "c956": {
+        "Security-js": 1,
+        "CSS-NET": 4,
+        "Python": 4
+    },
+    "c200": {
+        "Science-py": 3,
+        "XML-py": 1,
+        "Creativity-js": 4
+    },
+    "c18": {
+        "JavaScript-2+0": 3,
+        "Go": 1,
+        "SQL-2+0": 3
+    },
+    "c824": {
+        "VideoProduction": 1,
+        "TechWriting-js": 3,
+        "BusinessAnalysis-lib": 3
+    },
+    "c563": {
+        "SignalProcessing-js": 3,
+        "Blockchain-3+0": 3,
+        "CloudComputing++": 4
+    },
+    "c268": {
+        "MATLAB++": 1,
+        "Assembly-lib": 2,
+        "C++-js": 4
+    },
+    "c1285": {
+        "Science++": 2,
+        "Accessibility": 2,
+        "SignalProcessing-py": 2
+    },
+    "c828": {
+        "SignalProcessing-3+0": 1,
+        "Security-NET": 2,
+        "Objective-C-lib": 2
+    },
+    "c642": {
+        "Go++": 1,
+        "PublicSpeaking-js": 4,
+        "Haskell-py": 1
+    },
+    "c663": {
+        "Delphi-3+0": 3,
+        "HTML-js": 2,
+        "COBOL-3+0": 2
+    },
+    "c263": {
+        "COBOL++": 2,
+        "Ruby-2+0": 3,
+        "TechWriting-2+0": 3
+    },
+    "c558": {
+        "Delphi-lib": 4,
+        "Blockchain++": 1,
+        "Ruby-2+0": 2
+    },
+    "c962": {
+        "Perl-NET": 3,
+        "Dart-3+0": 1,
+        "R++": 4
+    },
+    "c1096": {
+        "Management-2+0": 1,
+        "BusinessAnalysis-3+0": 1,
+        "Delphi-py": 3
+    },
+    "c489": {
+        "Management-2+0": 3,
+        "AI++": 2,
+        "BigQuery-NET": 3
+    },
+    "c1234": {
+        "Go-lib": 3,
+        "Bash": 2,
+        "Ruby-js": 1
+    },
+    "c1262": {
+        "Bash": 3,
+        "CloudComputing-lib": 2,
+        "Dart-js": 3
+    },
+    "c122": {
+        "Java-2+0": 4,
+        "BigQuery-2+0": 2,
+        "Blockchain-3+0": 3
+    },
+    "c305": {
+        "SignalProcessing-js": 3,
+        "HTML-2+0": 1,
+        "C-2+0": 3
+    },
+    "c632": {
+        "CloudComputing++": 2,
+        "Delphi-py": 1,
+        "Haskell": 4
+    },
+    "c45": {
+        "CloudComputing-NET": 2,
+        "Java-3+0": 4,
+        "Python-3+0": 3
+    },
+    "c169": {
+        "BigQuery-NET": 4,
+        "MakingMemes++": 2,
+        "Perl-NET": 3
+    },
+    "c529": {
+        "PHP-3+0": 4,
+        "XML-3+0": 4,
+        "Angular-NET": 3
+    },
+    "c331": {
+        "C++-py": 1,
+        "SQL-NET": 4,
+        "COBOL-3+0": 1
+    },
+    "c461": {
+        "R-NET": 4,
+        "MachineLearning-2+0": 1,
+        "Bash-3+0": 4
+    },
+    "c755": {
+        "Shell-lib": 2,
+        "BusinessAnalysis-js": 3,
+        "JavaScript": 3
+    },
+    "c808": {
+        "Communication-2+0": 4,
+        "MachineLearning-2+0": 4,
+        "TypeScript": 3
+    },
+    "c1049": {
+        "PHP-py": 1,
+        "MakingMemes-py": 4,
+        "C++-NET": 3
+    },
+    "c215": {
+        "BusinessAnalysis++": 4,
+        "Communication-py": 2,
+        "Creativity": 3
+    },
+    "c322": {
+        "VideoProduction": 4,
+        "HTML-2+0": 1,
+        "Go": 1
+    },
+    "c326": {
+        "C++-js": 1,
+        "Java-2+0": 2,
+        "Pascal-2+0": 3
+    },
+    "c738": {
+        "JavaScript-NET": 2,
+        "Ruby-3+0": 3,
+        "TypeScript++": 1
+    },
+    "c1067": {
+        "Go-NET": 2,
+        "Angular-py": 3,
+        "Security-NET": 1
+    },
+    "c95": {
+        "TechWriting++": 1,
+        "COBOL": 4,
+        "HTML++": 4
+    },
+    "c153": {
+        "VideoProduction-2+0": 3,
+        "TechWriting-2+0": 2,
+        "BigQuery-NET": 1
+    },
+    "c517": {
+        "Ada-NET": 1,
+        "MATLAB-py": 4,
+        "Ruby-2+0": 2
+    },
+    "c1157": {
+        "C++-py": 3,
+        "Pascal-3+0": 1,
+        "VideoProduction++": 1
+    },
+    "c676": {
+        "Pascal-3+0": 4,
+        "JavaScript-NET": 4,
+        "MATLAB": 1
+    },
+    "c852": {
+        "VideoProduction-lib": 2,
+        "Communication": 4,
+        "BigQuery-2+0": 1
+    },
+    "c1110": {
+        "Bash-2+0": 3,
+        "JavaScript": 3,
+        "Accessibility-js": 4
+    },
+    "c904": {
+        "Blockchain-3+0": 1,
+        "XML-js": 4,
+        "TypeScript++": 2
+    },
+    "c367": {
+        "COBOL-lib": 3,
+        "VideoProduction-js": 2,
+        "PublicSpeaking-NET": 3
+    },
+    "c277": {
+        "Accessibility++": 4,
+        "Accessibility-js": 4,
+        "BusinessAnalysis-lib": 1
+    },
+    "c1": {
+        "Accessibility-js": 4,
+        "Parallelization-NET": 2,
+        "Ruby-3+0": 3
+    },
+    "c991": {
+        "CloudComputing++": 2,
+        "C-2+0": 1,
+        "JavaScript": 3
+    },
+    "c1194": {
+        "Management-lib": 3,
+        "Angular-lib": 4,
+        "Java-js": 2
+    },
+    "c375": {
+        "XML-py": 2,
+        "Accessibility": 3,
+        "Swift-js": 4
+    },
+    "c537": {
+        "Blockchain++": 4,
+        "Delphi-js": 3,
+        "BusinessAnalysis-3+0": 1
+    },
+    "c1048": {
+        "Accessibility++": 2,
+        "Communication-py": 4,
+        "Dart-js": 1
+    },
+    "c1484": {
+        "Perl-NET": 3,
+        "Shell-py": 3,
+        "Security-3+0": 2
+    },
+    "c442": {
+        "CSS-NET": 4,
+        "MachineLearning-NET": 1,
+        "HTML++": 3
+    },
+    "c726": {
+        "Objective-C-py": 4,
+        "Communication": 3,
+        "Python-2+0": 4
+    },
+    "c12": {
+        "PHP-2+0": 3,
+        "PublicSpeaking-2+0": 3,
+        "VisualBasic-NET": 3
+    },
+    "c11": {
+        "Parallelization-NET": 1,
+        "Java-lib": 2,
+        "Delphi-3+0": 2
+    },
+    "c270": {
+        "Ruby": 1,
+        "SQL": 3,
+        "Kotlin-3+0": 1
+    },
+    "c1106": {
+        "SQL-NET": 3,
+        "Kotlin-3+0": 4,
+        "COBOL-lib": 4
+    },
+    "c1204": {
+        "Bash": 2,
+        "Management": 1,
+        "Dart-lib": 4
+    },
+    "c1493": {
+        "Management-3+0": 3,
+        "Communication": 3,
+        "MySQL-lib": 2
+    },
+    "c1470": {
+        "Delphi-lib": 1,
+        "Communication-NET": 3,
+        "HTML-js": 4
+    },
+    "c425": {
+        "Parallelization-py": 3,
+        "HTML-py": 1,
+        "TechWriting-js": 1
+    },
+    "c195": {
+        "CSS-NET": 3,
+        "Perl-lib": 3,
+        "Management-3+0": 3
+    },
+    "c1440": {
+        "CSS-NET": 3,
+        "VisualBasic": 2,
+        "Haskell-lib": 2
+    },
+    "c1134": {
+        "Perl-NET": 3,
+        "BigQuery-2+0": 2,
+        "Bash-NET": 1
+    },
+    "c1428": {
+        "Privacy-lib": 2,
+        "Bash-js": 3,
+        "Java-3+0": 4
+    },
+    "c1128": {
+        "JavaScript": 3,
+        "CSS-NET": 4,
+        "Pascal-py": 4
+    },
+    "c829": {
+        "Angular-py": 1,
+        "Bash-3+0": 2,
+        "TechWriting-js": 3
+    },
+    "c160": {
+        "Communication-lib": 2,
+        "Dart-js": 4,
+        "Communication-js": 3
+    },
+    "c608": {
+        "Ada-lib": 4,
+        "MakingMemes-lib": 2,
+        "PublicSpeaking-NET": 2
+    },
+    "c92": {
+        "TypeScript++": 2,
+        "CloudComputing++": 4,
+        "Bash-js": 1
+    },
+    "c386": {
+        "R-py": 1,
+        "TypeScript-lib": 1,
+        "TechWriting++": 4
+    },
+    "c570": {
+        "TechWriting-2+0": 2,
+        "TypeScript++": 4,
+        "Swift-NET": 4
+    },
+    "c1055": {
+        "Dart": 3,
+        "Ada-lib": 1,
+        "CloudComputing": 1
+    },
+    "c1229": {
+        "Perl-lib": 2,
+        "MySQL-lib": 4,
+        "Communication": 2
+    },
+    "c1499": {
+        "Haskell-py": 4,
+        "XML-js": 1,
+        "Analysis++": 4
+    },
+    "c448": {
+        "PublicSpeaking-2+0": 4,
+        "Science-lib": 2,
+        "JavaScript-2+0": 3
+    },
+    "c615": {
+        "SQL++": 4,
+        "Shell-2+0": 1,
+        "Accessibility-NET": 1
+    },
+    "c574": {
+        "Ada-py": 3,
+        "Bash-js": 3,
+        "Bash-3+0": 2
+    },
+    "c454": {
+        "Accessibility-js": 1,
+        "R-2+0": 2,
+        "Assembly-lib": 1
+    },
+    "c760": {
+        "VideoProduction++": 2,
+        "MySQL-NET": 1,
+        "Ada-NET": 3
+    },
+    "c1083": {
+        "Creativity-js": 4,
+        "PublicSpeaking-py": 3,
+        "Java-lib": 1
+    },
+    "c1452": {
+        "Python": 3,
+        "PublicSpeaking-2+0": 2,
+        "Privacy-lib": 3
+    },
+    "c1314": {
+        "Ruby-js": 4,
+        "Perl-3+0": 3,
+        "MachineLearning-NET": 2
+    },
+    "c341": {
+        "HTML-py": 4,
+        "VideoProduction": 3,
+        "TechWriting-js": 2
+    },
+    "c501": {
+        "Perl-NET": 2,
+        "Ruby": 1,
+        "Delphi-py": 4
+    },
+    "c1235": {
+        "HTML-2+0": 4,
+        "SQL": 3,
+        "Accessibility-js": 3
+    },
+    "c1385": {
+        "R-2+0": 2,
+        "Perl-NET": 1,
+        "Shell-lib": 2
+    },
+    "c538": {
+        "Go": 4,
+        "Delphi-py": 1,
+        "MATLAB": 3
+    },
+    "c1243": {
+        "Accessibility-js": 1,
+        "Java-3+0": 3,
+        "PublicSpeaking-NET": 2
+    },
+    "c799": {
+        "Shell-3+0": 1,
+        "TypeScript": 3,
+        "Ajax-3+0": 1
+    },
+    "c603": {
+        "JavaScript-2+0": 1,
+        "MATLAB-py": 1,
+        "Java-lib": 4
+    },
+    "c1433": {
+        "XML-js": 4,
+        "COBOL": 4,
+        "TypeScript-py": 1
+    },
+    "c313": {
+        "UXDesign-NET": 4,
+        "Go-js": 4,
+        "Communication-2+0": 3
+    },
+    "c1161": {
+        "Go-lib": 2,
+        "VideoProduction++": 2,
+        "Creativity": 1
+    },
+    "c1039": {
+        "HTML-2+0": 3,
+        "Ajax-py": 3,
+        "Creativity-js": 2
+    },
+    "c167": {
+        "Science++": 2,
+        "PublicSpeaking-js": 2,
+        "PublicSpeaking-py": 2
+    },
+    "c1027": {
+        "Objective-C-lib": 3,
+        "Assembly-lib": 3,
+        "Go-js": 3
+    },
+    "c1291": {
+        "Angular-NET": 4,
+        "Kotlin-3+0": 1,
+        "Dart": 3
+    },
+    "c939": {
+        "Ada-lib": 2,
+        "TypeScript-lib": 2,
+        "Management++": 1
+    },
+    "c1338": {
+        "VideoProduction": 4,
+        "SignalProcessing-3+0": 3,
+        "COBOL": 3
+    },
+    "c662": {
+        "Science-py": 4,
+        "Analysis++": 1,
+        "Go-lib": 1
+    },
+    "c767": {
+        "Delphi-py": 1,
+        "Assembly-NET": 4,
+        "Assembly-2+0": 3
+    },
+    "c851": {
+        "SQL": 4,
+        "VisualBasic++": 2,
+        "Delphi": 1
+    },
+    "c1142": {
+        "Privacy-lib": 4,
+        "BigQuery-2+0": 3,
+        "Go-js": 4
+    },
+    "c144": {
+        "HTML-py": 4,
+        "Science++": 2,
+        "Communication-3+0": 4
+    },
+    "c394": {
+        "Perl-3+0": 3,
+        "VisualBasic": 3,
+        "Go++": 1
+    },
+    "c1388": {
+        "TechWriting-2+0": 2,
+        "Perl-3+0": 3,
+        "MakingMemes-js": 3
+    },
+    "c995": {
+        "Ruby-2+0": 1,
+        "BusinessAnalysis++": 3,
+        "Bash-py": 4
+    },
+    "c878": {
+        "Bash-py": 1,
+        "VideoProduction++": 1,
+        "PHP-py": 2
+    },
+    "c483": {
+        "Python-2+0": 2,
+        "Go++": 3,
+        "XML-3+0": 4
+    },
+    "c376": {
+        "MySQL-NET": 3,
+        "R++": 3,
+        "Communication-lib": 2
+    },
+    "c657": {
+        "C++-lib": 4,
+        "Ada-NET": 3,
+        "VideoProduction-lib": 4
+    },
+    "c622": {
+        "Creativity": 2,
+        "BusinessAnalysis-js": 4,
+        "Perl-NET": 1
+    },
+    "c96": {
+        "Shell-py": 3,
+        "COBOL++": 2,
+        "JavaScript-NET": 4
+    },
+    "c1223": {
+        "C++-lib": 2,
+        "Science-lib": 1,
+        "BusinessAnalysis": 4
+    },
+    "c1459": {
+        "Go": 2,
+        "Ada-py": 2,
+        "Shell-lib": 4
+    },
+    "c710": {
+        "VisualBasic": 4,
+        "CloudComputing-NET": 4,
+        "C++-py": 4
+    },
+    "c1071": {
+        "SQL": 3,
+        "Communication-py": 4,
+        "MachineLearning-NET": 2
+    },
+    "c455": {
+        "CSS-NET": 3,
+        "Dart-js": 1,
+        "CloudComputing-2+0": 2
+    },
+    "c161": {
+        "R-2+0": 3,
+        "Pascal-3+0": 2,
+        "Java-js": 2
+    },
+    "c526": {
+        "TypeScript-py": 1,
+        "PHP-3+0": 3,
+        "Ajax-3+0": 3
+    },
+    "c1398": {
+        "JavaScript-2+0": 1,
+        "CloudComputing": 3,
+        "Angular-NET": 1
+    },
+    "c1043": {
+        "BigQuery-NET": 4,
+        "TypeScript++": 3,
+        "Science-py": 1
+    },
+    "c908": {
+        "Management-3+0": 1,
+        "Analysis-3+0": 1,
+        "Privacy-lib": 4
+    },
+    "c524": {
+        "TypeScript": 2,
+        "CloudComputing-lib": 4,
+        "BusinessAnalysis-3+0": 4
+    },
+    "c807": {
+        "Accessibility": 1,
+        "MySQL-NET": 3,
+        "Bash": 2
+    },
+    "c97": {
+        "Pascal-2+0": 1,
+        "PHP-3+0": 4,
+        "AI++": 3
+    },
+    "c368": {
+        "Java-NET": 3,
+        "C-3+0": 2,
+        "Communication-lib": 1
+    },
+    "c188": {
+        "MATLAB": 1,
+        "VisualBasic-2+0": 4,
+        "MySQL": 3
+    },
+    "c1081": {
+        "XML-2+0": 2,
+        "MakingMemes++": 2,
+        "Kotlin-js": 2
+    },
+    "c843": {
+        "SQL-2+0": 3,
+        "Management": 2,
+        "CloudComputing-2+0": 2
+    },
+    "c889": {
+        "SQL-2+0": 3,
+        "Java-2+0": 4,
+        "PublicSpeaking-py": 2
+    },
+    "c578": {
+        "Ajax-py": 4,
+        "R-NET": 1,
+        "Management-2+0": 2
+    },
+    "c1490": {
+        "JavaScript-NET": 1,
+        "VisualBasic": 3,
+        "Java-NET": 2
+    },
+    "c469": {
+        "Analysis": 2,
+        "BigQuery-NET": 2,
+        "Kotlin-lib": 3
+    },
+    "c473": {
+        "Bash-js": 2,
+        "Communication++": 4,
+        "VideoProduction": 2
+    },
+    "c398": {
+        "VideoProduction-3+0": 1,
+        "SignalProcessing-py": 2,
+        "JavaScript-2+0": 1
+    },
+    "c629": {
+        "Ada-py": 4,
+        "MachineLearning-2+0": 4,
+        "Communication-3+0": 3
+    },
+    "c1270": {
+        "C-2+0": 1,
+        "BusinessAnalysis": 4,
+        "Swift-js": 4
+    },
+    "c36": {
+        "Python-3+0": 2,
+        "Communication-2+0": 1,
+        "Delphi-lib": 2
+    },
+    "c1064": {
+        "CloudComputing++": 3,
+        "Management": 2,
+        "Java-lib": 1
+    },
+    "c358": {
+        "Objective-C-lib": 2,
+        "Ada-py": 3,
+        "MATLAB": 4
+    },
+    "c589": {
+        "BusinessAnalysis++": 3,
+        "UXDesign-NET": 1,
+        "Java-NET": 3
+    },
+    "c591": {
+        "MakingMemes-py": 2,
+        "Accessibility-js": 3,
+        "Blockchain++": 1
+    },
+    "c722": {
+        "C-3+0": 3,
+        "BusinessAnalysis++": 2,
+        "Bash-py": 3
+    },
+    "c427": {
+        "Ruby-js": 2,
+        "C++-py": 4,
+        "MATLAB": 1
+    },
+    "c192": {
+        "BusinessAnalysis-3+0": 2,
+        "MATLAB++": 4,
+        "Communication++": 4
+    },
+    "c325": {
+        "Accessibility++": 1,
+        "Dart-3+0": 1,
+        "C++-js": 4
+    },
+    "c1411": {
+        "Management-2+0": 1,
+        "PHP-py": 3,
+        "Communication": 1
+    },
+    "c1107": {
+        "Creativity-js": 4,
+        "Shell-3+0": 2,
+        "Ruby-3+0": 2
+    },
+    "c267": {
+        "VideoProduction++": 1,
+        "TechWriting-2+0": 2,
+        "SQL-js": 3
+    },
+    "c592": {
+        "TechWriting++": 4,
+        "TypeScript": 4,
+        "SQL-2+0": 4
+    },
+    "c812": {
+        "TechWriting": 2,
+        "Java-js": 2,
+        "TechWriting-js": 1
+    },
+    "c660": {
+        "SignalProcessing-py": 4,
+        "Analysis-NET": 2,
+        "XML-2+0": 4
+    },
+    "c1029": {
+        "C-3+0": 1,
+        "Privacy-js": 2,
+        "TypeScript-py": 2
+    },
+    "c949": {
+        "PublicSpeaking-NET": 1,
+        "VideoProduction-lib": 1,
+        "Angular-2+0": 1
+    },
+    "c22": {
+        "Angular-NET": 3,
+        "XML-js": 2,
+        "Ada-NET": 3
+    },
+    "c575": {
+        "Creativity-NET": 1,
+        "Kotlin-3+0": 2,
+        "Delphi-lib": 4
+    },
+    "c1384": {
+        "COBOL-3+0": 3,
+        "Go-js": 3,
+        "Delphi-py": 3
+    },
+    "c625": {
+        "SignalProcessing-py": 1,
+        "Java-lib": 2,
+        "Objective-C-lib": 3
+    },
+    "c766": {
+        "Go": 1,
+        "Science++": 3,
+        "Communication-lib": 1
+    },
+    "c421": {
+        "MySQL-lib": 4,
+        "COBOL-3+0": 4,
+        "JavaScript-NET": 2
+    },
+    "c945": {
+        "Perl-NET": 3,
+        "COBOL-3+0": 2,
+        "CSS-NET": 2
+    },
+    "c1256": {
+        "AI-py": 1,
+        "Swift-lib": 1,
+        "SQL-2+0": 2
+    },
+    "c48": {
+        "SignalProcessing++": 1,
+        "COBOL": 1,
+        "Creativity-js": 1
+    },
+    "c459": {
+        "Shell-lib": 4,
+        "XML-3+0": 1,
+        "Delphi-3+0": 3
+    },
+    "c1315": {
+        "C-3+0": 2,
+        "BusinessAnalysis-lib": 2,
+        "PHP-py": 3
+    },
+    "c813": {
+        "Analysis-NET": 2,
+        "Communication-js": 3,
+        "Science-py": 3
+    },
+    "c661": {
+        "PHP-py": 4,
+        "R-2+0": 2,
+        "Assembly-NET": 2
+    },
+    "c511": {
+        "PHP-2+0": 3,
+        "R-NET": 1,
+        "JavaScript": 2
+    },
+    "c99": {
+        "Go-lib": 1,
+        "Delphi-py": 1,
+        "Kotlin-3+0": 1
+    },
+    "c921": {
+        "Bash-py": 4,
+        "Swift-lib": 2,
+        "Privacy-lib": 1
+    },
+    "c1316": {
+        "PHP-py": 4,
+        "C++-NET": 1,
+        "UXDesign": 1
+    },
+    "c513": {
+        "UXDesign": 1,
+        "Java-3+0": 1,
+        "Bash": 4
+    },
+    "c1144": {
+        "VideoProduction-js": 3,
+        "Ada-lib": 2,
+        "SignalProcessing++": 1
+    },
+    "c1395": {
+        "Privacy-js": 4,
+        "Science-py": 1,
+        "TechWriting++": 2
+    },
+    "c779": {
+        "Assembly-2+0": 3,
+        "MachineLearning-lib": 1,
+        "VideoProduction-3+0": 1
+    },
+    "c754": {
+        "SignalProcessing-2+0": 3,
+        "Parallelization-NET": 2,
+        "R-2+0": 4
+    },
+    "c1292": {
+        "Swift-lib": 3,
+        "UXDesign": 3,
+        "Shell-lib": 1
+    },
+    "c25": {
+        "Ruby-js": 3,
+        "Go": 3,
+        "Kotlin-3+0": 2
+    },
+    "c612": {
+        "Security-NET": 4,
+        "C++-lib": 1,
+        "TypeScript++": 3
+    },
+    "c31": {
+        "Bash": 2,
+        "Parallelization-py": 1,
+        "TechWriting-js": 3
+    },
+    "c1360": {
+        "Blockchain-3+0": 3,
+        "BigQuery-2+0": 3,
+        "VisualBasic-2+0": 1
+    },
+    "c723": {
+        "Go-lib": 3,
+        "JavaScript": 2,
+        "Management-2+0": 2
+    },
+    "c1353": {
+        "Dart-lib": 3,
+        "Pascal-2+0": 4,
+        "JavaScript": 3
+    },
+    "c1127": {
+        "Communication-NET": 2,
+        "BigQuery-NET": 2,
+        "VideoProduction-lib": 1
+    },
+    "c744": {
+        "AI-py": 3,
+        "VideoProduction-2+0": 1,
+        "BusinessAnalysis++": 1
+    },
+    "c1444": {
+        "TypeScript-lib": 2,
+        "AI-py": 4,
+        "Dart": 1
+    },
+    "c1016": {
+        "Communication": 1,
+        "CloudComputing-2+0": 3,
+        "CloudComputing++": 4
+    },
+    "c792": {
+        "Angular-NET": 4,
+        "Bash-3+0": 3,
+        "R++": 4
+    },
+    "c1467": {
+        "Security-NET": 2,
+        "Pascal-3+0": 2,
+        "Java-NET": 1
+    },
+    "c1156": {
+        "SQL-2+0": 1,
+        "Ruby": 1,
+        "VisualBasic-2+0": 3
+    },
+    "c624": {
+        "Perl-py": 2,
+        "XML-js": 2,
+        "Go++": 1
+    },
+    "c333": {
+        "JavaScript-2+0": 4,
+        "Bash-NET": 2,
+        "Go-lib": 3
+    },
+    "c3": {
+        "Bash-py": 3,
+        "XML-2+0": 1,
+        "Delphi-lib": 1
+    },
+    "c1271": {
+        "Ruby": 3,
+        "Bash": 3,
+        "UXDesign-NET": 1
+    },
+    "c1361": {
+        "SQL": 4,
+        "MachineLearning-2+0": 3,
+        "MakingMemes-lib": 1
+    },
+    "c776": {
+        "Haskell-lib": 4,
+        "C-3+0": 2,
+        "VideoProduction++": 1
+    },
+    "c1244": {
+        "Accessibility-NET": 3,
+        "Ruby-2+0": 4,
+        "Communication-2+0": 4
+    },
+    "c429": {
+        "Swift-NET": 4,
+        "MakingMemes-py": 3,
+        "Bash-2+0": 3
+    },
+    "c1423": {
+        "MachineLearning-2+0": 2,
+        "Kotlin-lib": 1,
+        "HTML-py": 3
+    },
+    "c1473": {
+        "Go": 1,
+        "HTML-py": 4,
+        "Security-js": 1
+    },
+    "c390": {
+        "PHP-js": 2,
+        "VisualBasic-NET": 1,
+        "Haskell-js": 4
+    },
+    "c168": {
+        "Bash-js": 4,
+        "Security-3+0": 2,
+        "Haskell": 3
+    },
+    "c1468": {
+        "TechWriting": 2,
+        "Angular-py": 1,
+        "CloudComputing": 2
+    },
+    "c909": {
+        "HTML++": 1,
+        "SignalProcessing-py": 3,
+        "Pascal-py": 4
+    },
+    "c1363": {
+        "Bash-py": 3,
+        "VisualBasic-2+0": 1,
+        "Communication-NET": 3
+    },
+    "c162": {
+        "Communication-py": 3,
+        "VisualBasic-NET": 3,
+        "Shell-py": 1
+    },
+    "c5": {
+        "COBOL-lib": 4,
+        "Accessibility-NET": 2,
+        "XML-js": 2
+    },
+    "c1352": {
+        "Bash-3+0": 1,
+        "TechWriting++": 3,
+        "BusinessAnalysis-3+0": 4
+    },
+    "c30": {
+        "Management++": 3,
+        "Assembly-2+0": 4,
+        "Ajax-3+0": 2
+    },
+    "c928": {
+        "Blockchain-3+0": 1,
+        "Go-lib": 3,
+        "Assembly-lib": 2
+    },
+    "c243": {
+        "PHP-js": 3,
+        "SQL": 3,
+        "Dart": 2
+    },
+    "c46": {
+        "XML-3+0": 2,
+        "HTML-js": 4,
+        "Java-NET": 4
+    },
+    "c626": {
+        "XML-3+0": 4,
+        "CloudComputing++": 2,
+        "Security-js": 1
+    },
+    "c859": {
+        "Analysis-3+0": 2,
+        "Assembly-lib": 3,
+        "Python-3+0": 4
+    },
+    "c1267": {
+        "Communication-NET": 3,
+        "Accessibility-js": 3,
+        "Haskell-js": 4
+    },
+    "c892": {
+        "Shell-3+0": 1,
+        "VideoProduction-js": 1,
+        "MySQL": 4
+    },
+    "c788": {
+        "Shell-3+0": 3,
+        "SQL-2+0": 4,
+        "CloudComputing": 1
+    },
+    "c830": {
+        "SignalProcessing-3+0": 4,
+        "C-3+0": 2,
+        "VisualBasic-2+0": 3
+    },
+    "c294": {
+        "R++": 1,
+        "MATLAB-py": 4,
+        "Blockchain++": 2
+    },
+    "c1449": {
+        "Ada-py": 4,
+        "Angular-lib": 1,
+        "Ruby-2+0": 2
+    },
+    "c1434": {
+        "Go-lib": 4,
+        "Communication-NET": 4,
+        "MATLAB-py": 3
+    },
+    "c1414": {
+        "R++": 2,
+        "Perl-lib": 2,
+        "AI++": 2
+    },
+    "c1460": {
+        "PublicSpeaking-NET": 4,
+        "VisualBasic-2+0": 4,
+        "MySQL": 2
+    },
+    "c953": {
+        "COBOL-lib": 3,
+        "Parallelization-py": 3,
+        "MakingMemes-js": 4
+    },
+    "c1424": {
+        "TechWriting": 4,
+        "Security-3+0": 3,
+        "SignalProcessing-py": 4
+    },
+    "c553": {
+        "MATLAB-py": 2,
+        "Ada-lib": 1,
+        "R-2+0": 3
+    },
+    "c1343": {
+        "VideoProduction-2+0": 1,
+        "Bash-js": 4,
+        "HTML-py": 1
+    },
+    "c853": {
+        "Go-NET": 3,
+        "Accessibility++": 3,
+        "AI++": 2
+    },
+    "c966": {
+        "AI-py": 4,
+        "SignalProcessing-js": 1,
+        "MATLAB": 4
+    },
+    "c782": {
+        "Objective-C-2+0": 1,
+        "C++-lib": 2,
+        "Privacy-lib": 1
+    },
+    "c415": {
+        "Management-2+0": 3,
+        "Swift-lib": 1,
+        "Security-3+0": 4
+    },
+    "c693": {
+        "COBOL++": 2,
+        "Delphi-3+0": 4,
+        "Ruby-js": 1
+    },
+    "c73": {
+        "Python-2+0": 4,
+        "Pascal-py": 3,
+        "SQL-2+0": 2
+    },
+    "c40": {
+        "CloudComputing++": 3,
+        "Analysis++": 3,
+        "C++-js": 3
+    },
+    "c42": {
+        "TechWriting-2+0": 1,
+        "Creativity-js": 4,
+        "TechWriting": 4
+    },
+    "c339": {
+        "SQL-js": 2,
+        "C++-js": 1,
+        "Communication-2+0": 4
+    },
+    "c840": {
+        "SignalProcessing-2+0": 4,
+        "Communication-NET": 3,
+        "Angular-py": 2
+    },
+    "c1093": {
+        "C++-NET": 2,
+        "SQL-2+0": 2,
+        "PublicSpeaking-js": 2
+    },
+    "c1246": {
+        "Ruby-js": 3,
+        "MakingMemes++": 3,
+        "Privacy-lib": 2
+    },
+    "c677": {
+        "Ruby-3+0": 2,
+        "MachineLearning-NET": 1,
+        "VideoProduction++": 4
+    },
+    "c150": {
+        "Objective-C-lib": 3,
+        "Communication-2+0": 4,
+        "Science-py": 2
+    },
+    "c560": {
+        "Dart-js": 4,
+        "HTML-js": 1,
+        "VideoProduction-2+0": 2
+    },
+    "c488": {
+        "Accessibility-NET": 2,
+        "MakingMemes++": 2,
+        "Communication++": 2
+    },
+    "c1451": {
+        "Ruby-js": 1,
+        "BusinessAnalysis-js": 2,
+        "Swift": 4
+    },
+    "c1245": {
+        "BusinessAnalysis++": 4,
+        "Java-NET": 1,
+        "Management": 1
+    },
+    "c1139": {
+        "Blockchain++": 2,
+        "Communication-3+0": 2,
+        "Dart-js": 3
+    },
+    "c1307": {
+        "C++-py": 4,
+        "Delphi-py": 3,
+        "MySQL-lib": 2
+    },
+    "c361": {
+        "Dart-lib": 3,
+        "Communication": 2,
+        "MATLAB-py": 2
+    },
+    "c911": {
+        "Communication-3+0": 4,
+        "Python-2+0": 4,
+        "Communication++": 3
+    },
+    "c1074": {
+        "MakingMemes-py": 1,
+        "Angular-2+0": 3,
+        "Pascal-3+0": 3
+    },
+    "c1491": {
+        "Analysis++": 4,
+        "Science-py": 1,
+        "Angular-NET": 4
+    },
+    "c1231": {
+        "Assembly-2+0": 2,
+        "Parallelization-NET": 3,
+        "TechWriting": 4
+    },
+    "c753": {
+        "Communication-3+0": 3,
+        "XML-3+0": 4,
+        "SignalProcessing-2+0": 4
+    },
+    "c1098": {
+        "Ada-lib": 2,
+        "MachineLearning-NET": 1,
+        "XML-py": 3
+    },
+    "c858": {
+        "PHP-py": 2,
+        "Blockchain": 3,
+        "Accessibility": 4
+    },
+    "c1101": {
+        "MATLAB-py": 1,
+        "Accessibility++": 4,
+        "CloudComputing-2+0": 3
+    },
+    "c411": {
+        "Swift-NET": 1,
+        "VideoProduction-lib": 3,
+        "VisualBasic-2+0": 3
+    },
+    "c8": {
+        "Shell-3+0": 4,
+        "TypeScript": 4,
+        "MachineLearning-2+0": 3
+    },
+    "c68": {
+        "Analysis-NET": 4,
+        "Ruby-js": 4,
+        "Analysis++": 1
+    },
+    "c145": {
+        "Go-NET": 1,
+        "Creativity": 4,
+        "MySQL-NET": 4
+    },
+    "c85": {
+        "COBOL-3+0": 2,
+        "BigQuery-2+0": 2,
+        "Ruby-2+0": 2
+    },
+    "c816": {
+        "Communication-NET": 1,
+        "Creativity-NET": 1,
+        "Science++": 2
+    },
+    "c1439": {
+        "COBOL": 4,
+        "Haskell-py": 2,
+        "PHP-2+0": 4
+    },
+    "c600": {
+        "VideoProduction-js": 2,
+        "Swift-lib": 4,
+        "R++": 3
+    },
+    "c198": {
+        "VideoProduction-2+0": 3,
+        "Ajax-2+0": 2,
+        "Angular-lib": 3
+    },
+    "c440": {
+        "MakingMemes-py": 4,
+        "MySQL-NET": 4,
+        "Communication-2+0": 4
+    },
+    "c397": {
+        "Go-lib": 3,
+        "Delphi-js": 4,
+        "Shell-lib": 4
+    },
+    "c231": {
+        "VisualBasic-2+0": 2,
+        "Haskell-js": 2,
+        "Delphi-js": 2
+    },
+    "c1182": {
+        "VisualBasic-2+0": 2,
+        "SignalProcessing++": 3,
+        "Analysis-3+0": 1
+    },
+    "c862": {
+        "Swift-js": 1,
+        "Dart": 4,
+        "MakingMemes-js": 4
+    },
+    "c211": {
+        "MakingMemes-lib": 2,
+        "UXDesign": 3,
+        "BigQuery-NET": 1
+    },
+    "c557": {
+        "Accessibility++": 3,
+        "Assembly-lib": 3,
+        "TechWriting-2+0": 2
+    },
+    "c1075": {
+        "Analysis-NET": 2,
+        "Parallelization-py": 3,
+        "PublicSpeaking-py": 1
+    },
+    "c493": {
+        "Communication-lib": 3,
+        "CloudComputing++": 3,
+        "MachineLearning-lib": 2
+    },
+    "c123": {
+        "HTML++": 2,
+        "Communication-lib": 4,
+        "PublicSpeaking-NET": 2
+    },
+    "c1152": {
+        "BusinessAnalysis-lib": 4,
+        "Analysis": 4,
+        "BusinessAnalysis": 3
+    },
+    "c1013": {
+        "Bash-2+0": 3,
+        "MakingMemes-lib": 3,
+        "SignalProcessing-2+0": 2
+    },
+    "c802": {
+        "SQL-NET": 4,
+        "MATLAB++": 2,
+        "Shell-2+0": 2
+    },
+    "c839": {
+        "Bash": 4,
+        "MachineLearning-2+0": 1,
+        "C++-js": 4
+    },
+    "c842": {
+        "Dart-js": 4,
+        "C++-NET": 1,
+        "Science++": 3
+    },
+    "c1347": {
+        "Management-3+0": 4,
+        "Science-py": 4,
+        "JavaScript-NET": 4
+    },
+    "c1238": {
+        "Blockchain-3+0": 2,
+        "Shell-3+0": 3,
+        "TypeScript": 2
+    },
+    "c276": {
+        "C++-lib": 2,
+        "Bash": 2,
+        "VisualBasic-NET": 2
+    },
+    "c1073": {
+        "SQL++": 1,
+        "COBOL-lib": 3,
+        "CloudComputing-2+0": 1
+    },
+    "c952": {
+        "Perl-NET": 1,
+        "Communication-NET": 1,
+        "Haskell": 2
+    },
+    "c16": {
+        "Creativity-NET": 2,
+        "Go++": 3,
+        "VisualBasic++": 2
+    },
+    "c47": {
+        "Go-NET": 4,
+        "MySQL": 1,
+        "HTML-2+0": 2
+    },
+    "c1208": {
+        "Ruby-js": 1,
+        "Dart-3+0": 3,
+        "MachineLearning-2+0": 3
+    },
+    "c854": {
+        "Communication-js": 4,
+        "Management-3+0": 1,
+        "Assembly-NET": 1
+    },
+    "c1057": {
+        "Angular-2+0": 1,
+        "Ada-lib": 3,
+        "C++-NET": 3
+    },
+    "c699": {
+        "MySQL-NET": 1,
+        "Java-NET": 1,
+        "C-3+0": 2
+    },
+    "c13": {
+        "TechWriting": 1,
+        "Perl-lib": 2,
+        "XML-js": 3
+    },
+    "c954": {
+        "MachineLearning-lib": 2,
+        "XML-2+0": 3,
+        "Delphi-py": 1
+    },
+    "c1158": {
+        "Parallelization-py": 4,
+        "Python": 4,
+        "Analysis-3+0": 2
+    },
+    "c355": {
+        "Privacy-lib": 3,
+        "SignalProcessing-js": 1,
+        "CloudComputing-2+0": 3
+    },
+    "c27": {
+        "VideoProduction++": 1,
+        "Shell-py": 2,
+        "SignalProcessing-js": 4
+    },
+    "c564": {
+        "Science++": 1,
+        "VideoProduction++": 1,
+        "MachineLearning-NET": 1
+    },
+    "c316": {
+        "Ajax-2+0": 4,
+        "MachineLearning-NET": 3,
+        "Ada-py": 3
+    },
+    "c1397": {
+        "PublicSpeaking-2+0": 1,
+        "TechWriting-2+0": 3,
+        "Management++": 2
+    },
+    "c140": {
+        "Analysis": 1,
+        "COBOL-3+0": 3,
+        "CloudComputing-2+0": 2
+    },
+    "c599": {
+        "VideoProduction-2+0": 3,
+        "Java-NET": 4,
+        "Accessibility++": 1
+    },
+    "c1345": {
+        "Communication-py": 1,
+        "Delphi": 4,
+        "Communication-3+0": 3
+    },
+    "c1471": {
+        "MakingMemes-py": 3,
+        "MySQL-NET": 1,
+        "Communication-2+0": 3
+    },
+    "c791": {
+        "Communication-lib": 4,
+        "MySQL": 3,
+        "Blockchain++": 3
+    },
+    "c905": {
+        "TechWriting-js": 4,
+        "Shell-py": 2,
+        "Delphi-lib": 2
+    },
+    "c646": {
+        "MySQL-NET": 1,
+        "PHP-py": 4,
+        "Perl-3+0": 3
+    },
+    "c515": {
+        "Creativity-NET": 3,
+        "Delphi-py": 3,
+        "MATLAB": 3
+    },
+    "c725": {
+        "Blockchain-3+0": 3,
+        "Communication-lib": 1,
+        "COBOL": 2
+    },
+    "c120": {
+        "Objective-C-2+0": 1,
+        "Privacy-js": 1,
+        "Management": 3
+    },
+    "c715": {
+        "TechWriting-js": 1,
+        "Perl-NET": 2,
+        "C++-js": 1
+    },
+    "c817": {
+        "COBOL": 1,
+        "Go-js": 1,
+        "HTML-js": 3
+    },
+    "c1480": {
+        "Dart": 3,
+        "MachineLearning-lib": 4,
+        "VisualBasic": 2
+    },
+    "c932": {
+        "Delphi": 1,
+        "MakingMemes-lib": 2,
+        "Objective-C-2+0": 2
+    },
+    "c1277": {
+        "Parallelization-py": 4,
+        "TypeScript-py": 3,
+        "Ada-py": 1
+    },
+    "c1376": {
+        "Java-3+0": 3,
+        "PublicSpeaking-js": 2,
+        "Kotlin-js": 2
+    },
+    "c645": {
+        "Management-2+0": 2,
+        "Shell-lib": 1,
+        "Perl-3+0": 4
+    },
+    "c1111": {
+        "Accessibility++": 4,
+        "Java-NET": 4,
+        "VideoProduction-3+0": 4
+    },
+    "c1350": {
+        "JavaScript-2+0": 2,
+        "SignalProcessing-3+0": 4,
+        "Bash-py": 4
+    },
+    "c20": {
+        "Dart-lib": 4,
+        "Java-js": 1,
+        "Pascal-py": 4
+    },
+    "c217": {
+        "Communication-NET": 1,
+        "TechWriting-2+0": 3,
+        "R-NET": 3
+    },
+    "c1102": {
+        "Haskell-js": 3,
+        "XML-3+0": 4,
+        "C++-lib": 2
+    },
+    "c938": {
+        "Python": 4,
+        "VisualBasic-NET": 1,
+        "PHP-py": 4
+    },
+    "c245": {
+        "Delphi": 3,
+        "MachineLearning-lib": 4,
+        "CSS-NET": 1
+    },
+    "c477": {
+        "Parallelization-NET": 3,
+        "Bash": 1,
+        "Ajax-3+0": 4
+    },
+    "c1125": {
+        "Delphi": 4,
+        "Accessibility-NET": 4,
+        "Perl-py": 3
+    },
+    "c299": {
+        "Objective-C-py": 3,
+        "Ruby-2+0": 3,
+        "Accessibility++": 2
+    },
+    "c1476": {
+        "C++-js": 2,
+        "CloudComputing-2+0": 4,
+        "Java-lib": 4
+    },
+    "c618": {
+        "VideoProduction++": 4,
+        "TechWriting-js": 4,
+        "Bash": 3
+    },
+    "c680": {
+        "SignalProcessing++": 1,
+        "Science++": 1,
+        "Go-js": 2
+    },
+    "c416": {
+        "R-py": 3,
+        "Go++": 1,
+        "Security-NET": 3
+    },
+    "c818": {
+        "Science-py": 2,
+        "CloudComputing-2+0": 1,
+        "XML-py": 4
+    },
+    "c1062": {
+        "Java-3+0": 2,
+        "Go": 4,
+        "Security-3+0": 2
+    },
+    "c51": {
+        "XML-py": 4,
+        "SignalProcessing++": 2,
+        "Dart": 4
+    },
+    "c372": {
+        "MakingMemes++": 4,
+        "COBOL++": 2,
+        "SQL": 3
+    },
+    "c100": {
+        "Management": 2,
+        "Java-lib": 1,
+        "Pascal-2+0": 3
+    },
+    "c1242": {
+        "Ada-NET": 2,
+        "HTML-js": 4,
+        "Parallelization-NET": 4
+    },
+    "c967": {
+        "MakingMemes++": 4,
+        "CSS-NET": 2,
+        "BigQuery-NET": 2
+    },
+    "c901": {
+        "CloudComputing-2+0": 3,
+        "PublicSpeaking-py": 3,
+        "C-3+0": 1
+    },
+    "c1195": {
+        "Angular-lib": 3,
+        "CloudComputing-2+0": 1,
+        "C++-py": 4
+    },
+    "c893": {
+        "SignalProcessing-2+0": 1,
+        "Communication-py": 1,
+        "COBOL++": 2
+    },
+    "c1264": {
+        "Bash": 3,
+        "HTML-js": 1,
+        "SignalProcessing-3+0": 1
+    },
+    "c969": {
+        "Science-py": 3,
+        "Go-js": 2,
+        "PublicSpeaking-js": 4
+    },
+    "c572": {
+        "COBOL++": 3,
+        "Objective-C-lib": 3,
+        "Java-2+0": 3
+    },
+    "c287": {
+        "Ajax-py": 3,
+        "Delphi-py": 4,
+        "Ruby": 3
+    },
+    "c1058": {
+        "TypeScript-lib": 3,
+        "XML-js": 2,
+        "Bash-NET": 2
+    },
+    "c649": {
+        "C++-NET": 1,
+        "Perl-3+0": 1,
+        "SignalProcessing-py": 2
+    },
+    "c449": {
+        "XML-2+0": 3,
+        "MySQL-lib": 3,
+        "VideoProduction++": 1
+    },
+    "c970": {
+        "TechWriting-2+0": 4,
+        "BusinessAnalysis": 3,
+        "Perl-NET": 4
+    },
+    "c2": {
+        "PHP-js": 3,
+        "Assembly-NET": 4,
+        "JavaScript-2+0": 3
+    },
+    "c1382": {
+        "SignalProcessing-3+0": 3,
+        "Management++": 4,
+        "Delphi-js": 2
+    },
+    "c453": {
+        "MakingMemes-js": 4,
+        "Science-lib": 4,
+        "COBOL++": 1
+    },
+    "c279": {
+        "VisualBasic-NET": 1,
+        "TypeScript": 1,
+        "HTML-2+0": 3
+    },
+    "c865": {
+        "BusinessAnalysis": 1,
+        "Shell-3+0": 3,
+        "Management++": 4
+    },
+    "c444": {
+        "Go": 3,
+        "C++-js": 1,
+        "Dart-js": 1
+    },
+    "c114": {
+        "XML-js": 1,
+        "Dart-lib": 4,
+        "CloudComputing-NET": 4
+    },
+    "c993": {
+        "SQL-js": 2,
+        "Shell-lib": 4,
+        "Science++": 1
+    },
+    "c882": {
+        "C++-lib": 4,
+        "Objective-C-2+0": 1,
+        "Java-js": 3
+    },
+    "c174": {
+        "Dart-js": 3,
+        "Java-3+0": 3,
+        "Java-NET": 1
+    },
+    "c1437": {
+        "C++-lib": 3,
+        "TypeScript": 2,
+        "SignalProcessing-3+0": 4
+    },
+    "c666": {
+        "Blockchain": 3,
+        "Privacy-js": 3,
+        "Kotlin-js": 3
+    },
+    "c1100": {
+        "Angular-2+0": 4,
+        "Haskell-js": 1,
+        "Management": 1
+    },
+    "c431": {
+        "SignalProcessing-2+0": 4,
+        "Blockchain-3+0": 2,
+        "TechWriting++": 4
+    },
+    "c1171": {
+        "MachineLearning-2+0": 4,
+        "HTML++": 3,
+        "R-py": 1
+    },
+    "c502": {
+        "Shell-py": 3,
+        "Analysis": 2,
+        "Pascal-py": 3
+    },
+    "c1478": {
+        "Delphi-py": 1,
+        "Ruby-3+0": 1,
+        "Creativity-js": 3
+    },
+    "c686": {
+        "Python": 3,
+        "Pascal-3+0": 1,
+        "Angular-lib": 3
+    },
+    "c334": {
+        "Security-NET": 3,
+        "Angular-lib": 3,
+        "COBOL-lib": 2
+    },
+    "c1357": {
+        "Ada-py": 1,
+        "AI++": 2,
+        "CloudComputing-NET": 4
+    },
+    "c718": {
+        "HTML-2+0": 4,
+        "Bash-py": 3,
+        "Ruby-2+0": 4
+    },
+    "c69": {
+        "Angular-2+0": 2,
+        "BusinessAnalysis": 4,
+        "Security-NET": 4
+    },
+    "c157": {
+        "Analysis-3+0": 4,
+        "Communication": 1,
+        "VisualBasic": 4
+    },
+    "c1037": {
+        "Perl-3+0": 2,
+        "Java-lib": 1,
+        "Haskell-lib": 3
+    },
+    "c797": {
+        "Haskell-js": 1,
+        "Analysis++": 4,
+        "VideoProduction-3+0": 3
+    },
+    "c1333": {
+        "TypeScript++": 3,
+        "Parallelization-NET": 4,
+        "BigQuery-NET": 3
+    },
+    "c1296": {
+        "Objective-C-py": 1,
+        "Blockchain": 1,
+        "PHP-py": 4
+    },
+    "c1435": {
+        "MachineLearning-2+0": 4,
+        "CloudComputing-NET": 4,
+        "Java-NET": 3
+    },
+    "c1318": {
+        "TypeScript-py": 1,
+        "Pascal-2+0": 4,
+        "CloudComputing-NET": 2
+    },
+    "c1133": {
+        "PublicSpeaking-2+0": 2,
+        "CloudComputing++": 3,
+        "Communication-py": 3
+    },
+    "c869": {
+        "XML-js": 4,
+        "VisualBasic++": 1,
+        "Assembly-NET": 3
+    },
+    "c323": {
+        "MySQL-lib": 3,
+        "Haskell-2+0": 1,
+        "CloudComputing-2+0": 1
+    },
+    "c707": {
+        "COBOL-3+0": 3,
+        "C++-py": 2,
+        "Communication-js": 4
+    },
+    "c1005": {
+        "Angular-lib": 2,
+        "Ada-py": 1,
+        "TechWriting": 2
+    },
+    "c229": {
+        "Analysis": 3,
+        "MATLAB-py": 1,
+        "TypeScript": 2
+    },
+    "c344": {
+        "SignalProcessing-py": 1,
+        "XML-2+0": 4,
+        "Objective-C-2+0": 4
+    },
+    "c1218": {
+        "VisualBasic-NET": 1,
+        "Go-js": 4,
+        "BusinessAnalysis-lib": 3
+    },
+    "c628": {
+        "Haskell-js": 4,
+        "Ajax-2+0": 2,
+        "Go-js": 1
+    },
+    "c142": {
+        "Java-3+0": 1,
+        "Delphi-3+0": 2,
+        "Java-js": 4
+    },
+    "c518": {
+        "SQL++": 3,
+        "Haskell-2+0": 1,
+        "SignalProcessing-js": 3
+    },
+    "c848": {
+        "Swift-NET": 3,
+        "SQL-NET": 3,
+        "TypeScript++": 4
+    },
+    "c964": {
+        "MachineLearning-NET": 2,
+        "Bash": 2,
+        "PHP-3+0": 1
+    },
+    "c1266": {
+        "Java-NET": 2,
+        "Ajax-2+0": 3,
+        "Blockchain-3+0": 1
+    },
+    "c729": {
+        "Ajax-3+0": 3,
+        "HTML-js": 2,
+        "BusinessAnalysis++": 3
+    },
+    "c950": {
+        "UXDesign": 1,
+        "Haskell-lib": 1,
+        "AI-py": 1
+    },
+    "c1145": {
+        "Shell-3+0": 3,
+        "SQL-NET": 4,
+        "Kotlin-js": 4
+    },
+    "c1483": {
+        "Communication-2+0": 4,
+        "Kotlin-3+0": 3,
+        "Management": 3
+    },
+    "c1184": {
+        "Swift-NET": 3,
+        "Bash": 1,
+        "SQL++": 3
+    },
+    "c786": {
+        "Privacy-js": 4,
+        "PHP-3+0": 3,
+        "Blockchain": 2
+    },
+    "c1317": {
+        "Ruby-3+0": 1,
+        "Communication-2+0": 4,
+        "Shell-lib": 4
+    },
+    "c72": {
+        "COBOL": 4,
+        "TechWriting++": 1,
+        "Angular-lib": 1
+    },
+    "c943": {
+        "SignalProcessing-js": 3,
+        "Science++": 3,
+        "Objective-C-py": 3
+    },
+    "c496": {
+        "Communication++": 3,
+        "VideoProduction-js": 3,
+        "Dart-lib": 4
+    },
+    "c388": {
+        "Delphi-js": 1,
+        "Security-js": 2,
+        "TechWriting++": 1
+    },
+    "c1255": {
+        "Blockchain++": 1,
+        "HTML-py": 2,
+        "Science-py": 1
+    },
+    "c819": {
+        "VisualBasic-2+0": 2,
+        "Swift-lib": 1,
+        "Objective-C-py": 1
+    },
+    "c1320": {
+        "Analysis-3+0": 1,
+        "Pascal-py": 4,
+        "Go-js": 4
+    },
+    "c935": {
+        "BigQuery-2+0": 4,
+        "Pascal-py": 2,
+        "Management-2+0": 4
+    },
+    "c445": {
+        "COBOL-3+0": 2,
+        "Ajax-2+0": 4,
+        "Delphi-js": 2
+    },
+    "c1155": {
+        "TechWriting": 4,
+        "MySQL": 4,
+        "VisualBasic": 1
+    },
+    "c1479": {
+        "SQL-js": 2,
+        "Management": 2,
+        "Bash-2+0": 4
+    },
+    "c1166": {
+        "Kotlin-lib": 2,
+        "Haskell-py": 2,
+        "R-2+0": 4
+    },
+    "c898": {
+        "SQL-js": 1,
+        "XML-3+0": 4,
+        "Analysis-3+0": 3
+    },
+    "c1252": {
+        "Parallelization-py": 1,
+        "Haskell": 2,
+        "Privacy-js": 1
+    },
+    "c1088": {
+        "Creativity": 3,
+        "C++-js": 3,
+        "R++": 3
+    },
+    "c1056": {
+        "Management++": 4,
+        "Security-js": 2,
+        "MySQL-lib": 2
+    },
+    "c1364": {
+        "XML-py": 2,
+        "Delphi-lib": 3,
+        "C++-js": 3
+    },
+    "c540": {
+        "Parallelization-py": 2,
+        "Ruby-js": 1,
+        "Management-3+0": 2
+    },
+    "c110": {
+        "Accessibility-js": 1,
+        "Bash-NET": 2,
+        "TechWriting": 2
+    },
+    "c419": {
+        "MakingMemes-lib": 2,
+        "Science++": 4,
+        "Java-2+0": 4
+    },
+    "c190": {
+        "TypeScript++": 4,
+        "MakingMemes-lib": 3,
+        "MySQL-NET": 3
+    },
+    "c197": {
+        "Dart-lib": 2,
+        "Ajax-3+0": 4,
+        "CloudComputing-lib": 2
+    },
+    "c910": {
+        "C++-NET": 2,
+        "Bash-NET": 4,
+        "Angular-lib": 1
+    },
+    "c1151": {
+        "Ruby-2+0": 1,
+        "Swift-lib": 4,
+        "Python-3+0": 4
+    },
+    "c65": {
+        "Management-3+0": 3,
+        "Assembly-lib": 2,
+        "Python-2+0": 1
+    },
+    "c208": {
+        "VisualBasic": 2,
+        "Creativity-NET": 4,
+        "BusinessAnalysis-js": 2
+    },
+    "c1197": {
+        "VideoProduction-lib": 3,
+        "TechWriting-2+0": 3,
+        "Science-lib": 3
+    },
+    "c790": {
+        "Perl-NET": 2,
+        "UXDesign": 4,
+        "COBOL-3+0": 4
+    },
+    "c509": {
+        "Perl-py": 2,
+        "SignalProcessing++": 3,
+        "Objective-C-py": 3
+    },
+    "c60": {
+        "Objective-C-py": 2,
+        "C++-lib": 3,
+        "Ada-NET": 2
+    },
+    "c1418": {
+        "PHP-3+0": 1,
+        "Angular-NET": 1,
+        "Java-js": 3
+    },
+    "c412": {
+        "Bash-NET": 4,
+        "Ruby-2+0": 1,
+        "BigQuery-2+0": 4
+    },
+    "c712": {
+        "Delphi-lib": 2,
+        "Bash-py": 4,
+        "C-2+0": 1
+    },
+    "c959": {
+        "Delphi-py": 3,
+        "TechWriting++": 1,
+        "Accessibility-js": 1
+    },
+    "c278": {
+        "Go++": 2,
+        "Accessibility": 1,
+        "SQL-NET": 1
+    },
+    "c1086": {
+        "C++-js": 1,
+        "C-2+0": 4,
+        "R++": 1
+    },
+    "c1445": {
+        "Objective-C-lib": 1,
+        "TechWriting++": 2,
+        "MachineLearning-NET": 3
+    },
+    "c682": {
+        "BigQuery-2+0": 2,
+        "Creativity-js": 1,
+        "MySQL-lib": 1
+    },
+    "c457": {
+        "Privacy-js": 2,
+        "Analysis": 1,
+        "Creativity": 3
+    },
+    "c173": {
+        "Objective-C-2+0": 1,
+        "MakingMemes-py": 4,
+        "Go": 3
+    },
+    "c826": {
+        "C++-js": 2,
+        "BusinessAnalysis": 1,
+        "Haskell-js": 3
+    },
+    "c638": {
+        "Security-NET": 3,
+        "Blockchain": 4,
+        "Delphi-py": 1
+    },
+    "c795": {
+        "Communication-3+0": 3,
+        "UXDesign-NET": 1,
+        "VisualBasic-2+0": 3
+    },
+    "c426": {
+        "Haskell-2+0": 1,
+        "Angular-2+0": 4,
+        "HTML-js": 3
+    },
+    "c1282": {
+        "HTML-2+0": 2,
+        "Accessibility": 3,
+        "Bash-3+0": 2
+    },
+    "c747": {
+        "Java-js": 4,
+        "Bash-3+0": 2,
+        "TechWriting++": 3
+    },
+    "c704": {
+        "Haskell-2+0": 2,
+        "BusinessAnalysis": 2,
+        "Security-NET": 4
+    },
+    "c441": {
+        "UXDesign": 3,
+        "SignalProcessing-py": 3,
+        "TypeScript": 2
+    },
+    "c498": {
+        "Angular-2+0": 1,
+        "Go-NET": 2,
+        "Analysis": 4
+    },
+    "c1469": {
+        "BusinessAnalysis-3+0": 4,
+        "Management-3+0": 1,
+        "MySQL-lib": 4
+    },
+    "c225": {
+        "Analysis-3+0": 3,
+        "HTML-2+0": 2,
+        "TypeScript++": 1
+    },
+    "c233": {
+        "CloudComputing": 2,
+        "CloudComputing++": 3,
+        "JavaScript-NET": 2
+    },
+    "c586": {
+        "TypeScript++": 3,
+        "SignalProcessing-js": 4,
+        "Java-3+0": 4
+    },
+    "c1299": {
+        "Ruby-js": 3,
+        "CSS-NET": 2,
+        "Shell-py": 1
+    },
+    "c918": {
+        "Shell-py": 1,
+        "XML-2+0": 4,
+        "Parallelization-py": 4
+    },
+    "c1378": {
+        "Management-lib": 1,
+        "Management": 3,
+        "Science-py": 4
+    },
+    "c616": {
+        "Ajax-py": 4,
+        "Delphi-lib": 2,
+        "Shell-2+0": 4
+    },
+    "c1224": {
+        "Shell-3+0": 3,
+        "Communication-3+0": 1,
+        "Go": 1
+    },
+    "c982": {
+        "CSS-NET": 3,
+        "Objective-C-lib": 3,
+        "UXDesign": 1
+    },
+    "c539": {
+        "PublicSpeaking-py": 2,
+        "Pascal-3+0": 2,
+        "Ajax-3+0": 1
+    },
+    "c1268": {
+        "Communication-2+0": 2,
+        "Pascal-py": 3,
+        "Shell-3+0": 2
+    },
+    "c803": {
+        "C++-py": 1,
+        "Shell-3+0": 3,
+        "Haskell-js": 1
+    },
+    "c94": {
+        "Python-3+0": 2,
+        "MakingMemes-lib": 1,
+        "Swift-NET": 4
+    },
+    "c689": {
+        "Pascal-py": 2,
+        "Management++": 1,
+        "TechWriting++": 3
+    },
+    "c900": {
+        "Angular-NET": 2,
+        "Science++": 4,
+        "Ruby-js": 4
+    },
+    "c24": {
+        "XML-3+0": 3,
+        "Pascal-2+0": 2,
+        "BigQuery-2+0": 4
+    },
+    "c1032": {
+        "Swift-NET": 2,
+        "Swift-js": 3,
+        "Ajax-2+0": 3
+    },
+    "c342": {
+        "Dart-3+0": 3,
+        "Blockchain++": 3,
+        "Privacy-lib": 2
+    },
+    "c1429": {
+        "Delphi-py": 1,
+        "Ada-py": 4,
+        "Assembly-lib": 2
+    },
+    "c669": {
+        "XML-js": 3,
+        "VisualBasic-NET": 1,
+        "Assembly-NET": 3
+    },
+    "c379": {
+        "XML-2+0": 2,
+        "VisualBasic-2+0": 2,
+        "Accessibility-js": 1
+    },
+    "c647": {
+        "Pascal-2+0": 2,
+        "Swift-lib": 2,
+        "Perl-NET": 2
+    },
+    "c1118": {
+        "Delphi": 4,
+        "Dart-js": 4,
+        "MakingMemes++": 1
+    },
+    "c919": {
+        "Bash-3+0": 2,
+        "MachineLearning-2+0": 1,
+        "R++": 3
+    },
+    "c466": {
+        "MySQL": 4,
+        "Haskell-js": 2,
+        "Security-3+0": 1
+    },
+    "c395": {
+        "Swift-lib": 3,
+        "PHP-3+0": 1,
+        "Haskell-lib": 3
+    },
+    "c224": {
+        "BusinessAnalysis": 3,
+        "Management-3+0": 1,
+        "Accessibility": 1
+    },
+    "c977": {
+        "Angular-lib": 3,
+        "R-NET": 3,
+        "Python": 2
+    },
+    "c864": {
+        "CSS-NET": 3,
+        "PublicSpeaking-NET": 4,
+        "Go": 3
+    },
+    "c58": {
+        "BusinessAnalysis++": 1,
+        "XML-3+0": 2,
+        "Go": 1
+    },
+    "c508": {
+        "Communication-3+0": 3,
+        "Go-js": 2,
+        "C-2+0": 4
+    },
+    "c255": {
+        "Accessibility++": 2,
+        "VisualBasic-NET": 1,
+        "R-2+0": 2
+    },
+    "c714": {
+        "TechWriting++": 4,
+        "BigQuery-NET": 3,
+        "Dart-js": 1
+    },
+    "c583": {
+        "Privacy-js": 2,
+        "Pascal-2+0": 2,
+        "AI++": 3
+    },
+    "c319": {
+        "VisualBasic-NET": 2,
+        "Analysis-3+0": 3,
+        "Delphi": 2
+    },
+    "c1061": {
+        "Dart": 4,
+        "Dart-js": 4,
+        "Delphi-3+0": 3
+    },
+    "c106": {
+        "Kotlin-lib": 3,
+        "Dart-js": 4,
+        "MakingMemes++": 2
+    },
+    "c640": {
+        "AI++": 2,
+        "Privacy-lib": 2,
+        "CloudComputing-lib": 3
+    },
+    "c391": {
+        "Bash-py": 3,
+        "C++-NET": 4,
+        "MATLAB": 1
+    },
+    "c1319": {
+        "Privacy-js": 1,
+        "Blockchain-3+0": 4,
+        "TypeScript": 4
+    },
+    "c1187": {
+        "SignalProcessing-2+0": 1,
+        "CloudComputing": 4,
+        "Objective-C-lib": 3
+    },
+    "c437": {
+        "Ada-lib": 2,
+        "Accessibility-js": 4,
+        "COBOL-3+0": 2
+    },
+    "c525": {
+        "Bash-js": 1,
+        "Assembly-lib": 2,
+        "MachineLearning-NET": 1
+    },
+    "c330": {
+        "BigQuery-2+0": 2,
+        "Ajax-py": 1,
+        "Communication-2+0": 1
+    },
+    "c536": {
+        "Blockchain++": 3,
+        "Security-NET": 1,
+        "Haskell": 4
+    },
+    "c804": {
+        "VideoProduction-js": 3,
+        "Python-2+0": 4,
+        "CloudComputing-NET": 2
+    },
+    "c833": {
+        "VisualBasic++": 3,
+        "SQL-NET": 3,
+        "Shell-3+0": 1
+    },
+    "c400": {
+        "Security-3+0": 2,
+        "Creativity": 3,
+        "COBOL-lib": 4
+    },
+    "c1419": {
+        "Go-js": 4,
+        "Pascal-3+0": 1,
+        "PublicSpeaking-NET": 1
+    },
+    "c118": {
+        "SignalProcessing-3+0": 1,
+        "C++-js": 3,
+        "BusinessAnalysis++": 4
+    },
+    "c1289": {
+        "VideoProduction++": 1,
+        "BigQuery-2+0": 4,
+        "Blockchain++": 1
+    },
+    "c238": {
+        "Analysis-NET": 4,
+        "Java-NET": 4,
+        "Ruby-3+0": 3
+    },
+    "c630": {
+        "Creativity-NET": 2,
+        "Shell-py": 3,
+        "AI-py": 2
+    },
+    "c126": {
+        "C++-lib": 3,
+        "Bash-py": 3,
+        "Parallelization-py": 4
+    },
+    "c401": {
+        "Perl-lib": 4,
+        "VideoProduction-2+0": 2,
+        "PublicSpeaking-NET": 1
+    },
+    "c1454": {
+        "Analysis": 1,
+        "Communication-js": 4,
+        "Delphi": 1
+    },
+    "c223": {
+        "Accessibility": 1,
+        "Pascal-py": 1,
+        "Security-3+0": 1
+    },
+    "c1040": {
+        "Accessibility-js": 2,
+        "MySQL": 3,
+        "Creativity": 1
+    },
+    "c1481": {
+        "Ada-py": 1,
+        "JavaScript-2+0": 1,
+        "CloudComputing-NET": 1
+    },
+    "c687": {
+        "VideoProduction++": 3,
+        "Kotlin-lib": 4,
+        "SignalProcessing-js": 2
+    },
+    "c293": {
+        "Go-NET": 1,
+        "HTML++": 3,
+        "BigQuery-NET": 3
+    },
+    "c1012": {
+        "R-NET": 4,
+        "VisualBasic-NET": 4,
+        "Angular-py": 2
+    },
+    "c409": {
+        "SQL++": 2,
+        "Bash-2+0": 3,
+        "Angular-py": 3
+    },
+    "c690": {
+        "Dart-js": 2,
+        "Accessibility++": 4,
+        "Pascal-2+0": 2
+    },
+    "c961": {
+        "Science++": 1,
+        "Java-NET": 4,
+        "Bash-2+0": 2
+    },
+    "c79": {
+        "R-NET": 3,
+        "Bash-js": 2,
+        "HTML-py": 4
+    },
+    "c1076": {
+        "Management-lib": 1,
+        "C++-js": 4,
+        "TypeScript": 1
+    },
+    "c1425": {
+        "PHP-3+0": 3,
+        "CloudComputing-2+0": 2,
+        "Shell-py": 3
+    },
+    "c1457": {
+        "C++-lib": 4,
+        "BusinessAnalysis-lib": 3,
+        "BigQuery-2+0": 4
+    },
+    "c846": {
+        "R++": 2,
+        "PublicSpeaking-2+0": 1,
+        "Shell-lib": 1
+    },
+    "c1185": {
+        "JavaScript-2+0": 2,
+        "UXDesign-NET": 4,
+        "MachineLearning-2+0": 3
+    },
+    "c408": {
+        "JavaScript-NET": 2,
+        "MATLAB": 1,
+        "Bash-2+0": 1
+    },
+    "c261": {
+        "Shell-py": 2,
+        "Assembly-py": 2,
+        "Haskell-js": 4
+    },
+    "c731": {
+        "R-2+0": 4,
+        "Haskell-lib": 4,
+        "Management": 3
+    },
+    "c1279": {
+        "COBOL-3+0": 3,
+        "Java-lib": 1,
+        "PHP-py": 4
+    },
+    "c978": {
+        "Analysis-NET": 2,
+        "Dart-3+0": 2,
+        "VisualBasic": 1
+    },
+    "c1379": {
+        "VisualBasic-2+0": 3,
+        "HTML-py": 4,
+        "Perl-lib": 1
+    },
+    "c1309": {
+        "Dart-lib": 3,
+        "MachineLearning-2+0": 4,
+        "Analysis-3+0": 3
+    },
+    "c1305": {
+        "Swift": 2,
+        "MySQL": 3,
+        "Ada-lib": 4
+    },
+    "c450": {
+        "PHP-3+0": 2,
+        "Perl-3+0": 4,
+        "VisualBasic": 1
+    },
+    "c112": {
+        "TypeScript": 1,
+        "Ajax-3+0": 4,
+        "TechWriting-js": 2
+    },
+    "c1059": {
+        "Ajax-2+0": 2,
+        "Java-3+0": 4,
+        "SignalProcessing-py": 4
+    },
+    "c1464": {
+        "Java-NET": 3,
+        "Perl-py": 4,
+        "UXDesign": 4
+    },
+    "c171": {
+        "VideoProduction": 2,
+        "Python-2+0": 1,
+        "Creativity": 3
+    },
+    "c32": {
+        "Shell-3+0": 1,
+        "MachineLearning-lib": 2,
+        "Java-lib": 2
+    },
+    "c627": {
+        "Dart": 3,
+        "TechWriting-js": 3,
+        "Delphi-py": 2
+    },
+    "c789": {
+        "Analysis-3+0": 2,
+        "Blockchain": 4,
+        "MySQL-NET": 2
+    },
+    "c240": {
+        "SignalProcessing-py": 1,
+        "TechWriting-js": 3,
+        "MakingMemes-js": 4
+    },
+    "c742": {
+        "Angular-lib": 1,
+        "Pascal-2+0": 1,
+        "XML-py": 4
+    },
+    "c67": {
+        "XML-py": 2,
+        "Accessibility-js": 3,
+        "Shell-3+0": 1
+    },
+    "c290": {
+        "Perl-3+0": 4,
+        "BusinessAnalysis": 4,
+        "Bash-py": 1
+    },
+    "c504": {
+        "VisualBasic-2+0": 3,
+        "SQL-NET": 4,
+        "C-3+0": 1
+    },
+    "c396": {
+        "VideoProduction++": 3,
+        "MySQL-lib": 4,
+        "Blockchain-3+0": 1
+    },
+    "c579": {
+        "Perl-NET": 1,
+        "HTML++": 2,
+        "Go-NET": 3
+    },
+    "c38": {
+        "Angular-2+0": 4,
+        "Pascal-2+0": 3,
+        "Ada-py": 1
+    },
+    "c414": {
+        "SQL-NET": 2,
+        "Delphi-js": 3,
+        "Objective-C-lib": 1
+    },
+    "c1344": {
+        "R++": 4,
+        "CloudComputing": 4,
+        "PublicSpeaking-NET": 2
+    },
+    "c370": {
+        "SQL": 2,
+        "CloudComputing-NET": 2,
+        "Creativity-NET": 4
+    },
+    "c1373": {
+        "Management": 1,
+        "Haskell": 3,
+        "Communication++": 3
+    },
+    "c1123": {
+        "Delphi-py": 1,
+        "SignalProcessing-py": 4,
+        "BigQuery-NET": 1
+    },
+    "c378": {
+        "VisualBasic++": 3,
+        "Science-lib": 1,
+        "Java-3+0": 1
+    },
+    "c1217": {
+        "Creativity-NET": 3,
+        "Delphi-3+0": 1,
+        "COBOL++": 4
+    },
+    "c821": {
+        "Assembly-NET": 3,
+        "JavaScript-NET": 1,
+        "Communication-lib": 4
+    },
+    "c763": {
+        "Privacy-lib": 4,
+        "Communication-3+0": 4,
+        "Ada-NET": 2
+    },
+    "c998": {
+        "VisualBasic++": 2,
+        "C++-lib": 3,
+        "Ajax-3+0": 2
+    },
+    "c307": {
+        "Communication-lib": 4,
+        "JavaScript-NET": 2,
+        "Accessibility++": 2
+    },
+    "c479": {
+        "MATLAB-py": 3,
+        "Shell-lib": 2,
+        "Bash-py": 2
+    },
+    "c773": {
+        "Go-js": 2,
+        "BusinessAnalysis-lib": 2,
+        "Perl-3+0": 2
+    },
+    "c1488": {
+        "Kotlin-js": 3,
+        "Haskell-2+0": 1,
+        "Science++": 1
+    },
+    "c462": {
+        "Objective-C-lib": 2,
+        "Angular-py": 4,
+        "Creativity-js": 1
+    },
+    "c1175": {
+        "Ruby-3+0": 2,
+        "Python": 4,
+        "MySQL": 1
+    },
+    "c528": {
+        "Ajax-py": 4,
+        "HTML-2+0": 3,
+        "Swift-lib": 2
+    },
+    "c913": {
+        "Ruby-3+0": 3,
+        "SQL-NET": 3,
+        "COBOL-3+0": 4
+    },
+    "c1408": {
+        "MySQL-NET": 3,
+        "BusinessAnalysis++": 2,
+        "Analysis-3+0": 3
+    },
+    "c1455": {
+        "Bash": 4,
+        "Haskell-js": 2,
+        "Communication-lib": 3
+    },
+    "c364": {
+        "Shell-py": 2,
+        "Assembly-NET": 1,
+        "Ajax-3+0": 1
+    },
+    "c436": {
+        "Ada-lib": 2,
+        "Java-js": 1,
+        "Analysis++": 4
+    },
+    "c1372": {
+        "COBOL-3+0": 4,
+        "CloudComputing++": 2,
+        "Assembly-py": 1
+    },
+    "c1240": {
+        "MATLAB++": 2,
+        "Java-js": 3,
+        "Bash-3+0": 3
+    },
+    "c598": {
+        "Perl-py": 2,
+        "PublicSpeaking-NET": 4,
+        "Swift-js": 2
+    },
+    "c1492": {
+        "Ajax-py": 1,
+        "Creativity": 2,
+        "MachineLearning-lib": 2
+    },
+    "c559": {
+        "HTML-py": 3,
+        "JavaScript-NET": 3,
+        "Delphi": 4
+    },
+    "c548": {
+        "MakingMemes-py": 2,
+        "R-2+0": 3,
+        "Creativity": 1
+    },
+    "c1462": {
+        "Blockchain": 3,
+        "BusinessAnalysis++": 4,
+        "R-NET": 2
+    },
+    "c1041": {
+        "VisualBasic-2+0": 2,
+        "Kotlin-3+0": 4,
+        "TypeScript": 1
+    },
+    "c443": {
+        "Swift-js": 3,
+        "MakingMemes-py": 4,
+        "Ruby-js": 1
+    },
+    "c387": {
+        "Assembly-py": 4,
+        "Haskell": 1,
+        "Bash-js": 3
+    },
+    "c476": {
+        "Communication-lib": 1,
+        "BigQuery-NET": 1,
+        "Ruby-js": 1
+    },
+    "c1141": {
+        "PHP-js": 1,
+        "SignalProcessing-3+0": 4,
+        "SignalProcessing-py": 3
+    },
+    "c1078": {
+        "SQL-js": 1,
+        "CloudComputing-lib": 2,
+        "Haskell-lib": 3
+    },
+    "c486": {
+        "CloudComputing-lib": 1,
+        "Go": 1,
+        "Management-2+0": 2
+    },
+    "c860": {
+        "Go++": 1,
+        "Perl-lib": 4,
+        "MATLAB++": 3
+    },
+    "c1050": {
+        "PHP-3+0": 3,
+        "JavaScript-2+0": 1,
+        "Python-3+0": 1
+    },
+    "c1391": {
+        "UXDesign": 3,
+        "Parallelization-py": 1,
+        "MakingMemes-lib": 2
+    },
+    "c1298": {
+        "Angular-NET": 3,
+        "PHP-js": 2,
+        "BusinessAnalysis-3+0": 2
+    },
+    "c1286": {
+        "MATLAB": 3,
+        "VisualBasic++": 3,
+        "Python": 3
+    },
+    "c165": {
+        "UXDesign": 4,
+        "XML-3+0": 1,
+        "Communication++": 3
+    },
+    "c702": {
+        "Java-2+0": 3,
+        "Go++": 4,
+        "Go": 2
+    },
+    "c1260": {
+        "C++-js": 4,
+        "MachineLearning-2+0": 3,
+        "PHP-2+0": 1
+    },
+    "c809": {
+        "CloudComputing": 2,
+        "MySQL": 4,
+        "Shell-py": 2
+    },
+    "c1028": {
+        "Java-lib": 1,
+        "Analysis-NET": 2,
+        "Privacy-js": 3
+    },
+    "c980": {
+        "R-2+0": 3,
+        "HTML-2+0": 3,
+        "Blockchain-3+0": 3
+    },
+    "c252": {
+        "CloudComputing": 3,
+        "MATLAB": 3,
+        "Perl-3+0": 3
+    },
+    "c1149": {
+        "UXDesign": 1,
+        "VideoProduction++": 4,
+        "C++-py": 3
+    },
+    "c64": {
+        "Communication-lib": 1,
+        "SQL": 2,
+        "TechWriting": 2
+    },
+    "c1045": {
+        "XML-js": 3,
+        "BusinessAnalysis++": 2,
+        "Delphi-3+0": 4
+    },
+    "c1117": {
+        "VideoProduction-2+0": 3,
+        "XML-3+0": 4,
+        "Shell-py": 3
+    },
+    "c1047": {
+        "C++-lib": 3,
+        "Delphi-py": 1,
+        "Bash-3+0": 4
+    },
+    "c554": {
+        "Blockchain++": 1,
+        "XML-3+0": 2,
+        "MachineLearning-2+0": 4
+    },
+    "c403": {
+        "VisualBasic-NET": 4,
+        "Ada-NET": 2,
+        "VideoProduction-lib": 3
+    },
+    "c475": {
+        "BusinessAnalysis-js": 2,
+        "Shell-py": 1,
+        "MySQL": 4
+    },
+    "c1284": {
+        "XML-py": 2,
+        "Science-py": 2,
+        "CloudComputing-2+0": 1
+    },
+    "c15": {
+        "TechWriting-js": 4,
+        "Go": 4,
+        "JavaScript": 4
+    },
+    "c1173": {
+        "Management": 1,
+        "VideoProduction-2+0": 1,
+        "TypeScript": 4
+    },
+    "c717": {
+        "TypeScript-lib": 4,
+        "Communication-3+0": 3,
+        "MySQL-NET": 2
+    },
+    "c202": {
+        "Management-2+0": 2,
+        "Blockchain": 1,
+        "Swift-NET": 3
+    },
+    "c1325": {
+        "MachineLearning-lib": 1,
+        "Bash-NET": 1,
+        "Objective-C-lib": 2
+    },
+    "c514": {
+        "Python-2+0": 1,
+        "TypeScript-lib": 1,
+        "Go-NET": 2
+    },
+    "c580": {
+        "Angular-lib": 3,
+        "Perl-lib": 4,
+        "Perl-py": 3
+    },
+    "c1412": {
+        "Management-3+0": 3,
+        "VisualBasic": 1,
+        "VideoProduction-2+0": 3
+    },
+    "c1070": {
+        "Communication-lib": 4,
+        "BigQuery-2+0": 3,
+        "Parallelization-NET": 1
+    },
+    "c946": {
+        "Swift": 4,
+        "HTML-js": 1,
+        "Communication": 4
+    },
+    "c478": {
+        "Assembly-py": 2,
+        "Privacy-js": 3,
+        "Python-2+0": 1
+    },
+    "c597": {
+        "R-2+0": 3,
+        "XML-2+0": 4,
+        "UXDesign": 4
+    },
+    "c380": {
+        "Pascal-py": 4,
+        "VisualBasic": 4,
+        "Management-3+0": 2
+    },
+    "c894": {
+        "MakingMemes-py": 2,
+        "UXDesign-NET": 4,
+        "SignalProcessing-py": 3
+    },
+    "c979": {
+        "Security-3+0": 4,
+        "Communication-NET": 2,
+        "Management-3+0": 2
+    },
+    "c226": {
+        "Java-lib": 3,
+        "MachineLearning-NET": 1,
+        "MySQL": 4
+    },
+    "c761": {
+        "Kotlin-js": 4,
+        "Creativity": 2,
+        "HTML-2+0": 2
+    },
+    "c785": {
+        "Science-py": 3,
+        "Perl-NET": 3,
+        "Ruby-3+0": 1
+    },
+    "c1304": {
+        "Angular-2+0": 2,
+        "Management": 2,
+        "Kotlin-lib": 2
+    },
+    "c635": {
+        "Delphi": 3,
+        "XML-js": 2,
+        "CloudComputing-lib": 4
+    },
+    "c105": {
+        "Angular-lib": 4,
+        "Haskell-lib": 1,
+        "MakingMemes-js": 3
+    },
+    "c610": {
+        "Pascal-2+0": 1,
+        "SQL": 3,
+        "Perl-NET": 4
+    },
+    "c522": {
+        "VideoProduction": 3,
+        "Management": 4,
+        "VideoProduction-2+0": 4
+    },
+    "c787": {
+        "COBOL-3+0": 1,
+        "Management-lib": 4,
+        "Communication-NET": 4
+    },
+    "c739": {
+        "Security-NET": 3,
+        "VideoProduction-3+0": 3,
+        "Assembly-2+0": 3
+    },
+    "c413": {
+        "R-NET": 1,
+        "VisualBasic++": 1,
+        "Accessibility++": 2
+    },
+    "c544": {
+        "Angular-lib": 1,
+        "Security-NET": 1,
+        "SQL-js": 4
+    },
+    "c997": {
+        "MySQL": 4,
+        "C++-py": 3,
+        "Communication-py": 3
+    },
+    "c1403": {
+        "VisualBasic-NET": 1,
+        "R-py": 1,
+        "Swift-lib": 2
+    },
+    "c1034": {
+        "Assembly-NET": 4,
+        "Accessibility-js": 2,
+        "UXDesign-NET": 3
+    },
+    "c1023": {
+        "Haskell-lib": 4,
+        "R-NET": 1,
+        "VideoProduction-3+0": 1
+    },
+    "c1201": {
+        "Java-3+0": 4,
+        "Creativity-NET": 4,
+        "Haskell-2+0": 4
+    },
+    "c774": {
+        "Shell-3+0": 3,
+        "Ajax-py": 4,
+        "SQL-2+0": 4
+    },
+    "c420": {
+        "R-py": 4,
+        "CloudComputing-NET": 4,
+        "Pascal-3+0": 2
+    },
+    "c801": {
+        "PublicSpeaking-py": 3,
+        "Science-py": 1,
+        "PHP-js": 4
+    },
+    "c975": {
+        "Creativity-js": 2,
+        "Creativity-NET": 3,
+        "SignalProcessing-js": 1
+    },
+    "c1290": {
+        "Communication-NET": 4,
+        "VideoProduction-lib": 1,
+        "Shell-lib": 2
+    },
+    "c1019": {
+        "PHP-py": 1,
+        "Java-NET": 1,
+        "Perl-lib": 1
+    },
+    "c611": {
+        "Haskell": 3,
+        "VideoProduction++": 2,
+        "XML-js": 4
+    },
+    "c1432": {
+        "BusinessAnalysis-lib": 3,
+        "Dart": 3,
+        "PHP-py": 4
+    },
+    "c770": {
+        "PHP-3+0": 1,
+        "UXDesign": 1,
+        "Bash-2+0": 4
+    },
+    "c82": {
+        "R++": 4,
+        "CSS-NET": 2,
+        "Ruby-js": 4
+    },
+    "c968": {
+        "Java-NET": 4,
+        "Ada-py": 1,
+        "Dart-3+0": 1
+    },
+    "c872": {
+        "SignalProcessing-py": 4,
+        "JavaScript-NET": 4,
+        "XML-3+0": 4
+    },
+    "c1113": {
+        "Science-py": 1,
+        "Delphi-3+0": 1,
+        "SignalProcessing-2+0": 2
+    },
+    "c547": {
+        "Swift-NET": 4,
+        "CSS-NET": 4,
+        "Java-3+0": 2
+    },
+    "c1287": {
+        "Management++": 3,
+        "AI-py": 3,
+        "SignalProcessing-js": 3
+    },
+    "c49": {
+        "Accessibility": 4,
+        "Communication++": 2,
+        "Blockchain-3+0": 4
+    },
+    "c487": {
+        "UXDesign": 2,
+        "VideoProduction-3+0": 2,
+        "Accessibility-js": 2
+    },
+    "c236": {
+        "Parallelization-py": 4,
+        "PublicSpeaking-js": 3,
+        "MakingMemes++": 3
+    },
+    "c917": {
+        "C++-py": 4,
+        "Communication-3+0": 2,
+        "Objective-C-2+0": 1
+    },
+    "c470": {
+        "Java-2+0": 1,
+        "Go-NET": 3,
+        "XML-py": 2
+    },
+    "c210": {
+        "BigQuery-NET": 4,
+        "Management": 3,
+        "Haskell-js": 4
+    },
+    "c1063": {
+        "Creativity": 2,
+        "Python": 4,
+        "Objective-C-py": 4
+    },
+    "c302": {
+        "PublicSpeaking-NET": 3,
+        "Delphi-3+0": 1,
+        "Privacy-js": 4
+    },
+    "c775": {
+        "Haskell-js": 4,
+        "Bash-3+0": 3,
+        "Privacy-js": 2
+    },
+    "c234": {
+        "VideoProduction-3+0": 4,
+        "Communication-2+0": 2,
+        "Assembly-py": 2
+    },
+    "c1099": {
+        "XML-2+0": 1,
+        "HTML-2+0": 3,
+        "CloudComputing": 3
+    },
+    "c218": {
+        "Swift-NET": 4,
+        "Kotlin-lib": 1,
+        "Pascal-py": 2
+    },
+    "c981": {
+        "MachineLearning-2+0": 3,
+        "Angular-lib": 3,
+        "MySQL-NET": 4
+    },
+    "c351": {
+        "Java-3+0": 2,
+        "SQL-NET": 2,
+        "MySQL-NET": 4
+    },
+    "c1230": {
+        "MakingMemes-py": 3,
+        "Communication++": 1,
+        "TechWriting++": 3
+    },
+    "c906": {
+        "Haskell-js": 4,
+        "SignalProcessing++": 3,
+        "BigQuery-NET": 3
+    },
+    "c887": {
+        "VisualBasic-NET": 2,
+        "Perl-py": 3,
+        "UXDesign": 3
+    },
+    "c62": {
+        "MachineLearning-2+0": 2,
+        "Blockchain-3+0": 4,
+        "TypeScript-lib": 2
+    },
+    "c604": {
+        "Ruby-js": 2,
+        "Blockchain++": 1,
+        "Perl-3+0": 3
+    },
+    "c1461": {
+        "TechWriting++": 3,
+        "MATLAB-py": 1,
+        "MakingMemes++": 1
+    },
+    "c298": {
+        "Bash-2+0": 4,
+        "Creativity-NET": 1,
+        "Management-2+0": 3
+    },
+    "c665": {
+        "TechWriting-2+0": 1,
+        "Assembly-lib": 2,
+        "Ada-py": 1
+    },
+    "c29": {
+        "JavaScript": 1,
+        "XML-js": 1,
+        "Ruby-3+0": 3
+    },
+    "c1368": {
+        "PHP-2+0": 3,
+        "Java-2+0": 2,
+        "BusinessAnalysis-lib": 1
+    },
+    "c1180": {
+        "XML-2+0": 1,
+        "Swift-js": 4,
+        "C++-lib": 4
+    },
+    "c965": {
+        "MachineLearning-lib": 1,
+        "Analysis++": 4,
+        "Dart": 4
+    },
+    "c490": {
+        "MySQL-lib": 4,
+        "CloudComputing-NET": 3,
+        "MATLAB": 4
+    },
+    "c1103": {
+        "PublicSpeaking-2+0": 2,
+        "Security-js": 2,
+        "Delphi": 1
+    },
+    "c274": {
+        "Objective-C-lib": 1,
+        "PublicSpeaking-js": 4,
+        "PublicSpeaking-2+0": 2
+    },
+    "c534": {
+        "Assembly-lib": 4,
+        "Ada-lib": 2,
+        "BigQuery-NET": 1
+    },
+    "c942": {
+        "BusinessAnalysis-3+0": 2,
+        "Perl-lib": 2,
+        "Shell-py": 1
+    },
+    "c250": {
+        "VideoProduction-js": 4,
+        "CloudComputing-2+0": 3,
+        "MachineLearning-NET": 4
+    },
+    "c1407": {
+        "CloudComputing-NET": 2,
+        "Blockchain": 3,
+        "Accessibility": 1
+    },
+    "c728": {
+        "AI++": 4,
+        "XML-js": 3,
+        "Management-2+0": 1
+    },
+    "c468": {
+        "TechWriting": 3,
+        "MachineLearning-lib": 1,
+        "Analysis": 3
+    },
+    "c855": {
+        "Objective-C-lib": 3,
+        "COBOL": 4,
+        "Bash": 1
+    },
+    "c407": {
+        "Perl-py": 1,
+        "Ajax-3+0": 3,
+        "Objective-C-2+0": 3
+    },
+    "c985": {
+        "Swift-NET": 4,
+        "C++-lib": 1,
+        "Communication-py": 2
+    },
+    "c764": {
+        "Ada-py": 1,
+        "Swift-js": 2,
+        "MakingMemes-js": 3
+    },
+    "c384": {
+        "Science-lib": 1,
+        "Go": 1,
+        "TechWriting": 2
+    },
+    "c568": {
+        "XML-js": 2,
+        "TypeScript": 1,
+        "TechWriting": 4
+    },
+    "c301": {
+        "VisualBasic++": 3,
+        "Ajax-py": 4,
+        "Blockchain-3+0": 1
+    },
+    "c1017": {
+        "UXDesign": 4,
+        "Accessibility-NET": 4,
+        "CloudComputing-2+0": 4
+    },
+    "c75": {
+        "COBOL++": 4,
+        "Go": 1,
+        "VisualBasic-NET": 4
+    },
+    "c1137": {
+        "Shell-3+0": 3,
+        "PHP-3+0": 1,
+        "MakingMemes-js": 4
+    },
+    "c556": {
+        "Bash-js": 1,
+        "Perl-py": 3,
+        "Bash-3+0": 3
+    },
+    "c793": {
+        "Perl-3+0": 3,
+        "Assembly-lib": 3,
+        "Ajax-2+0": 1
+    },
+    "c673": {
+        "PublicSpeaking-2+0": 1,
+        "Parallelization-py": 4,
+        "Delphi-lib": 2
+    },
+    "c941": {
+        "BusinessAnalysis": 3,
+        "MATLAB": 4,
+        "Dart-3+0": 3
+    },
+    "c143": {
+        "Java-lib": 1,
+        "XML-py": 3,
+        "Swift-lib": 2
+    },
+    "c1167": {
+        "Swift-NET": 4,
+        "MATLAB": 4,
+        "SignalProcessing-js": 3
+    },
+    "c1358": {
+        "Communication-lib": 3,
+        "MakingMemes-lib": 4,
+        "AI++": 3
+    },
+    "c346": {
+        "Ajax-py": 3,
+        "BusinessAnalysis-3+0": 4,
+        "SQL-NET": 2
+    },
+    "c778": {
+        "Privacy-js": 4,
+        "Shell-lib": 2,
+        "C-3+0": 2
+    },
+    "c811": {
+        "MachineLearning-NET": 4,
+        "TypeScript": 4,
+        "Java-lib": 4
+    },
+    "c1381": {
+        "HTML-py": 1,
+        "Perl-py": 3,
+        "VisualBasic++": 3
+    },
+    "c881": {
+        "Ada-NET": 1,
+        "R++": 3,
+        "Management": 1
+    },
+    "c132": {
+        "Ada-lib": 3,
+        "Creativity-js": 1,
+        "C++-js": 2
+    },
+    "c566": {
+        "Angular-py": 4,
+        "CloudComputing++": 4,
+        "Assembly-lib": 4
+    },
+    "c203": {
+        "SignalProcessing-js": 4,
+        "R-2+0": 2,
+        "Java-2+0": 2
+    },
+    "c1219": {
+        "CloudComputing-2+0": 4,
+        "Perl-3+0": 1,
+        "MakingMemes-py": 2
+    },
+    "c1250": {
+        "TechWriting++": 4,
+        "Pascal-2+0": 3,
+        "MakingMemes-lib": 2
+    },
+    "c284": {
+        "HTML-js": 2,
+        "BusinessAnalysis": 3,
+        "SignalProcessing-2+0": 2
+    },
+    "c672": {
+        "C++-NET": 3,
+        "Communication-lib": 2,
+        "Pascal-py": 1
+    },
+    "c1104": {
+        "AI++": 3,
+        "C-3+0": 2,
+        "BusinessAnalysis++": 1
+    },
+    "c879": {
+        "SignalProcessing++": 1,
+        "TechWriting++": 1,
+        "PublicSpeaking-py": 3
+    },
+    "c916": {
+        "XML-3+0": 2,
+        "BusinessAnalysis-lib": 4,
+        "Pascal-py": 2
+    },
+    "c1033": {
+        "Haskell-js": 2,
+        "Analysis++": 1,
+        "AI++": 2
+    },
+    "c1275": {
+        "MySQL-lib": 1,
+        "Bash-js": 4,
+        "BigQuery-NET": 1
+    },
+    "c19": {
+        "Science++": 4,
+        "Bash-py": 1,
+        "SignalProcessing-py": 2
+    },
+    "c678": {
+        "SignalProcessing-py": 2,
+        "BigQuery-NET": 2,
+        "COBOL": 1
+    },
+    "c1328": {
+        "BigQuery-NET": 2,
+        "Go-js": 3,
+        "Delphi-3+0": 1
+    },
+    "c1265": {
+        "Privacy-lib": 1,
+        "Assembly-2+0": 1,
+        "Ada-NET": 3
+    },
+    "c1054": {
+        "Haskell": 3,
+        "Shell-lib": 1,
+        "CloudComputing-NET": 4
+    },
+    "c54": {
+        "Kotlin-3+0": 3,
+        "COBOL": 4,
+        "Analysis": 1
+    },
+    "c189": {
+        "VideoProduction-lib": 3,
+        "PHP-3+0": 2,
+        "Creativity": 3
+    },
+    "c134": {
+        "SQL++": 3,
+        "SignalProcessing-2+0": 2,
+        "Haskell": 1
+    },
+    "c584": {
+        "Assembly-2+0": 3,
+        "Go-NET": 1,
+        "Accessibility": 3
+    },
+    "c875": {
+        "Go-NET": 2,
+        "MakingMemes++": 3,
+        "VideoProduction-js": 3
+    },
+    "c1474": {
+        "TypeScript-py": 4,
+        "Communication-js": 3,
+        "MakingMemes-py": 4
+    },
+    "c353": {
+        "Pascal-py": 3,
+        "Creativity-NET": 3,
+        "VideoProduction-js": 1
+    },
+    "c1356": {
+        "Communication-2+0": 2,
+        "Delphi-py": 2,
+        "Shell-3+0": 4
+    },
+    "c21": {
+        "UXDesign-NET": 2,
+        "UXDesign": 3,
+        "Management-lib": 3
+    },
+    "c759": {
+        "TechWriting++": 2,
+        "Assembly-lib": 4,
+        "Communication-3+0": 1
+    },
+    "c1143": {
+        "PHP-js": 1,
+        "XML-2+0": 1,
+        "COBOL-3+0": 4
+    },
+    "c1036": {
+        "MachineLearning-2+0": 3,
+        "Shell-2+0": 4,
+        "UXDesign-NET": 3
+    },
+    "c1018": {
+        "Science-py": 3,
+        "Communication-NET": 1,
+        "CloudComputing-2+0": 1
+    },
+    "c877": {
+        "Privacy-js": 2,
+        "Ajax-py": 2,
+        "Dart": 2
+    },
+    "c1463": {
+        "UXDesign": 4,
+        "TypeScript-py": 4,
+        "CloudComputing-NET": 3
+    },
+    "c404": {
+        "MachineLearning-lib": 2,
+        "Dart-lib": 1,
+        "Communication": 4
+    },
+    "c1226": {
+        "BusinessAnalysis": 4,
+        "BusinessAnalysis-3+0": 1,
+        "Objective-C-2+0": 4
+    },
+    "c700": {
+        "Ruby-3+0": 2,
+        "HTML-py": 2,
+        "Security-3+0": 1
+    },
+    "c1482": {
+        "Swift-NET": 3,
+        "JavaScript-NET": 4,
+        "CloudComputing-2+0": 3
+    },
+    "c1051": {
+        "Pascal-2+0": 1,
+        "Communication-js": 4,
+        "CSS-NET": 4
+    },
+    "c187": {
+        "Science-py": 2,
+        "Security-js": 3,
+        "Delphi-js": 3
+    },
+    "c844": {
+        "MachineLearning-lib": 3,
+        "Python-3+0": 1,
+        "Analysis-NET": 4
+    },
+    "c748": {
+        "Communication-lib": 2,
+        "C-2+0": 3,
+        "Ruby-2+0": 3
+    },
+    "c130": {
+        "Python": 4,
+        "SignalProcessing-2+0": 1,
+        "MATLAB-py": 1
+    },
+    "c303": {
+        "Haskell-py": 3,
+        "COBOL-lib": 4,
+        "Accessibility-NET": 1
+    },
+    "c327": {
+        "SignalProcessing++": 1,
+        "Perl-lib": 1,
+        "JavaScript-2+0": 4
+    },
+    "c542": {
+        "TypeScript": 3,
+        "Bash": 4,
+        "PHP-py": 2
+    },
+    "c716": {
+        "Security-3+0": 1,
+        "Communication-2+0": 2,
+        "MachineLearning-lib": 4
+    },
+    "c735": {
+        "Privacy-js": 4,
+        "C++-lib": 4,
+        "PHP-py": 3
+    },
+    "c1222": {
+        "TechWriting-js": 2,
+        "MakingMemes++": 2,
+        "VideoProduction++": 3
+    },
+    "c264": {
+        "Analysis-NET": 2,
+        "MySQL-lib": 1,
+        "AI++": 1
+    },
+    "c1214": {
+        "VideoProduction-2+0": 1,
+        "SQL-NET": 4,
+        "Analysis++": 3
+    },
+    "c108": {
+        "COBOL++": 2,
+        "Accessibility-js": 2,
+        "Delphi-py": 3
+    },
+    "c1068": {
+        "SignalProcessing-py": 1,
+        "TechWriting++": 4,
+        "MachineLearning-lib": 2
+    },
+    "c648": {
+        "C++-lib": 2,
+        "Perl-3+0": 2,
+        "COBOL++": 1
+    },
+    "c1354": {
+        "Accessibility-NET": 2,
+        "Parallelization-NET": 2,
+        "Java-3+0": 3
+    },
+    "c242": {
+        "MySQL-lib": 3,
+        "MachineLearning-2+0": 3,
+        "CloudComputing++": 1
+    },
+    "c1060": {
+        "Bash-NET": 3,
+        "Ajax-2+0": 4,
+        "MakingMemes-lib": 3
+    },
+    "c1084": {
+        "SignalProcessing-2+0": 2,
+        "Haskell-2+0": 4,
+        "Shell-py": 3
+    },
+    "c77": {
+        "Delphi-js": 1,
+        "Perl-3+0": 2,
+        "Haskell-js": 4
+    },
+    "c172": {
+        "R-NET": 3,
+        "VideoProduction-3+0": 2,
+        "Privacy-js": 4
+    },
+    "c1297": {
+        "Science-py": 2,
+        "VisualBasic++": 4,
+        "UXDesign": 3
+    },
+    "c1030": {
+        "Analysis++": 3,
+        "HTML-py": 1,
+        "Bash": 4
+    },
+    "c827": {
+        "PublicSpeaking-js": 3,
+        "MachineLearning-lib": 1,
+        "Ruby-3+0": 4
+    },
+    "c422": {
+        "Shell-2+0": 1,
+        "Pascal-3+0": 1,
+        "Bash-3+0": 2
+    },
+    "c434": {
+        "JavaScript": 2,
+        "Swift-NET": 1,
+        "TypeScript-py": 4
+    },
+    "c1283": {
+        "Java-2+0": 1,
+        "R++": 1,
+        "C++-py": 2
+    },
+    "c1438": {
+        "Management-lib": 4,
+        "Blockchain++": 3,
+        "PublicSpeaking-py": 1
+    },
+    "c14": {
+        "Java-3+0": 2,
+        "Haskell-js": 1,
+        "Communication-py": 3
+    },
+    "c1213": {
+        "XML-py": 2,
+        "TypeScript-lib": 3,
+        "Management": 1
+    },
+    "c424": {
+        "HTML++": 4,
+        "Bash-3+0": 3,
+        "SQL": 1
+    },
+    "c1337": {
+        "PublicSpeaking-py": 1,
+        "TypeScript-py": 3,
+        "TypeScript-lib": 3
+    },
+    "c467": {
+        "PublicSpeaking-2+0": 4,
+        "Ruby-js": 2,
+        "R-2+0": 4
+    },
+    "c1406": {
+        "CloudComputing++": 3,
+        "VideoProduction": 1,
+        "COBOL++": 1
+    },
+    "c109": {
+        "SignalProcessing-js": 3,
+        "TechWriting-2+0": 4,
+        "MachineLearning-lib": 3
+    },
+    "c272": {
+        "Management-2+0": 3,
+        "MachineLearning-NET": 3,
+        "XML-3+0": 4
+    },
+    "c56": {
+        "SQL-2+0": 4,
+        "PHP-2+0": 1,
+        "Dart-3+0": 3
+    },
+    "c366": {
+        "Angular-lib": 4,
+        "C++-js": 3,
+        "Privacy-js": 1
+    },
+    "c220": {
+        "JavaScript": 4,
+        "Security-js": 2,
+        "Angular-2+0": 3
+    },
+    "c1150": {
+        "Management++": 1,
+        "Objective-C-2+0": 4,
+        "Angular-py": 3
+    },
+    "c994": {
+        "TypeScript++": 4,
+        "VideoProduction++": 2,
+        "Security-js": 1
+    },
+    "c154": {
+        "Communication-lib": 4,
+        "MakingMemes++": 1,
+        "C++-py": 2
+    },
+    "c1021": {
+        "BusinessAnalysis-3+0": 3,
+        "VisualBasic++": 3,
+        "Blockchain": 4
+    },
+    "c74": {
+        "Security-NET": 1,
+        "Shell-3+0": 3,
+        "Ajax-3+0": 3
+    },
+    "c9": {
+        "BusinessAnalysis": 3,
+        "MachineLearning-lib": 3,
+        "TypeScript-py": 1
+    },
+    "c266": {
+        "TypeScript": 4,
+        "Blockchain": 1,
+        "Analysis-NET": 2
+    },
+    "c713": {
+        "Dart": 1,
+        "PHP-js": 4,
+        "SQL": 3
+    },
+    "c474": {
+        "R-NET": 2,
+        "Go-js": 3,
+        "MATLAB": 2
+    },
+    "c1410": {
+        "Kotlin-lib": 2,
+        "Dart": 2,
+        "PHP-py": 3
+    },
+    "c348": {
+        "HTML-2+0": 2,
+        "COBOL-lib": 3,
+        "Creativity-js": 1
+    },
+    "c983": {
+        "MySQL-NET": 2,
+        "PHP-py": 2,
+        "VideoProduction-js": 3
+    },
+    "c857": {
+        "SignalProcessing-py": 1,
+        "Objective-C-py": 2,
+        "CloudComputing-lib": 3
+    },
+    "c66": {
+        "Python-3+0": 2,
+        "Creativity": 2,
+        "CloudComputing++": 1
+    },
+    "c929": {
+        "UXDesign-NET": 4,
+        "Management-3+0": 3,
+        "CloudComputing-lib": 1
+    },
+    "c1369": {
+        "Java-NET": 1,
+        "PHP-3+0": 4,
+        "Objective-C-py": 2
+    },
+    "c1415": {
+        "Management-3+0": 2,
+        "Analysis-3+0": 4,
+        "BusinessAnalysis-3+0": 2
+    },
+    "c93": {
+        "Accessibility": 3,
+        "TechWriting": 2,
+        "MakingMemes-lib": 3
+    },
+    "c654": {
+        "XML-2+0": 3,
+        "Bash-js": 2,
+        "SQL++": 1
+    },
+    "c116": {
+        "Bash-py": 2,
+        "Pascal-3+0": 3,
+        "PHP-js": 2
+    },
+    "c1087": {
+        "SignalProcessing-py": 4,
+        "PublicSpeaking-py": 4,
+        "Bash-NET": 2
+    },
+    "c155": {
+        "XML-py": 1,
+        "MakingMemes-js": 2,
+        "COBOL-lib": 4
+    },
+    "c555": {
+        "Shell-py": 4,
+        "Analysis-3+0": 3,
+        "Accessibility-js": 3
+    },
+    "c1181": {
+        "Analysis-3+0": 3,
+        "Objective-C-2+0": 3,
+        "Dart-js": 3
+    },
+    "c719": {
+        "SQL-2+0": 2,
+        "UXDesign": 2,
+        "COBOL-3+0": 4
+    },
+    "c43": {
+        "Delphi-lib": 2,
+        "PublicSpeaking-NET": 2,
+        "PHP-3+0": 4
+    },
+    "c681": {
+        "C++-js": 1,
+        "BusinessAnalysis": 2,
+        "Haskell-2+0": 1
+    },
+    "c315": {
+        "Ada-py": 2,
+        "C-3+0": 1,
+        "Dart-lib": 2
+    },
+    "c783": {
+        "MakingMemes-py": 2,
+        "C++-NET": 2,
+        "Management": 3
+    },
+    "c61": {
+        "Dart-3+0": 4,
+        "PublicSpeaking-py": 1,
+        "CloudComputing-2+0": 2
+    },
+    "c349": {
+        "Perl-3+0": 2,
+        "SignalProcessing-3+0": 4,
+        "Ada-py": 3
+    },
+    "c102": {
+        "BusinessAnalysis++": 3,
+        "Dart-js": 4,
+        "Privacy-js": 2
+    },
+    "c1258": {
+        "Swift-NET": 4,
+        "CloudComputing-lib": 3,
+        "Haskell": 3
+    },
+    "c1394": {
+        "R-2+0": 3,
+        "SignalProcessing++": 1,
+        "PublicSpeaking-py": 1
+    },
+    "c543": {
+        "VideoProduction-js": 2,
+        "JavaScript-NET": 2,
+        "PHP-2+0": 2
+    },
+    "c934": {
+        "Bash-py": 4,
+        "Security-3+0": 4,
+        "Accessibility-NET": 4
+    },
+    "c1294": {
+        "SignalProcessing-3+0": 4,
+        "Ruby": 4,
+        "MakingMemes-py": 2
+    },
+    "c228": {
+        "Management-lib": 1,
+        "SQL-js": 2,
+        "Haskell-js": 3
+    },
+    "c573": {
+        "Ruby": 3,
+        "TypeScript-py": 4,
+        "Science-lib": 2
+    },
+    "c685": {
+        "BigQuery-2+0": 4,
+        "Communication-2+0": 2,
+        "PHP-js": 2
+    },
+    "c221": {
+        "Dart": 3,
+        "Security-NET": 4,
+        "Objective-C-lib": 1
+    },
+    "c822": {
+        "Management-lib": 2,
+        "Privacy-js": 3,
+        "Bash-js": 1
+    },
+    "c891": {
+        "SQL-2+0": 4,
+        "R-py": 4,
+        "MATLAB++": 1
+    },
+    "c163": {
+        "Kotlin-js": 3,
+        "R-py": 3,
+        "Communication-lib": 4
+    },
+    "c1172": {
+        "VideoProduction-2+0": 3,
+        "Python": 1,
+        "Java-js": 3
+    },
+    "c1091": {
+        "MATLAB-py": 3,
+        "CSS-NET": 3,
+        "COBOL-3+0": 2
+    },
+    "c52": {
+        "BusinessAnalysis-3+0": 2,
+        "Ruby": 4,
+        "Analysis-3+0": 1
+    },
+    "c866": {
+        "VisualBasic++": 2,
+        "Angular-2+0": 3,
+        "Bash-2+0": 4
+    },
+    "c593": {
+        "VideoProduction-2+0": 3,
+        "Management": 4,
+        "BusinessAnalysis-3+0": 2
+    },
+    "c895": {
+        "UXDesign-NET": 2,
+        "Delphi-js": 2,
+        "Kotlin-js": 4
+    },
+    "c958": {
+        "TechWriting++": 4,
+        "Shell-lib": 2,
+        "Communication-lib": 3
+    },
+    "c91": {
+        "Ruby-2+0": 3,
+        "Perl-py": 2,
+        "VideoProduction-js": 4
+    },
+    "c876": {
+        "Angular-lib": 3,
+        "Go-NET": 4,
+        "PHP-py": 2
+    },
+    "c101": {
+        "Analysis-3+0": 1,
+        "Angular-NET": 2,
+        "CloudComputing-NET": 3
+    },
+    "c1112": {
+        "UXDesign": 1,
+        "Go-NET": 3,
+        "Ruby-js": 2
+    },
+    "c532": {
+        "Delphi-lib": 3,
+        "UXDesign-NET": 4,
+        "Kotlin-3+0": 1
+    },
+    "c849": {
+        "Ada-py": 1,
+        "PHP-py": 2,
+        "SignalProcessing-2+0": 2
+    },
+    "c393": {
+        "Management-3+0": 1,
+        "Creativity": 3,
+        "Bash-py": 3
+    },
+    "c1288": {
+        "Kotlin-js": 2,
+        "R-py": 1,
+        "Java-NET": 4
+    },
+    "c464": {
+        "MySQL-NET": 1,
+        "COBOL": 2,
+        "BusinessAnalysis": 3
+    },
+    "c1348": {
+        "Security-js": 3,
+        "Angular-py": 2,
+        "Science-py": 1
+    },
+    "c119": {
+        "HTML-2+0": 3,
+        "TypeScript-lib": 4,
+        "Security-js": 3
+    },
+    "c1077": {
+        "MachineLearning-lib": 1,
+        "XML-2+0": 1,
+        "Python-2+0": 4
+    },
+    "c752": {
+        "SignalProcessing++": 3,
+        "Perl-lib": 3,
+        "UXDesign": 4
+    },
+    "c619": {
+        "Communication-NET": 2,
+        "BusinessAnalysis-js": 4,
+        "Bash-py": 3
+    },
+    "c897": {
+        "Dart-lib": 4,
+        "VideoProduction-js": 1,
+        "COBOL++": 1
+    },
+    "c147": {
+        "Java-js": 2,
+        "BusinessAnalysis++": 2,
+        "CloudComputing-lib": 4
+    },
+    "c924": {
+        "COBOL++": 4,
+        "BigQuery-NET": 3,
+        "R-2+0": 1
+    },
+    "c781": {
+        "MachineLearning-NET": 2,
+        "SQL-js": 1,
+        "Delphi-js": 1
+    },
+    "c863": {
+        "SignalProcessing-2+0": 2,
+        "Management-lib": 2,
+        "HTML-py": 2
+    },
+    "c1280": {
+        "Management-lib": 3,
+        "C++-js": 2,
+        "MakingMemes-js": 2
+    },
+    "c768": {
+        "VisualBasic++": 3,
+        "SQL": 2,
+        "Science-py": 2
+    },
+    "c230": {
+        "SQL-NET": 2,
+        "C-2+0": 4,
+        "Assembly-py": 1
+    },
+    "c1427": {
+        "BigQuery-2+0": 4,
+        "COBOL": 4,
+        "MySQL-NET": 1
+    },
+    "c1001": {
+        "SignalProcessing-js": 2,
+        "Communication-lib": 2,
+        "Ruby": 4
+    },
+    "c1097": {
+        "Analysis-3+0": 3,
+        "Security-NET": 4,
+        "Accessibility": 2
+    },
+    "c1400": {
+        "BigQuery-2+0": 1,
+        "MakingMemes-lib": 1,
+        "SignalProcessing-3+0": 3
+    },
+    "c1254": {
+        "Haskell-py": 1,
+        "Shell-lib": 2,
+        "C++-lib": 2
+    },
+    "c931": {
+        "Perl-3+0": 1,
+        "Perl-NET": 3,
+        "MATLAB++": 2
+    },
+    "c1209": {
+        "Java-3+0": 2,
+        "COBOL-3+0": 2,
+        "TypeScript++": 4
+    },
+    "c1335": {
+        "SQL-js": 2,
+        "PHP-3+0": 2,
+        "VisualBasic-NET": 3
+    },
+    "c1405": {
+        "Ajax-py": 4,
+        "Perl-lib": 1,
+        "Java-2+0": 2
+    },
+    "c912": {
+        "Creativity-NET": 2,
+        "PublicSpeaking-NET": 2,
+        "VideoProduction-2+0": 4
+    },
+    "c1426": {
+        "SignalProcessing-3+0": 3,
+        "Perl-lib": 4,
+        "Security-NET": 3
+    },
+    "c1450": {
+        "Communication-lib": 3,
+        "PHP-3+0": 2,
+        "MakingMemes-py": 1
+    },
+    "c321": {
+        "C-3+0": 2,
+        "Ruby-3+0": 3,
+        "Objective-C-py": 3
+    },
+    "c507": {
+        "Dart-3+0": 2,
+        "Ajax-py": 2,
+        "Go-js": 2
+    },
+    "c631": {
+        "Bash-3+0": 3,
+        "Communication-3+0": 2,
+        "Ada-NET": 2
+    },
+    "c989": {
+        "Java-lib": 3,
+        "Pascal-2+0": 1,
+        "Ajax-3+0": 2
+    },
+    "c259": {
+        "R-2+0": 2,
+        "Dart-3+0": 1,
+        "CSS-NET": 3
+    },
+    "c1447": {
+        "Management": 4,
+        "Kotlin-js": 2,
+        "R++": 3
+    },
+    "c1386": {
+        "Creativity": 2,
+        "COBOL": 4,
+        "MATLAB++": 2
+    },
+    "c402": {
+        "MySQL-NET": 2,
+        "TypeScript-lib": 2,
+        "Bash-js": 4
+    },
+    "c1026": {
+        "Management-3+0": 2,
+        "Communication-2+0": 4,
+        "PublicSpeaking-py": 2
+    },
+    "c324": {
+        "Haskell-2+0": 2,
+        "UXDesign-NET": 2,
+        "Go-NET": 3
+    },
+    "c53": {
+        "Blockchain": 1,
+        "SignalProcessing-py": 1,
+        "BusinessAnalysis++": 3
+    },
+    "c417": {
+        "Assembly-lib": 1,
+        "TypeScript-lib": 3,
+        "Perl-py": 1
+    },
+    "c667": {
+        "Delphi-lib": 1,
+        "Bash": 3,
+        "VideoProduction-js": 4
+    },
+    "c1380": {
+        "SignalProcessing-py": 3,
+        "MATLAB++": 3,
+        "Ruby-js": 3
+    },
+    "c1014": {
+        "COBOL": 2,
+        "Kotlin-3+0": 4,
+        "Communication-lib": 1
+    },
+    "c374": {
+        "Swift-lib": 1,
+        "Accessibility-NET": 4,
+        "VideoProduction-2+0": 1
+    },
+    "c1276": {
+        "PHP-3+0": 2,
+        "Security-js": 1,
+        "TechWriting-2+0": 3
+    },
+    "c78": {
+        "JavaScript": 1,
+        "Shell-py": 2,
+        "Haskell-2+0": 3
+    },
+    "c1035": {
+        "MySQL-lib": 3,
+        "VisualBasic-NET": 2,
+        "AI++": 2
+    },
+    "c310": {
+        "PublicSpeaking-NET": 3,
+        "Ruby-3+0": 1,
+        "Swift": 1
+    },
+    "c1120": {
+        "Analysis": 4,
+        "Science-lib": 2,
+        "HTML-2+0": 3
+    },
+    "c446": {
+        "MachineLearning-lib": 1,
+        "AI++": 1,
+        "TypeScript-py": 3
+    },
+    "c149": {
+        "Communication-js": 2,
+        "Kotlin-js": 1,
+        "VisualBasic-2+0": 3
+    },
+    "c1342": {
+        "MySQL-NET": 2,
+        "Bash-NET": 4,
+        "CloudComputing-NET": 1
+    },
+    "c1466": {
+        "Assembly-lib": 4,
+        "Management-lib": 4,
+        "Python-2+0": 4
+    },
+    "c288": {
+        "Security-js": 4,
+        "BusinessAnalysis-js": 3,
+        "Privacy-js": 4
+    },
+    "c336": {
+        "C-2+0": 1,
+        "C-3+0": 2,
+        "Science-py": 4
+    },
+    "c1038": {
+        "Angular-lib": 4,
+        "Blockchain++": 3,
+        "Privacy-js": 2
+    },
+    "c158": {
+        "MakingMemes++": 3,
+        "Swift-js": 2,
+        "Privacy-lib": 2
+    },
+    "c59": {
+        "Haskell-lib": 4,
+        "Science-py": 1,
+        "Blockchain-3+0": 1
+    },
+    "c634": {
+        "Accessibility-js": 1,
+        "PHP-2+0": 1,
+        "Delphi-js": 2
+    },
+    "c694": {
+        "PHP-3+0": 2,
+        "Management-lib": 4,
+        "SignalProcessing-py": 4
+    },
+    "c1497": {
+        "Swift-lib": 4,
+        "Bash": 4,
+        "COBOL-3+0": 3
+    },
+    "c369": {
+        "MATLAB-py": 2,
+        "Python": 3,
+        "Perl-py": 3
+    },
+    "c258": {
+        "HTML-py": 1,
+        "XML-js": 3,
+        "MachineLearning-lib": 3
+    },
+    "c1221": {
+        "Security-NET": 2,
+        "VisualBasic": 2,
+        "UXDesign-NET": 4
+    },
+    "c751": {
+        "Go-NET": 1,
+        "Go": 1,
+        "Go-lib": 1
+    },
+    "c439": {
+        "CSS-NET": 1,
+        "HTML-js": 1,
+        "Bash": 2
+    },
+    "c617": {
+        "PHP-3+0": 2,
+        "HTML-js": 3,
+        "Security-3+0": 3
+    },
+    "c1302": {
+        "Security-3+0": 2,
+        "Java-js": 2,
+        "Bash-js": 3
+    },
+    "c973": {
+        "Haskell": 2,
+        "R++": 2,
+        "Creativity": 2
+    },
+    "c957": {
+        "SignalProcessing-py": 2,
+        "HTML++": 1,
+        "Haskell-lib": 2
+    },
+    "c1370": {
+        "Bash-js": 4,
+        "MySQL": 1,
+        "SQL-js": 3
+    },
+    "c884": {
+        "SQL-NET": 4,
+        "Communication-2+0": 4,
+        "Bash-3+0": 1
+    },
+    "c652": {
+        "Accessibility-NET": 1,
+        "Accessibility-js": 3,
+        "HTML-py": 4
+    },
+    "c1206": {
+        "Perl-NET": 4,
+        "Communication": 1,
+        "R-NET": 1
+    },
+    "c1178": {
+        "Communication-lib": 3,
+        "Kotlin-3+0": 4,
+        "XML-js": 4
+    },
+    "c523": {
+        "Assembly-lib": 4,
+        "C++-lib": 4,
+        "Ajax-2+0": 3
+    },
+    "c141": {
+        "Ruby-js": 1,
+        "Shell-2+0": 4,
+        "Go-js": 4
+    },
+    "c1082": {
+        "AI++": 4,
+        "PublicSpeaking-NET": 4,
+        "Ada-NET": 2
+    },
+    "c721": {
+        "JavaScript-NET": 4,
+        "Ada-py": 4,
+        "Communication-lib": 1
+    },
+    "c902": {
+        "Delphi-3+0": 1,
+        "Perl-lib": 1
+    },
+    "c805": {
+        "Perl-NET": 1,
+        "VisualBasic-2+0": 3,
+        "SQL++": 4
+    },
+    "c1336": {
+        "Java-NET": 1,
+        "Dart-3+0": 4,
+        "XML-2+0": 4
+    },
+    "c350": {
+        "Kotlin-lib": 4,
+        "MakingMemes-py": 1,
+        "Parallelization-py": 3
+    },
+    "c671": {
+        "HTML-2+0": 2,
+        "Management++": 1,
+        "Haskell-2+0": 2
+    },
+    "c1300": {
+        "Perl-3+0": 3,
+        "Creativity-NET": 3,
+        "R-py": 4
+    },
+    "c927": {
+        "Management++": 4,
+        "Java-lib": 3,
+        "Management-2+0": 3
+    },
+    "c381": {
+        "Blockchain": 4,
+        "Angular-NET": 3,
+        "Go-js": 2
+    },
+    "c335": {
+        "Ruby-2+0": 1,
+        "Blockchain-3+0": 3,
+        "Haskell": 2
+    },
+    "c1066": {
+        "COBOL-3+0": 3,
+        "Python-2+0": 4,
+        "BusinessAnalysis-js": 2
+    },
+    "c1367": {
+        "Ruby-3+0": 2,
+        "Kotlin-js": 1,
+        "VisualBasic-NET": 2
+    },
+    "c1239": {
+        "VisualBasic-NET": 3,
+        "Accessibility-js": 4,
+        "R-NET": 4
+    },
+    "c166": {
+        "BigQuery-NET": 1,
+        "Dart": 1,
+        "HTML-2+0": 3
+    },
+    "c311": {
+        "XML-py": 2,
+        "Python-3+0": 2,
+        "MySQL-lib": 1
+    },
+    "c1303": {
+        "SQL": 1,
+        "SignalProcessing-py": 2,
+        "PublicSpeaking-py": 2
+    },
+    "c545": {
+        "C++-NET": 3,
+        "Assembly-NET": 4,
+        "Perl-NET": 1
+    },
+    "c914": {
+        "Shell-py": 4,
+        "Bash-js": 1,
+        "MATLAB-py": 4
+    },
+    "c460": {
+        "HTML-2+0": 2,
+        "BusinessAnalysis++": 1,
+        "Kotlin-3+0": 3
+    },
+    "c81": {
+        "MATLAB++": 4,
+        "VisualBasic-2+0": 2,
+        "Go-js": 4
+    },
+    "c1122": {
+        "CloudComputing-NET": 1,
+        "Java-3+0": 4,
+        "Go++": 4
+    },
+    "c1192": {
+        "Haskell-py": 2,
+        "SignalProcessing-py": 2,
+        "Python-2+0": 2
+    },
+    "c423": {
+        "Ruby-3+0": 2,
+        "Angular-lib": 1,
+        "Python-2+0": 2
+    },
+    "c1351": {
+        "C++-NET": 2,
+        "Shell-2+0": 4,
+        "MakingMemes-lib": 1
+    },
+    "c1147": {
+        "Dart": 1,
+        "Shell-3+0": 2,
+        "TypeScript": 4
+    },
+    "c810": {
+        "Dart": 4,
+        "JavaScript-2+0": 4,
+        "PublicSpeaking-js": 2
+    },
+    "c253": {
+        "Ruby-3+0": 3,
+        "Perl-NET": 4,
+        "SignalProcessing++": 1
+    },
+    "c947": {
+        "Bash-py": 2,
+        "JavaScript": 2,
+        "Angular-py": 3
+    },
+    "c273": {
+        "Blockchain-3+0": 2,
+        "CSS-NET": 4,
+        "MakingMemes++": 1
+    },
+    "c1402": {
+        "SQL": 2,
+        "VideoProduction-2+0": 2,
+        "Bash": 4
+    },
+    "c282": {
+        "PublicSpeaking-py": 3,
+        "Delphi-py": 1,
+        "Haskell-2+0": 3
+    },
+    "c281": {
+        "Ajax-3+0": 4,
+        "BusinessAnalysis-3+0": 1,
+        "UXDesign-NET": 4
+    },
+    "c1015": {
+        "Haskell-py": 1,
+        "VisualBasic++": 2,
+        "PublicSpeaking-2+0": 2
+    },
+    "c1329": {
+        "Python-3+0": 3,
+        "XML-2+0": 2,
+        "C-2+0": 3
+    },
+    "c318": {
+        "Management-2+0": 4,
+        "Kotlin-3+0": 3,
+        "AI-py": 2
+    },
+    "c432": {
+        "VisualBasic": 3,
+        "Java-3+0": 1,
+        "COBOL-lib": 1
+    },
+    "c23": {
+        "Communication-js": 1,
+        "VisualBasic++": 4,
+        "MATLAB-py": 2
+    },
+    "c806": {
+        "Angular-py": 2,
+        "VisualBasic-2+0": 4,
+        "TypeScript": 1
+    },
+    "c1162": {
+        "Science-py": 1,
+        "TypeScript-py": 3,
+        "Haskell": 4
+    },
+    "c1020": {
+        "Privacy-lib": 4,
+        "SQL": 3,
+        "VideoProduction": 4
+    },
+    "c1278": {
+        "Go-js": 4,
+        "HTML-2+0": 2,
+        "C-2+0": 3
+    },
+    "c576": {
+        "AI-py": 2,
+        "Parallelization-NET": 3,
+        "Swift-NET": 3
+    },
+    "c104": {
+        "R-NET": 1,
+        "Creativity-NET": 2,
+        "Java-2+0": 4
+    },
+    "c1269": {
+        "Swift": 3,
+        "CloudComputing-2+0": 3,
+        "Science++": 1
+    },
+    "c590": {
+        "Perl-3+0": 4,
+        "Java-js": 2,
+        "PHP-js": 1
+    },
+    "c835": {
+        "R-py": 3,
+        "VisualBasic": 1,
+        "VideoProduction": 4
+    },
+    "c1359": {
+        "C-2+0": 4,
+        "COBOL-3+0": 2,
+        "Kotlin-3+0": 3
+    },
+    "c772": {
+        "COBOL-lib": 4,
+        "HTML-2+0": 4,
+        "MachineLearning-NET": 1
+    },
+    "c1293": {
+        "VideoProduction++": 3,
+        "XML-py": 4,
+        "TechWriting": 4
+    },
+    "c996": {
+        "Analysis-3+0": 4,
+        "Swift-js": 1,
+        "Angular-2+0": 4
+    },
+    "c582": {
+        "TechWriting++": 3,
+        "Bash-js": 3,
+        "Communication++": 4
+    },
+    "c944": {
+        "PublicSpeaking-2+0": 3,
+        "Python-2+0": 3,
+        "Angular-NET": 3
+    },
+    "c1200": {
+        "PublicSpeaking-2+0": 2,
+        "Accessibility++": 4,
+        "Assembly-NET": 2
+    },
+    "c88": {
+        "Ruby-js": 4,
+        "C-2+0": 1,
+        "Communication++": 2
+    },
+    "c399": {
+        "C-3+0": 4,
+        "BigQuery-2+0": 2,
+        "SQL-js": 2
+    },
+    "c727": {
+        "Bash-py": 2,
+        "Haskell-lib": 3,
+        "R-NET": 4
+    },
+    "c1136": {
+        "Haskell-lib": 3,
+        "CloudComputing-lib": 1,
+        "Communication-lib": 1
+    },
+    "c191": {
+        "PHP-js": 2,
+        "Management-2+0": 1,
+        "Pascal-py": 1
+    },
+    "c886": {
+        "C-2+0": 2,
+        "Delphi-3+0": 3,
+        "Pascal-2+0": 2
+    },
+    "c1489": {
+        "JavaScript-2+0": 2,
+        "Communication-3+0": 1,
+        "Ajax-3+0": 2
+    },
+    "c7": {
+        "PublicSpeaking-NET": 3,
+        "Java-NET": 4,
+        "Haskell-2+0": 1
+    },
+    "c1109": {
+        "VideoProduction-js": 1,
+        "Pascal-3+0": 2,
+        "PHP-2+0": 3
+    },
+    "c363": {
+        "Kotlin-3+0": 4,
+        "AI++": 2,
+        "Parallelization-NET": 4
+    },
+    "c433": {
+        "Swift-lib": 3,
+        "PublicSpeaking-py": 4,
+        "Security-3+0": 1
+    },
+    "c1249": {
+        "HTML-py": 2,
+        "Pascal-2+0": 1,
+        "Perl-py": 2
+    },
+    "c1080": {
+        "Ada-py": 2,
+        "Swift": 2,
+        "Shell-lib": 2
+    },
+    "c214": {
+        "R-NET": 3,
+        "Ada-py": 2,
+        "Angular-py": 3
+    },
+    "c405": {
+        "Management-3+0": 2,
+        "Haskell-2+0": 1,
+        "JavaScript-NET": 2
+    },
+    "c1362": {
+        "Dart-js": 3,
+        "CloudComputing-NET": 1,
+        "Bash-3+0": 4
+    },
+    "c1188": {
+        "XML-js": 3,
+        "Ruby-3+0": 4,
+        "Science-lib": 1
+    },
+    "c80": {
+        "BusinessAnalysis-lib": 3,
+        "COBOL-lib": 2,
+        "Delphi-py": 4
+    },
+    "c674": {
+        "Assembly-py": 4,
+        "Kotlin-3+0": 3,
+        "Ruby-js": 4
+    },
+    "c602": {
+        "Python-2+0": 3,
+        "TypeScript-py": 1,
+        "Haskell-py": 1
+    },
+    "c485": {
+        "MySQL": 1,
+        "Swift-NET": 4,
+        "Python-2+0": 1
+    },
+    "c771": {
+        "VisualBasic-2+0": 4,
+        "Kotlin-lib": 4,
+        "MATLAB": 2
+    },
+    "c251": {
+        "VideoProduction++": 3,
+        "Bash-NET": 4,
+        "VideoProduction-js": 4
+    },
+    "c656": {
+        "VideoProduction-lib": 3,
+        "VisualBasic++": 2,
+        "AI-py": 1
+    },
+    "c1164": {
+        "Accessibility++": 4,
+        "Delphi-lib": 1,
+        "Java-NET": 1
+    },
+    "c1273": {
+        "Shell-py": 1,
+        "Pascal-2+0": 4,
+        "Analysis-NET": 3
+    },
+    "c992": {
+        "Assembly-NET": 3,
+        "Dart-lib": 4,
+        "Parallelization-py": 3
+    },
+    "c113": {
+        "UXDesign-NET": 2,
+        "Angular-lib": 3,
+        "HTML-js": 4
+    },
+    "c492": {
+        "XML-js": 3,
+        "VisualBasic-2+0": 2,
+        "Blockchain++": 3
+    },
+    "c1430": {
+        "VideoProduction-js": 3,
+        "Management": 3,
+        "C++-py": 4
+    },
+    "c705": {
+        "Objective-C-2+0": 1,
+        "Management-3+0": 3,
+        "COBOL": 2
+    },
+    "c1420": {
+        "PublicSpeaking-2+0": 2,
+        "Ajax-2+0": 3,
+        "SignalProcessing-js": 4
+    },
+    "c257": {
+        "Communication++": 1,
+        "PublicSpeaking-js": 1,
+        "Angular-py": 4
+    },
+    "c541": {
+        "PHP-2+0": 3,
+        "BusinessAnalysis-lib": 3,
+        "SQL-NET": 3
+    },
+    "c1140": {
+        "Shell-lib": 1,
+        "Science-py": 1,
+        "MachineLearning-lib": 1
+    },
+    "c304": {
+        "HTML-2+0": 2,
+        "VisualBasic-2+0": 2,
+        "SQL-NET": 1
+    },
+    "c356": {
+        "Kotlin-3+0": 3,
+        "Management-2+0": 1,
+        "Shell-py": 1
+    },
+    "c385": {
+        "MakingMemes-js": 3,
+        "Perl-lib": 3,
+        "Ajax-2+0": 2
+    },
+    "c159": {
+        "TechWriting-2+0": 2,
+        "MySQL-NET": 1,
+        "Analysis++": 3
+    },
+    "c903": {
+        "Haskell-py": 4,
+        "Delphi-py": 4,
+        "MakingMemes-py": 2
+    },
+    "c609": {
+        "TypeScript-lib": 4,
+        "CloudComputing-NET": 2,
+        "PublicSpeaking-NET": 4
+    },
+    "c329": {
+        "COBOL": 1,
+        "SQL-2+0": 1,
+        "SQL": 2
+    },
+    "c990": {
+        "UXDesign": 1,
+        "R-2+0": 4,
+        "Perl-3+0": 2
+    },
+    "c70": {
+        "VideoProduction": 2,
+        "C-2+0": 1,
+        "Swift-js": 2
+    },
+    "c275": {
+        "Haskell-lib": 1,
+        "Perl-lib": 4,
+        "Ajax-3+0": 1
+    },
+    "c552": {
+        "MATLAB++": 4,
+        "Management-3+0": 2,
+        "Shell-py": 3
+    },
+    "c1472": {
+        "Management": 1,
+        "PublicSpeaking-NET": 1,
+        "C++-js": 2
+    },
+    "c237": {
+        "SignalProcessing-2+0": 2,
+        "PHP-js": 2,
+        "Bash-py": 4
+    },
+    "c317": {
+        "BusinessAnalysis": 3,
+        "Dart": 1,
+        "Java-3+0": 4
+    },
+    "c500": {
+        "Bash-NET": 1,
+        "Bash-2+0": 3,
+        "Ruby": 3
+    },
+    "c136": {
+        "TypeScript": 1,
+        "Communication": 1,
+        "Ada-py": 4
+    },
+    "c724": {
+        "Ruby-js": 2,
+        "UXDesign-NET": 4,
+        "Ruby-2+0": 1
+    },
+    "c84": {
+        "JavaScript-NET": 4,
+        "Dart-3+0": 3,
+        "Swift": 3
+    },
+    "c241": {
+        "Pascal-py": 1,
+        "Java-3+0": 2,
+        "Java-2+0": 4
+    },
+    "c1211": {
+        "SignalProcessing-3+0": 1,
+        "Assembly-py": 4,
+        "Python-3+0": 1
+    },
+    "c925": {
+        "Creativity-js": 4,
+        "XML-2+0": 1,
+        "VideoProduction-3+0": 3
+    },
+    "c1179": {
+        "Pascal-3+0": 1,
+        "Creativity": 3,
+        "Delphi-lib": 2
+    },
+    "c1371": {
+        "VideoProduction++": 1,
+        "Parallelization-NET": 1,
+        "Bash": 3
+    },
+    "c57": {
+        "Bash-js": 2,
+        "Accessibility-NET": 1,
+        "Swift-NET": 2
+    },
+    "c1409": {
+        "Angular-NET": 2,
+        "VideoProduction-3+0": 3,
+        "MakingMemes-js": 3
+    },
+    "c306": {
+        "VideoProduction": 1,
+        "SignalProcessing-js": 3,
+        "VideoProduction-3+0": 2
+    },
+    "c1396": {
+        "TypeScript-py": 3,
+        "Bash-js": 4,
+        "Creativity-NET": 3
+    },
+    "c428": {
+        "Ajax-3+0": 4,
+        "SignalProcessing-py": 2,
+        "Management++": 1
+    },
+    "c286": {
+        "VideoProduction-js": 4,
+        "Kotlin-js": 4,
+        "HTML-js": 4
+    },
+    "c777": {
+        "Bash-py": 3,
+        "Accessibility-js": 1,
+        "CloudComputing-NET": 2
+    },
+    "c506": {
+        "Analysis": 1,
+        "Science++": 1,
+        "BigQuery-2+0": 4
+    },
+    "c1390": {
+        "TechWriting": 4,
+        "Security-NET": 1,
+        "Ruby": 3
+    },
+    "c1115": {
+        "MySQL-NET": 4,
+        "Management": 1,
+        "Java-NET": 4
+    },
+    "c33": {
+        "Communication-NET": 3,
+        "Shell-lib": 2,
+        "Accessibility": 1
+    },
+    "c571": {
+        "VisualBasic++": 1,
+        "Go": 3,
+        "MATLAB": 3
+    },
+    "c481": {
+        "Dart-lib": 1,
+        "Objective-C-2+0": 3,
+        "VideoProduction-2+0": 2
+    },
+    "c639": {
+        "XML-3+0": 3,
+        "Java-js": 4,
+        "Java-2+0": 2
+    },
+    "c1323": {
+        "Swift-NET": 3,
+        "Ada-py": 1,
+        "MATLAB++": 4
+    },
+    "c1393": {
+        "Go-js": 4,
+        "Ruby": 4,
+        "Communication-NET": 3
+    },
+    "c825": {
+        "JavaScript": 1,
+        "BusinessAnalysis-lib": 3,
+        "BigQuery-2+0": 1
+    },
+    "c510": {
+        "PublicSpeaking-2+0": 1,
+        "Delphi": 1,
+        "Ruby-2+0": 1
+    },
+    "c1374": {
+        "Swift-lib": 2,
+        "Accessibility": 4,
+        "Go-lib": 2
+    },
+    "c607": {
+        "Communication-lib": 1,
+        "Management-lib": 2,
+        "VisualBasic": 4
+    },
+    "c1496": {
+        "JavaScript-2+0": 4,
+        "BigQuery-2+0": 2,
+        "Bash-js": 2
+    },
+    "c50": {
+        "MATLAB++": 1,
+        "MachineLearning-2+0": 1,
+        "BusinessAnalysis-lib": 1
+    },
+    "c309": {
+        "Bash-js": 3,
+        "VideoProduction": 3,
+        "C++-py": 4
+    },
+    "c521": {
+        "Java-NET": 4,
+        "Java-js": 3,
+        "MySQL": 3
+    },
+    "c297": {
+        "Management": 3,
+        "Analysis-NET": 3,
+        "VisualBasic": 4
+    },
+    "c596": {
+        "BusinessAnalysis-js": 3,
+        "PHP-py": 4,
+        "C-2+0": 1
+    },
+    "c199": {
+        "Blockchain++": 3,
+        "Science-py": 4,
+        "SignalProcessing-3+0": 2
+    },
+    "c280": {
+        "Accessibility++": 4,
+        "HTML-2+0": 3,
+        "Science-py": 4
+    },
+    "c516": {
+        "Delphi-lib": 3,
+        "TypeScript": 2,
+        "Objective-C-2+0": 2
+    },
+    "c1114": {
+        "Shell-lib": 4,
+        "Accessibility-NET": 1,
+        "HTML-js": 2
+    },
+    "c971": {
+        "Shell-lib": 4,
+        "XML-js": 4,
+        "Assembly-py": 1
+    },
+    "c1366": {
+        "BusinessAnalysis-js": 1,
+        "SQL++": 2,
+        "Go": 2
+    },
+    "c295": {
+        "SignalProcessing-3+0": 1,
+        "Angular-lib": 1,
+        "Delphi-py": 1
+    },
+    "c711": {
+        "Go-js": 4,
+        "Go-NET": 4,
+        "Parallelization-NET": 3
+    },
+    "c606": {
+        "R-NET": 2,
+        "XML-py": 4,
+        "Shell-2+0": 2
+    },
+    "c1160": {
+        "Dart-lib": 2,
+        "TypeScript-lib": 3,
+        "XML-js": 1
+    },
+    "c1044": {
+        "Ada-NET": 2,
+        "Security-NET": 4,
+        "Creativity-NET": 4
+    },
+    "c289": {
+        "Security-js": 2,
+        "Ada-NET": 3,
+        "C++-js": 1
+    },
+    "c688": {
+        "Bash-3+0": 3,
+        "C-3+0": 4,
+        "MATLAB": 2
+    },
+    "c841": {
+        "PublicSpeaking-2+0": 1,
+        "Science-py": 1,
+        "Parallelization-NET": 1
+    },
+    "c650": {
+        "Perl-3+0": 1,
+        "Parallelization-py": 4,
+        "Analysis++": 2
+    },
+    "c205": {
+        "MachineLearning-2+0": 2,
+        "Security-NET": 2,
+        "C++-lib": 1
+    },
+    "c1443": {
+        "Bash-js": 1,
+        "Science-lib": 2,
+        "BusinessAnalysis-lib": 4
+    },
+    "c117": {
+        "Dart-js": 3,
+        "Communication": 3,
+        "XML-3+0": 4
+    },
+    "c1177": {
+        "MakingMemes++": 3,
+        "Objective-C-py": 3,
+        "PublicSpeaking-js": 1
+    },
+    "c1330": {
+        "JavaScript-NET": 3,
+        "VisualBasic-2+0": 2,
+        "TypeScript": 3
+    },
+    "c1135": {
+        "HTML-2+0": 4,
+        "MachineLearning-lib": 1,
+        "Delphi-py": 1
+    },
+    "c831": {
+        "MakingMemes-lib": 1,
+        "Communication++": 3,
+        "Perl-3+0": 1
+    },
+    "c452": {
+        "SignalProcessing-py": 3,
+        "Accessibility++": 2,
+        "Communication-3+0": 3
+    },
+    "c1313": {
+        "MATLAB++": 3,
+        "Python": 4,
+        "Accessibility": 1
+    },
+    "c870": {
+        "Angular-NET": 3,
+        "HTML-js": 3,
+        "Shell-lib": 2
+    },
+    "c1413": {
+        "Dart-3+0": 2,
+        "MachineLearning-lib": 1,
+        "Assembly-NET": 4
+    },
+    "c1355": {
+        "Python-3+0": 1,
+        "CloudComputing-NET": 2,
+        "Assembly-2+0": 3
+    },
+    "c1159": {
+        "Go": 3,
+        "Accessibility-js": 1,
+        "BusinessAnalysis-3+0": 2
+    },
+    "c347": {
+        "Dart-3+0": 1,
+        "SQL": 2,
+        "Communication-NET": 4
+    },
+    "c623": {
+        "PHP-3+0": 1,
+        "Accessibility++": 2,
+        "Security-NET": 2
+    },
+    "c1002": {
+        "Shell-lib": 4,
+        "Haskell-js": 1,
+        "Shell-3+0": 2
+    },
+    "c1326": {
+        "Java-NET": 1,
+        "Go": 1,
+        "COBOL-lib": 2
+    },
+    "c837": {
+        "Haskell-2+0": 3,
+        "TechWriting++": 1,
+        "Communication-py": 1
+    },
+    "c1000": {
+        "R-2+0": 3,
+        "Blockchain-3+0": 4,
+        "SignalProcessing++": 1
+    },
+    "c328": {
+        "VisualBasic": 3,
+        "Ajax-py": 2,
+        "MATLAB++": 3
+    },
+    "c206": {
+        "TechWriting++": 4,
+        "Perl-3+0": 2,
+        "Delphi-3+0": 1
+    },
+    "c535": {
+        "AI-py": 2,
+        "Assembly-2+0": 4,
+        "TechWriting-js": 2
+    },
+    "c550": {
+        "Dart-js": 1,
+        "HTML-py": 2,
+        "Management-2+0": 1
+    },
+    "c1247": {
+        "SQL-NET": 4,
+        "CloudComputing": 2,
+        "C++-js": 1
+    },
+    "c1174": {
+        "MySQL-NET": 3,
+        "Haskell-py": 3,
+        "TechWriting-2+0": 4
+    },
+    "c549": {
+        "MachineLearning-lib": 1,
+        "Angular-NET": 3,
+        "AI++": 1
+    },
+    "c178": {
+        "Accessibility++": 4,
+        "CloudComputing-2+0": 2,
+        "Dart-3+0": 2
+    },
+    "c458": {
+        "Python-3+0": 4,
+        "Objective-C-lib": 3,
+        "VideoProduction++": 4
+    },
+    "c1311": {
+        "Ruby-js": 2,
+        "Perl-NET": 3,
+        "VisualBasic": 3
+    },
+    "c39": {
+        "Assembly-NET": 4,
+        "SQL++": 1,
+        "BusinessAnalysis-3+0": 1
+    },
+    "c503": {
+        "Pascal-2+0": 4,
+        "MakingMemes++": 4,
+        "Haskell": 1
+    },
+    "c438": {
+        "Dart": 4,
+        "C-2+0": 3,
+        "XML-2+0": 3
+    },
+    "c951": {
+        "Go": 2,
+        "TechWriting": 1,
+        "Objective-C-lib": 4
+    },
+    "c1053": {
+        "Management-lib": 4,
+        "R-py": 4,
+        "Accessibility": 1
+    },
+    "c1225": {
+        "CloudComputing-lib": 4,
+        "Kotlin-js": 3,
+        "BigQuery-2+0": 1
+    },
+    "c216": {
+        "Delphi-py": 1,
+        "Objective-C-lib": 4,
+        "Creativity-js": 3
+    },
+    "c1186": {
+        "Ruby": 1,
+        "MakingMemes-py": 2,
+        "CloudComputing-NET": 1
+    },
+    "c733": {
+        "Blockchain": 2,
+        "Ruby-2+0": 3,
+        "Ruby": 2
+    },
+    "c636": {
+        "C-3+0": 1,
+        "Java-2+0": 4,
+        "Pascal-2+0": 3
+    },
+    "c519": {
+        "Angular-lib": 3,
+        "Ruby": 3,
+        "Ada-NET": 2
+    },
+    "c1332": {
+        "Shell-2+0": 4,
+        "Communication-py": 3,
+        "Creativity": 2
+    },
+    "c644": {
+        "Management-lib": 4,
+        "VisualBasic": 3,
+        "Parallelization-py": 4
+    },
+    "c389": {
+        "Blockchain-3+0": 3,
+        "TechWriting-2+0": 3,
+        "R-py": 2
+    },
+    "c291": {
+        "MakingMemes-js": 2,
+        "Communication-js": 2,
+        "Ruby-2+0": 2
+    },
+    "c430": {
+        "Ruby-2+0": 3,
+        "Shell-lib": 3,
+        "Ada-NET": 4
+    },
+    "c495": {
+        "Analysis++": 1,
+        "Communication-py": 1,
+        "Swift-js": 3
+    },
+    "c256": {
+        "Management": 3,
+        "Communication-lib": 4,
+        "Ajax-py": 4
+    },
+    "c338": {
+        "VideoProduction++": 4,
+        "Java-3+0": 1,
+        "Security-js": 3
+    },
+    "c880": {
+        "Communication-2+0": 2,
+        "Swift": 4,
+        "Java-3+0": 4
+    },
+    "c139": {
+        "Shell-2+0": 3,
+        "TechWriting-js": 3,
+        "BusinessAnalysis-3+0": 3
+    },
+    "c285": {
+        "Bash-py": 4,
+        "Ajax-py": 2,
+        "COBOL-3+0": 1
+    },
+    "c447": {
+        "Shell-3+0": 1,
+        "MachineLearning-2+0": 4,
+        "BusinessAnalysis-lib": 4
+    },
+    "c1448": {
+        "Swift-js": 4,
+        "SignalProcessing-2+0": 4,
+        "Python": 2
+    },
+    "c796": {
+        "SignalProcessing-3+0": 4,
+        "Dart": 3,
+        "XML-js": 2
+    },
+    "c133": {
+        "VisualBasic": 2,
+        "CloudComputing++": 1,
+        "Privacy-js": 1
+    },
+    "c232": {
+        "JavaScript-NET": 3,
+        "SignalProcessing++": 3,
+        "Security-3+0": 3
+    },
+    "c124": {
+        "Haskell-2+0": 4,
+        "C++-py": 3,
+        "Security-js": 3
+    },
+    "c883": {
+        "TypeScript": 1,
+        "VisualBasic-2+0": 2,
+        "BigQuery-2+0": 2
+    },
+    "c248": {
+        "Blockchain": 1,
+        "BusinessAnalysis++": 3,
+        "Accessibility": 1
+    },
+    "c743": {
+        "TechWriting": 3,
+        "XML-py": 4,
+        "PublicSpeaking-py": 2
+    },
+    "c1431": {
+        "HTML-js": 1,
+        "Management-2+0": 1,
+        "Science-py": 4
+    },
+    "c17": {
+        "SignalProcessing-py": 4,
+        "JavaScript-NET": 4,
+        "C-2+0": 4
+    },
+    "c90": {
+        "CloudComputing": 1,
+        "Ruby-2+0": 2,
+        "Science-lib": 2
+    },
+    "c354": {
+        "Communication++": 3,
+        "AI++": 4,
+        "Accessibility-js": 4
+    },
+    "c262": {
+        "Communication": 2,
+        "Dart-js": 3,
+        "SignalProcessing-js": 4
+    },
+    "c332": {
+        "UXDesign-NET": 1,
+        "Assembly-py": 4,
+        "Dart-js": 4
+    },
+    "c131": {
+        "Haskell-2+0": 2,
+        "Delphi-lib": 3,
+        "Analysis-3+0": 2
+    },
+    "c546": {
+        "TypeScript++": 2,
+        "Communication-2+0": 4,
+        "Python": 2
+    },
+    "c1375": {
+        "PHP-js": 4,
+        "CloudComputing-NET": 4,
+        "Swift-js": 1
+    },
+    "c683": {
+        "Analysis++": 1,
+        "VideoProduction++": 4,
+        "Analysis-3+0": 4
+    },
+    "c823": {
+        "Ada-lib": 1,
+        "HTML-2+0": 4,
+        "Java-lib": 2
+    },
+    "c418": {
+        "Management": 4,
+        "Bash-js": 2,
+        "Go": 2
+    },
+    "c1306": {
+        "Objective-C-lib": 3,
+        "PHP-3+0": 4,
+        "SQL++": 4
+    },
+    "c732": {
+        "Go-lib": 3,
+        "Parallelization-NET": 3,
+        "Java-3+0": 4
+    },
+    "c1331": {
+        "Accessibility": 3,
+        "Go": 3,
+        "Python-2+0": 4
+    },
+    "c10": {
+        "MakingMemes-js": 3,
+        "Accessibility-NET": 3,
+        "Kotlin-3+0": 4
+    },
+    "c1069": {
+        "Accessibility-NET": 2,
+        "MySQL": 2,
+        "Java-lib": 1
+    },
+    "c494": {
+        "MATLAB": 4,
+        "UXDesign": 4,
+        "Creativity": 3
+    },
+    "c340": {
+        "Accessibility++": 3,
+        "PublicSpeaking-2+0": 2,
+        "MakingMemes++": 2
+    },
+    "c815": {
+        "Bash-2+0": 4,
+        "PHP-py": 3,
+        "Perl-lib": 1
+    },
+    "c6": {
+        "Analysis++": 3,
+        "Shell-2+0": 2,
+        "Ada-NET": 1
+    },
+    "c871": {
+        "MakingMemes-py": 2,
+        "MakingMemes++": 1,
+        "Blockchain": 4
+    },
+    "c1022": {
+        "Privacy-js": 1,
+        "Science++": 2,
+        "Management": 1
+    },
+    "c769": {
+        "JavaScript": 3,
+        "BusinessAnalysis++": 1,
+        "PublicSpeaking-2+0": 3
+    },
+    "c614": {
+        "VisualBasic++": 3,
+        "JavaScript-NET": 1,
+        "Communication-3+0": 2
+    },
+    "c1377": {
+        "Ruby-3+0": 1,
+        "Swift": 4,
+        "Ruby-2+0": 1
+    },
+    "c696": {
+        "JavaScript": 3,
+        "Python-3+0": 2,
+        "AI++": 3
+    },
+    "c1404": {
+        "VideoProduction-lib": 4,
+        "SQL++": 2,
+        "Dart": 4
+    },
+    "c750": {
+        "SignalProcessing-2+0": 4,
+        "MachineLearning-2+0": 3,
+        "XML-py": 1
+    },
+    "c244": {
+        "JavaScript-NET": 3,
+        "TechWriting-js": 3,
+        "MATLAB-py": 4
+    },
+    "c1422": {
+        "Swift": 1,
+        "Shell-3+0": 3,
+        "TypeScript-lib": 1
+    },
+    "c1154": {
+        "Analysis": 1,
+        "Management-2+0": 2,
+        "Go-js": 3
+    },
+    "c972": {
+        "XML-js": 4,
+        "SignalProcessing-py": 3,
+        "Python-3+0": 3
+    },
+    "c146": {
+        "R-NET": 1,
+        "Delphi-lib": 1,
+        "HTML-2+0": 4
+    },
+    "c1340": {
+        "Communication": 1,
+        "COBOL++": 4,
+        "SQL-js": 3
+    },
+    "c936": {
+        "Haskell-js": 2,
+        "Delphi-js": 1,
+        "UXDesign": 4
+    },
+    "c377": {
+        "C-2+0": 3,
+        "R-2+0": 3,
+        "TechWriting": 1
+    },
+    "c1011": {
+        "Assembly-NET": 1,
+        "PHP-js": 3,
+        "TypeScript-lib": 3
+    },
+    "c923": {
+        "SignalProcessing++": 3,
+        "Communication-2+0": 2,
+        "JavaScript-NET": 1
+    },
+    "c247": {
+        "CloudComputing++": 1,
+        "Parallelization-NET": 4,
+        "Communication-py": 3
+    },
+    "c170": {
+        "HTML-py": 2,
+        "SQL-NET": 3,
+        "Communication-js": 2
+    },
+    "c730": {
+        "PHP-2+0": 1,
+        "Angular-lib": 1,
+        "SignalProcessing-js": 1
+    },
+    "c1215": {
+        "Delphi-3+0": 1,
+        "Accessibility-NET": 4,
+        "Accessibility": 3
+    },
+    "c741": {
+        "Pascal-py": 3,
+        "Ruby-js": 3,
+        "PublicSpeaking-py": 4
+    },
+    "c1203": {
+        "R++": 2,
+        "Dart-3+0": 3,
+        "Assembly-lib": 3
+    },
+    "c695": {
+        "C++-js": 2,
+        "SQL-js": 3,
+        "Communication-2+0": 4
+    },
+    "c471": {
+        "MachineLearning-2+0": 3,
+        "Security-js": 3,
+        "Ada-NET": 3
+    },
+    "c720": {
+        "Angular-2+0": 3,
+        "SQL-NET": 4,
+        "Bash-js": 3
+    },
+    "c1126": {
+        "Bash": 4,
+        "Swift": 1,
+        "Haskell-2+0": 2
+    },
+    "c484": {
+        "PublicSpeaking-js": 2,
+        "JavaScript-NET": 2,
+        "VideoProduction++": 3
+    },
+    "c456": {
+        "Ajax-3+0": 4,
+        "VisualBasic-2+0": 3,
+        "C++-js": 3
+    },
+    "c762": {
+        "Python": 2,
+        "JavaScript-2+0": 2,
+        "XML-py": 1
+    },
+    "c246": {
+        "HTML-js": 2,
+        "Angular-lib": 2,
+        "JavaScript-NET": 3
+    },
+    "c156": {
+        "Dart-js": 3,
+        "MATLAB++": 2,
+        "TechWriting-js": 2
+    },
+    "c1220": {
+        "Perl-NET": 4,
+        "XML-js": 3,
+        "Java-js": 2
+    },
+    "c1052": {
+        "Assembly-NET": 1,
+        "Objective-C-py": 2,
+        "C++-lib": 1
+    },
+    "c357": {
+        "CloudComputing++": 1,
+        "MakingMemes++": 2,
+        "Communication-py": 1
+    },
+    "c1487": {
+        "Creativity": 3,
+        "Assembly-2+0": 2,
+        "Analysis": 1
+    },
+    "c1421": {
+        "Perl-py": 1,
+        "SignalProcessing++": 3,
+        "Accessibility-NET": 1
+    },
+    "c1090": {
+        "Java-2+0": 1,
+        "PHP-py": 1,
+        "Accessibility++": 4
+    },
+    "c930": {
+        "Science++": 4,
+        "Go": 4,
+        "MATLAB": 2
+    },
+    "c1227": {
+        "VideoProduction-2+0": 2,
+        "Accessibility-js": 2,
+        "Management": 2
+    },
+    "c658": {
+        "Assembly-py": 2,
+        "TypeScript-py": 3,
+        "Creativity": 1
+    },
+    "c180": {
+        "Perl-lib": 2,
+        "Analysis": 2,
+        "Parallelization-py": 2
+    },
+    "c757": {
+        "Blockchain": 1,
+        "Java-js": 3,
+        "Java-NET": 3
+    },
+    "c1436": {
+        "BusinessAnalysis": 4,
+        "XML-3+0": 2,
+        "Security-3+0": 4
+    },
+    "c749": {
+        "Accessibility-NET": 4,
+        "UXDesign": 3,
+        "XML-py": 4
+    },
+    "c1441": {
+        "C++-NET": 3,
+        "TechWriting-2+0": 1,
+        "TypeScript-lib": 2
+    },
+    "c505": {
+        "Bash": 2,
+        "R-2+0": 4,
+        "MATLAB++": 3
+    },
+    "c176": {
+        "Privacy-lib": 1,
+        "BusinessAnalysis-lib": 3,
+        "Go-js": 1
+    },
+    "c1008": {
+        "PHP-js": 1,
+        "TechWriting": 3,
+        "TypeScript": 2
+    },
+    "c1119": {
+        "Blockchain-3+0": 2,
+        "Java-NET": 4,
+        "Swift-js": 1
+    },
+    "c746": {
+        "Security-3+0": 3,
+        "Blockchain++": 2,
+        "MATLAB++": 3
+    },
+    "c637": {
+        "Communication-py": 4,
+        "Haskell-js": 3,
+        "CloudComputing-NET": 2
+    },
+    "c265": {
+        "Shell-2+0": 4,
+        "R-NET": 1,
+        "PublicSpeaking-js": 1
+    },
+    "c127": {
+        "R++": 3,
+        "VideoProduction-2+0": 3,
+        "PublicSpeaking-2+0": 1
+    },
+    "c472": {
+        "SQL-NET": 1,
+        "HTML++": 4,
+        "VisualBasic-2+0": 1
+    },
+    "c890": {
+        "BusinessAnalysis-3+0": 2,
+        "Assembly-lib": 1,
+        "VideoProduction++": 1
+    },
+    "c1121": {
+        "Dart-lib": 4,
+        "Swift-lib": 2,
+        "UXDesign": 1
+    },
+    "c1196": {
+        "Ada-py": 4,
+        "Swift-NET": 1,
+        "VideoProduction++": 1
+    },
+    "c888": {
+        "PublicSpeaking-py": 3,
+        "MySQL-NET": 2,
+        "Dart-js": 3
+    },
+    "c1031": {
+        "R-py": 2,
+        "Delphi-js": 1,
+        "Angular-lib": 1
+    },
+    "c562": {
+        "Pascal-2+0": 4,
+        "Swift-js": 4,
+        "Objective-C-2+0": 3
+    },
+    "c745": {
+        "C-2+0": 1,
+        "SignalProcessing-py": 3,
+        "TypeScript-lib": 3
+    },
+    "c758": {
+        "Assembly-lib": 4,
+        "SignalProcessing-py": 4,
+        "Haskell": 1
+    },
+    "c1207": {
+        "MachineLearning-lib": 3,
+        "Communication-lib": 1,
+        "COBOL": 1
+    },
+    "c838": {
+        "MachineLearning-lib": 3,
+        "Objective-C-2+0": 3,
+        "Ruby-2+0": 3
+    },
+    "c569": {
+        "Go-js": 4,
+        "Java-lib": 1,
+        "BigQuery-2+0": 4
+    },
+    "c1272": {
+        "Pascal-py": 3,
+        "Blockchain++": 1,
+        "Pascal-3+0": 1
+    },
+    "c1131": {
+        "CloudComputing-lib": 2,
+        "PublicSpeaking-2+0": 1,
+        "Privacy-js": 3
+    },
+    "c1146": {
+        "VideoProduction": 1,
+        "Bash-3+0": 2,
+        "Management-lib": 4
+    },
+    "c345": {
+        "Perl-3+0": 2,
+        "Accessibility++": 3,
+        "C-2+0": 1
+    },
+    "c1025": {
+        "TypeScript-py": 4,
+        "BusinessAnalysis++": 4,
+        "Management": 1
+    },
+    "c706": {
+        "CloudComputing-NET": 3,
+        "Java-2+0": 4,
+        "MATLAB-py": 1
+    },
+    "c1341": {
+        "Ajax-2+0": 2,
+        "Creativity-NET": 3,
+        "PublicSpeaking-py": 1
+    },
+    "c129": {
+        "Delphi-lib": 2,
+        "Delphi": 4,
+        "Bash": 2
+    },
+    "c814": {
+        "C++-lib": 2,
+        "Accessibility++": 1,
+        "Assembly-lib": 3
+    },
+    "c125": {
+        "VideoProduction-3+0": 2,
+        "PublicSpeaking-js": 3,
+        "MATLAB-py": 4
+    },
+    "c1004": {
+        "Creativity-js": 3,
+        "CloudComputing": 3,
+        "Go-js": 2
+    },
+    "c915": {
+        "Go-lib": 1,
+        "PHP-2+0": 3,
+        "Ajax-py": 1
+    },
+    "c365": {
+        "Java-2+0": 2,
+        "Go-js": 2,
+        "Dart": 2
+    },
+    "c269": {
+        "PHP-2+0": 3,
+        "SQL": 1,
+        "Assembly-py": 4
+    },
+    "c1465": {
+        "Accessibility-NET": 2,
+        "MATLAB-py": 4,
+        "Perl-py": 4
+    },
+    "c152": {
+        "PHP-3+0": 2,
+        "PublicSpeaking-js": 2,
+        "Haskell-2+0": 3
+    },
+    "c703": {
+        "MakingMemes-py": 2,
+        "TypeScript++": 1,
+        "Accessibility++": 2
+    },
+    "c1024": {
+        "COBOL": 4,
+        "Angular-py": 3,
+        "C-2+0": 2
+    },
+    "c1241": {
+        "Dart-3+0": 4,
+        "Creativity-js": 3,
+        "Management-lib": 1
+    },
+    "c577": {
+        "Perl-NET": 2,
+        "Assembly-lib": 1,
+        "R-py": 2
+    },
+    "c1486": {
+        "Angular-NET": 4,
+        "Assembly-NET": 2,
+        "BusinessAnalysis-lib": 3
+    },
+    "c613": {
+        "Privacy-lib": 2,
+        "Go++": 2,
+        "HTML-js": 4
+    },
+    "c1212": {
+        "Go++": 3,
+        "COBOL-3+0": 4,
+        "TechWriting++": 3
+    },
+    "c196": {
+        "Dart-3+0": 2,
+        "R-py": 3,
+        "Communication-NET": 1
+    },
+    "c406": {
+        "C++-NET": 3,
+        "VideoProduction++": 2,
+        "MakingMemes++": 3
+    },
+    "c87": {
+        "Perl-lib": 1,
+        "Swift": 2,
+        "CloudComputing": 2
+    },
+    "c181": {
+        "MakingMemes-lib": 4,
+        "Management++": 3,
+        "HTML-js": 2
+    },
+    "c974": {
+        "CloudComputing-NET": 1,
+        "VideoProduction-2+0": 4,
+        "Creativity-js": 2
+    },
+    "c1006": {
+        "Delphi": 3,
+        "Accessibility-js": 3,
+        "Delphi-py": 1
+    },
+    "c765": {
+        "Analysis-NET": 4,
+        "Blockchain-3+0": 1,
+        "Science++": 1
+    },
+    "c371": {
+        "C++-lib": 1,
+        "Dart-3+0": 4,
+        "Perl-3+0": 2
+    },
+    "c1108": {
+        "PHP-3+0": 2,
+        "XML-2+0": 3,
+        "Go-js": 1
+    },
+    "c896": {
+        "Kotlin-js": 4,
+        "SQL++": 4,
+        "Ruby-js": 1
+    },
+    "c89": {
+        "MySQL-NET": 1,
+        "PublicSpeaking-py": 4,
+        "TypeScript-py": 4
+    },
+    "c115": {
+        "JavaScript": 2,
+        "R++": 2,
+        "MySQL-lib": 4
+    },
+    "c1392": {
+        "Kotlin-js": 2,
+        "XML-js": 2,
+        "Python": 2
+    },
+    "c1312": {
+        "Swift-js": 4,
+        "C++-py": 4,
+        "BusinessAnalysis++": 3
+    },
+    "c1216": {
+        "Management-lib": 1,
+        "CloudComputing": 3,
+        "Privacy-lib": 2
+    },
+    "c1416": {
+        "C-3+0": 4,
+        "Haskell-py": 1,
+        "Management++": 4
+    },
+    "c465": {
+        "Accessibility-js": 2,
+        "PublicSpeaking-NET": 1,
+        "TechWriting++": 1
+    },
+    "c836": {
+        "Ada-py": 1,
+        "Swift-NET": 4,
+        "Delphi-3+0": 4
+    },
+    "c1210": {
+        "BusinessAnalysis-lib": 1,
+        "VisualBasic-2+0": 1,
+        "Shell-2+0": 3
+    },
+    "c1072": {
+        "Objective-C-lib": 1,
+        "AI++": 4,
+        "COBOL": 1
+    },
+    "c1495": {
+        "Ruby-2+0": 2,
+        "Blockchain++": 3,
+        "C++-py": 3
+    },
+    "c948": {
+        "Analysis-3+0": 4,
+        "Haskell-js": 4,
+        "Assembly-py": 4
+    },
+    "c451": {
+        "Perl-lib": 4,
+        "TypeScript": 2,
+        "Haskell": 1
+    },
+    "c1339": {
+        "Delphi-lib": 1,
+        "R-2+0": 4,
+        "Analysis-NET": 2
+    },
+    "c1007": {
+        "CloudComputing-2+0": 4,
+        "TypeScript++": 1,
+        "Management++": 1
+    },
+    "c1199": {
+        "Ada-py": 4,
+        "Ruby-3+0": 2,
+        "CloudComputing": 4
+    },
+    "c620": {
+        "Management-3+0": 2,
+        "Communication++": 4,
+        "Java-NET": 4
+    },
+    "c1453": {
+        "Delphi-lib": 3,
+        "XML-js": 3,
+        "C-3+0": 3
+    },
+    "c1148": {
+        "Java-NET": 4,
+        "MachineLearning-lib": 4,
+        "Security-3+0": 4
+    },
+    "c292": {
+        "Parallelization-NET": 1,
+        "C++-js": 1,
+        "Analysis-NET": 2
+    },
+    "c861": {
+        "Accessibility-NET": 2,
+        "Objective-C-py": 4,
+        "C-3+0": 3
+    },
+    "c239": {
+        "Communication": 2,
+        "MachineLearning-2+0": 3,
+        "SQL-2+0": 3
+    },
+    "c643": {
+        "CloudComputing": 4,
+        "Angular-py": 2,
+        "SQL": 1
+    },
+    "c175": {
+        "Bash-js": 4,
+        "C-3+0": 2,
+        "Java-js": 1
+    },
+    "c585": {
+        "SQL-2+0": 3,
+        "Ada-py": 4,
+        "CloudComputing-lib": 2
+    },
+    "c984": {
+        "VisualBasic": 1,
+        "BusinessAnalysis++": 4,
+        "Ruby-2+0": 2
+    },
+    "c565": {
+        "Analysis-3+0": 1,
+        "Creativity-NET": 2,
+        "Bash-js": 1
+    },
+    "c605": {
+        "Communication-py": 3,
+        "PublicSpeaking-NET": 1,
+        "MATLAB": 1
+    },
+    "c1248": {
+        "XML-2+0": 3,
+        "Kotlin-3+0": 3,
+        "VisualBasic-2+0": 1
+    },
+    "c1389": {
+        "Analysis": 4,
+        "Swift-NET": 3,
+        "Angular-NET": 1
+    },
+    "c86": {
+        "Communication-js": 2,
+        "Objective-C-2+0": 1,
+        "Management-3+0": 1
+    },
+    "c1401": {
+        "CSS-NET": 1,
+        "BusinessAnalysis-3+0": 2,
+        "Swift-NET": 2
+    },
+    "c148": {
+        "Java-3+0": 4,
+        "Perl-py": 1,
+        "Communication-js": 2
+    },
+    "c594": {
+        "SQL-js": 4,
+        "MachineLearning-NET": 3,
+        "Objective-C-lib": 1
+    },
+    "c867": {
+        "VisualBasic++": 4,
+        "Kotlin-3+0": 3,
+        "Ada-lib": 2
+    },
+    "c1365": {
+        "SignalProcessing-3+0": 2,
+        "TypeScript-lib": 2,
+        "Java-2+0": 1
+    },
+    "c308": {
+        "SQL-2+0": 3,
+        "Kotlin-js": 3,
+        "Accessibility++": 1
+    },
+    "c260": {
+        "Objective-C-py": 4,
+        "Haskell": 1,
+        "PHP-js": 3
+    },
+    "c463": {
+        "Analysis": 3,
+        "Go": 3,
+        "Kotlin-js": 1
+    },
+    "c1202": {
+        "SQL++": 3,
+        "PublicSpeaking-2+0": 1,
+        "Accessibility++": 2
+    },
+    "c1485": {
+        "PHP-py": 3,
+        "TechWriting-2+0": 4,
+        "HTML++": 4
+    },
+    "c832": {
+        "Perl-NET": 3,
+        "Shell-lib": 2,
+        "Management": 1
+    },
+    "c482": {
+        "JavaScript-NET": 4,
+        "TypeScript-py": 1,
+        "Perl-py": 3
+    },
+    "c151": {
+        "MakingMemes-js": 1,
+        "Delphi-js": 1,
+        "Management-lib": 1
+    },
+    "c182": {
+        "JavaScript-NET": 2,
+        "Dart-js": 4,
+        "Java-js": 1
+    },
+    "c213": {
+        "Accessibility": 3,
+        "Kotlin-3+0": 4,
+        "Bash-3+0": 2
+    },
+    "c659": {
+        "Kotlin-3+0": 2,
+        "MakingMemes-lib": 3,
+        "Python-3+0": 3
+    },
+    "c1168": {
+        "AI-py": 2,
+        "TechWriting-js": 2,
+        "Swift-js": 3
+    },
+    "c1132": {
+        "Ada-NET": 3,
+        "Accessibility": 1,
+        "Python-2+0": 4
+    },
+    "c922": {
+        "Java-NET": 3,
+        "MySQL": 1,
+        "Objective-C-2+0": 1
+    },
+    "c1003": {
+        "Ajax-py": 4,
+        "Dart-3+0": 1,
+        "Perl-NET": 1
+    },
+    "c34": {
+        "C++-lib": 2,
+        "Creativity-NET": 3,
+        "Dart-3+0": 2
+    },
+    "c601": {
+        "MATLAB": 3,
+        "XML-js": 4,
+        "Security-3+0": 2
+    },
+    "c103": {
+        "Haskell-py": 4,
+        "Objective-C-py": 2,
+        "TechWriting-js": 3
+    },
+    "c926": {
+        "C-2+0": 3,
+        "AI-py": 3,
+        "Swift-NET": 2
+    },
+    "c692": {
+        "Perl-lib": 1,
+        "PublicSpeaking-py": 1,
+        "Delphi-3+0": 2
+    },
+    "c1095": {
+        "Communication-2+0": 1,
+        "Haskell-lib": 3,
+        "C++-lib": 4
+    },
+    "c410": {
+        "Shell-2+0": 1,
+        "SQL-2+0": 1,
+        "BusinessAnalysis++": 2
+    },
+    "c359": {
+        "Communication-js": 2,
+        "VideoProduction-lib": 3,
+        "VisualBasic": 1
+    },
+    "c177": {
+        "VisualBasic": 4,
+        "Kotlin-js": 2,
+        "Assembly-NET": 4
+    },
+    "c1153": {
+        "MATLAB++": 4,
+        "C++-py": 1,
+        "AI-py": 3
+    },
+    "c520": {
+        "BigQuery-2+0": 1,
+        "MachineLearning-NET": 1,
+        "MakingMemes-lib": 1
+    },
+    "c194": {
+        "Bash-3+0": 2,
+        "Angular-2+0": 4,
+        "PublicSpeaking-py": 3
+    },
+    "c1176": {
+        "BusinessAnalysis++": 3,
+        "Assembly-2+0": 2,
+        "UXDesign": 3
+    },
+    "c1085": {
+        "Communication-py": 4,
+        "Python": 4,
+        "TechWriting-js": 1
+    },
+    "c784": {
+        "Ruby-2+0": 3,
+        "Delphi-lib": 2,
+        "MakingMemes-js": 1
+    },
+    "c37": {
+        "Shell-lib": 1,
+        "MySQL": 2,
+        "Management-lib": 2
+    },
+    "c207": {
+        "TypeScript": 1,
+        "CloudComputing-lib": 2,
+        "Communication-NET": 1
+    },
+    "c976": {
+        "VideoProduction-3+0": 4,
+        "TechWriting": 4,
+        "CSS-NET": 2
+    },
+    "c1417": {
+        "Shell-2+0": 1,
+        "HTML-js": 2,
+        "Java-3+0": 3
+    },
+    "c222": {
+        "JavaScript": 4,
+        "CloudComputing-NET": 3,
+        "HTML-js": 2
+    },
+    "c201": {
+        "PublicSpeaking-NET": 4,
+        "Communication": 4,
+        "Science++": 1
+    },
+    "c227": {
+        "Privacy-js": 4,
+        "Java-3+0": 2,
+        "R-py": 3
+    },
+    "c1189": {
+        "Ajax-3+0": 3,
+        "R-NET": 4,
+        "HTML++": 3
+    },
+    "c1263": {
+        "Dart-js": 3,
+        "Ajax-2+0": 3,
+        "VideoProduction": 1
+    },
+    "c820": {
+        "MySQL": 3,
+        "Parallelization-py": 3,
+        "Dart-lib": 2
+    },
+    "c988": {
+        "Management-lib": 3,
+        "VisualBasic": 4,
+        "Perl-lib": 2
+    },
+    "c651": {
+        "Go-lib": 3,
+        "PublicSpeaking-2+0": 4,
+        "SignalProcessing-2+0": 2
+    },
+    "c1089": {
+        "Delphi-3+0": 3,
+        "MySQL-lib": 2,
+        "Analysis": 1
+    },
+    "c940": {
+        "TypeScript-lib": 1,
+        "Angular-2+0": 4,
+        "HTML-js": 3
+    },
+    "c254": {
+        "Angular-lib": 3,
+        "Analysis-3+0": 3,
+        "PublicSpeaking-py": 2
+    },
+    "c691": {
+        "MachineLearning-2+0": 3,
+        "Blockchain-3+0": 3,
+        "Security-NET": 3
+    },
+    "c71": {
+        "Haskell-2+0": 4,
+        "VisualBasic": 4,
+        "Go++": 1
+    },
+    "c633": {
+        "MATLAB": 1,
+        "Ruby-3+0": 1,
+        "CloudComputing-NET": 4
+    },
+    "c1092": {
+        "Shell-2+0": 2,
+        "Dart-lib": 1,
+        "PublicSpeaking-py": 4
+    },
+    "c734": {
+        "SQL++": 4,
+        "Ruby-2+0": 2,
+        "MySQL-lib": 1
+    },
+    "c186": {
+        "BigQuery-NET": 2,
+        "Delphi-3+0": 1,
+        "C-3+0": 2
+    },
+    "c296": {
+        "Management-3+0": 4,
+        "Science-py": 3,
+        "Accessibility++": 2
+    },
+    "c1346": {
+        "Perl-NET": 1,
+        "VisualBasic-NET": 1,
+        "CloudComputing-NET": 4
+    },
+    "c1301": {
+        "PublicSpeaking-NET": 1,
+        "Science-lib": 1,
+        "Shell-3+0": 3
+    },
+    "c698": {
+        "CSS-NET": 3,
+        "Objective-C-lib": 1,
+        "Blockchain-3+0": 1
+    },
+    "c868": {
+        "C++-NET": 1,
+        "Management": 3,
+        "MATLAB-py": 3
+    },
+    "c709": {
+        "Swift-js": 4,
+        "TypeScript++": 4,
+        "Ada-py": 1
+    },
+    "c373": {
+        "R-2+0": 1,
+        "VisualBasic-2+0": 4,
+        "Python": 4
+    },
+    "c1327": {
+        "Blockchain-3+0": 4,
+        "Dart": 2,
+        "Swift-lib": 4
+    },
+    "c655": {
+        "C-2+0": 1,
+        "Java-3+0": 3,
+        "MATLAB++": 2
+    },
+    "c1475": {
+        "MakingMemes++": 4,
+        "Perl-3+0": 2,
+        "MySQL-lib": 2
+    },
+    "c249": {
+        "BusinessAnalysis-js": 4,
+        "HTML-py": 2,
+        "CloudComputing": 1
+    },
+    "c314": {
+        "Swift-NET": 3,
+        "MachineLearning-2+0": 3,
+        "Blockchain-3+0": 2
+    },
+    "c352": {
+        "Swift-js": 4,
+        "Bash-js": 1,
+        "Haskell-py": 4
+    },
+    "c1236": {
+        "PublicSpeaking-2+0": 1,
+        "CSS-NET": 3,
+        "BusinessAnalysis-js": 1
+    },
+    "c885": {
+        "Communication": 2,
+        "TechWriting": 3,
+        "MATLAB": 1
+    },
+    "c1009": {
+        "Haskell-py": 3,
+        "Pascal-2+0": 2,
+        "MySQL-lib": 1
+    },
+    "c595": {
+        "CloudComputing-NET": 1,
+        "Science-py": 1,
+        "PublicSpeaking-NET": 3
+    },
+    "c435": {
+        "MATLAB-py": 1,
+        "MakingMemes++": 2,
+        "Communication-py": 3
+    },
+    "c1190": {
+        "TechWriting++": 4,
+        "MakingMemes-lib": 1,
+        "Bash-2+0": 4
+    },
+    "c873": {
+        "Communication++": 4,
+        "Bash-py": 3,
+        "Angular-NET": 3
+    },
+    "c1458": {
+        "CloudComputing-2+0": 4,
+        "BigQuery-2+0": 3,
+        "Haskell-js": 4
+    },
+    "c1477": {
+        "Analysis": 4,
+        "Privacy-js": 4,
+        "Analysis-NET": 3
+    },
+    "c798": {
+        "Communication-lib": 1,
+        "Haskell-lib": 4,
+        "Perl-py": 4
+    },
+    "c35": {
+        "Accessibility-js": 2,
+        "VisualBasic": 2,
+        "BusinessAnalysis-3+0": 2
+    },
+    "c1498": {
+        "Perl-lib": 1,
+        "C++-py": 4,
+        "MATLAB-py": 4
+    },
+    "c1261": {
+        "Dart-3+0": 4,
+        "HTML-js": 4,
+        "BusinessAnalysis++": 3
+    },
+    "c1494": {
+        "Assembly-py": 1,
+        "Kotlin-js": 3,
+        "R-2+0": 4
+    },
+    "c128": {
+        "Ruby-js": 3,
+        "C-3+0": 4,
+        "Haskell": 4
+    },
+    "c1334": {
+        "Communication-2+0": 3,
+        "VideoProduction-lib": 3,
+        "Pascal-py": 3
+    },
+    "c28": {
+        "MATLAB-py": 1,
+        "C++-lib": 2,
+        "BigQuery-2+0": 2
+    },
+    "c1259": {
+        "Shell-2+0": 2,
+        "Delphi-py": 3,
+        "MySQL-NET": 3
+    },
+    "c581": {
+        "CloudComputing-lib": 2,
+        "Shell-lib": 3,
+        "Shell-2+0": 2
+    },
+    "c937": {
+        "SignalProcessing++": 4,
+        "BusinessAnalysis-3+0": 4,
+        "TypeScript-py": 3
+    },
+    "c1165": {
+        "R++": 1,
+        "R-py": 2,
+        "AI-py": 1
+    },
+    "c312": {
+        "SignalProcessing++": 1,
+        "Swift-js": 4,
+        "CloudComputing-lib": 3
+    },
+    "c1274": {
+        "C++-js": 2,
+        "CloudComputing": 3,
+        "Perl-NET": 2
+    },
+    "c756": {
+        "VideoProduction-lib": 4,
+        "Haskell-2+0": 2,
+        "Swift-lib": 4
+    },
+    "c209": {
+        "XML-py": 1,
+        "PHP-js": 4,
+        "Ada-py": 2
+    },
+    "c138": {
+        "Go++": 3,
+        "Communication++": 2,
+        "PublicSpeaking-2+0": 3
+    },
+    "c300": {
+        "COBOL": 4,
+        "TechWriting-js": 1,
+        "COBOL++": 2
+    },
+    "c98": {
+        "Ada-py": 4,
+        "COBOL-3+0": 2,
+        "AI++": 1
+    },
+    "c362": {
+        "MySQL": 3,
+        "XML-js": 4,
+        "Java-3+0": 1
+    },
+    "c1010": {
+        "Accessibility": 2,
+        "PublicSpeaking-py": 4,
+        "VideoProduction-js": 3
+    },
+    "c360": {
+        "MakingMemes-py": 3,
+        "JavaScript-2+0": 4,
+        "JavaScript-NET": 2
+    },
+    "c164": {
+        "MySQL-NET": 1,
+        "Management-2+0": 4,
+        "Communication-2+0": 1
+    },
+    "c480": {
+        "Kotlin-3+0": 1,
+        "Ruby-3+0": 1,
+        "TechWriting-2+0": 2
+    },
+    "c794": {
+        "Creativity-js": 3,
+        "VideoProduction-lib": 2,
+        "Angular-2+0": 1
+    },
+    "c684": {
+        "Delphi-py": 3,
+        "C++-lib": 4,
+        "Perl-NET": 3
+    },
+    "c1387": {
+        "Swift-NET": 4,
+        "BusinessAnalysis-js": 1,
+        "VideoProduction++": 1
+    },
+    "c497": {
+        "Ada-lib": 2,
+        "Parallelization-py": 3,
+        "Bash-py": 3
+    },
+    "c1228": {
+        "TechWriting-2+0": 4,
+        "Shell-2+0": 4,
+        "Analysis-NET": 4
+    },
+    "c567": {
+        "Ajax-py": 2,
+        "SignalProcessing-js": 2,
+        "JavaScript-2+0": 3
+    },
+    "c1233": {
+        "C++-py": 2,
+        "C++-js": 3,
+        "Shell-3+0": 1
+    },
+    "c392": {
+        "HTML-2+0": 3,
+        "MakingMemes-py": 4,
+        "Shell-3+0": 1
+    }
+}
