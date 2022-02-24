@@ -194,12 +194,12 @@
                 },
                 "increase": true
             },
-            "SundarH": {
+            "BenjaminO": {
                 "skill": "CloudComputing-2+0",
                 "index-in-desc": 0,
                 "contributor": {
-                    "CloudComputing-2+0": 10,
-                    "_name_": "SundarH"
+                    "CloudComputing-2+0": 6,
+                    "_name_": "BenjaminO"
                 },
                 "increase": false
             },
@@ -333,12 +333,12 @@
         "name": "DaydreamLitev7",
         "start": 0,
         "assigned-contributors": {
-            "BenjaminO": {
+            "SundarH": {
                 "skill": "CloudComputing-2+0",
                 "index-in-desc": 0,
                 "contributor": {
-                    "CloudComputing-2+0": 6,
-                    "_name_": "BenjaminO"
+                    "CloudComputing-2+0": 10,
+                    "_name_": "SundarH"
                 },
                 "increase": false
             }
@@ -372,21 +372,21 @@
         "name": "MarsXv1",
         "start": 0,
         "assigned-contributors": {
-            "PrabhakarR": {
+            "HiroshiF": {
                 "skill": "CloudComputing-NET",
                 "index-in-desc": 0,
                 "contributor": {
                     "CloudComputing-NET": 5,
-                    "_name_": "PrabhakarR"
+                    "_name_": "HiroshiF"
                 },
                 "increase": false
             },
-            "ClementT": {
+            "FionaJ": {
                 "skill": "BusinessAnalysis-lib",
                 "index-in-desc": 0,
                 "contributor": {
-                    "BusinessAnalysis-lib": 9,
-                    "_name_": "ClementT"
+                    "BusinessAnalysis-lib": 10,
+                    "_name_": "FionaJ"
                 },
                 "increase": false
             },
@@ -399,12 +399,12 @@
                 },
                 "increase": true
             },
-            "MatasH": {
+            "MichalP": {
                 "skill": "Blockchain",
                 "index-in-desc": 0,
                 "contributor": {
-                    "Blockchain": 4,
-                    "_name_": "MatasH"
+                    "Blockchain": 8,
+                    "_name_": "MichalP"
                 },
                 "increase": false
             }
@@ -521,16 +521,32 @@
                 "index-in-desc": 0,
                 "contributor": {
                     "Blockchain": 8,
-                    "_name_": "MichalP"
+                    "_name_": "MichalP",
+                    "assigned-projects": [
+                        {
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
                 },
                 "increase": true
             },
-            "BakhodirW": {
+            "SundarH": {
                 "skill": "CloudComputing-2+0",
                 "index-in-desc": 0,
                 "contributor": {
-                    "CloudComputing-2+0": 8,
-                    "_name_": "BakhodirW"
+                    "CloudComputing-2+0": 10,
+                    "_name_": "SundarH",
+                    "assigned-projects": [
+                        {
+                            "project": "DaydreamLitev7",
+                            "start": 0,
+                            "end": 12
+                        }
+                    ],
+                    "_working_": null
                 },
                 "increase": false
             },
@@ -594,17 +610,17 @@
                 },
                 "increase": false
             },
-            "JenK": {
+            "MatasC": {
                 "skill": "PublicSpeaking-py",
                 "index-in-desc": 0,
                 "contributor": {
-                    "PublicSpeaking-py": 4,
-                    "_name_": "JenK",
+                    "PublicSpeaking-py": 7,
+                    "_name_": "MatasC",
                     "assigned-projects": [
                         {
-                            "project": "WearOSLitev5",
+                            "project": "ResearchXv8",
                             "start": 0,
-                            "end": 15
+                            "end": 14
                         }
                     ],
                     "_working_": null
@@ -710,7 +726,15 @@
                 "index-in-desc": 0,
                 "contributor": {
                     "CloudComputing-NET": 5,
-                    "_name_": "HiroshiF"
+                    "_name_": "HiroshiF",
+                    "assigned-projects": [
+                        {
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
                 },
                 "increase": true
             },
@@ -719,7 +743,15 @@
                 "index-in-desc": 0,
                 "contributor": {
                     "BusinessAnalysis-lib": 10,
-                    "_name_": "FionaJ"
+                    "_name_": "FionaJ",
+                    "assigned-projects": [
+                        {
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
                 },
                 "increase": false
             },
@@ -832,15 +864,7 @@
                 "index-in-desc": 0,
                 "contributor": {
                     "BusinessAnalysis-lib": 9,
-                    "_name_": "ClementT",
-                    "assigned-projects": [
-                        {
-                            "project": "MarsXv1",
-                            "start": 0,
-                            "end": 10
-                        }
-                    ],
-                    "_working_": null
+                    "_name_": "ClementT"
                 },
                 "increase": false
             },
@@ -900,92 +924,73 @@
         "end": 26
     },
     {
-        "score": 4156,
-        "days": 18,
-        "deadline": 938,
+        "score": 4373,
+        "days": 14,
+        "deadline": 626,
         "skills": {
-            "PHP-py": [
-                4
+            "Delphi": [
+                6
             ],
-            "Blockchain++": [
-                1
-            ]
-        },
-        "skills-in-order": [
-            "PHP-py",
-            "Blockchain++"
-        ],
-        "name": "FuchsiaXv6",
-        "start": 18,
-        "assigned-contributors": {
-            "SundarL": {
-                "skill": "PHP-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "PHP-py": 7,
-                    "_name_": "SundarL"
-                },
-                "increase": false
-            },
-            "SundarA": {
-                "skill": "Blockchain++",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Blockchain++": 4,
-                    "_name_": "SundarA",
-                    "assigned-projects": [
-                        {
-                            "project": "ConnectLitev9",
-                            "start": 0,
-                            "end": 12
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            }
-        },
-        "end": 36
-    },
-    {
-        "score": 3110,
-        "days": 20,
-        "deadline": 295,
-        "skills": {
-            "COBOL-lib": [
-                1
-            ],
-            "Objective-C-lib": [
+            "PublicSpeaking-py": [
                 3
+            ],
+            "JavaScript-2+0": [
+                1
             ]
         },
         "skills-in-order": [
-            "COBOL-lib",
-            "Objective-C-lib"
+            "Delphi",
+            "PublicSpeaking-py",
+            "JavaScript-2+0"
         ],
-        "name": "ShoppingProv8",
-        "start": 19,
+        "name": "DocsNextv2",
+        "start": 17,
         "assigned-contributors": {
-            "FionaN": {
-                "skill": "COBOL-lib",
+            "SundarP": {
+                "skill": "Delphi",
                 "index-in-desc": 0,
                 "contributor": {
-                    "COBOL-lib": 9,
-                    "_name_": "FionaN"
+                    "Delphi": 7,
+                    "_name_": "SundarP",
+                    "assigned-projects": [
+                        {
+                            "project": "ResearchXv8",
+                            "start": 0,
+                            "end": 14
+                        }
+                    ],
+                    "_working_": null
                 },
                 "increase": false
             },
-            "PhilippI": {
-                "skill": "Objective-C-lib",
+            "MatasC": {
+                "skill": "PublicSpeaking-py",
                 "index-in-desc": 0,
                 "contributor": {
-                    "Objective-C-lib": 4,
-                    "_name_": "PhilippI",
+                    "PublicSpeaking-py": 7,
+                    "_name_": "MatasC",
                     "assigned-projects": [
                         {
-                            "project": "WearOSLitev5",
+                            "project": "ResearchXv8",
                             "start": 0,
-                            "end": 15
+                            "end": 14
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "ClementL": {
+                "skill": "JavaScript-2+0",
+                "index-in-desc": 0,
+                "contributor": {
+                    "JavaScript-2+0": 5,
+                    "_name_": "ClementL",
+                    "assigned-projects": [
+                        {
+                            "project": "SitesSv1",
+                            "start": 0,
+                            "end": 14
                         }
                     ],
                     "_working_": null
@@ -993,7 +998,7 @@
                 "increase": false
             }
         },
-        "end": 39
+        "end": 31
     },
     {
         "score": 4572,
@@ -1052,179 +1057,32 @@
         "end": 31
     },
     {
-        "score": 4373,
-        "days": 14,
-        "deadline": 626,
+        "score": 12336,
+        "days": 19,
+        "deadline": 865,
         "skills": {
-            "Delphi": [
-                6
-            ],
-            "PublicSpeaking-py": [
-                3
-            ],
-            "JavaScript-2+0": [
-                1
-            ]
-        },
-        "skills-in-order": [
-            "Delphi",
-            "PublicSpeaking-py",
-            "JavaScript-2+0"
-        ],
-        "name": "DocsNextv2",
-        "start": 19,
-        "assigned-contributors": {
-            "SundarP": {
-                "skill": "Delphi",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Delphi": 7,
-                    "_name_": "SundarP",
-                    "assigned-projects": [
-                        {
-                            "project": "ResearchXv8",
-                            "start": 0,
-                            "end": 14
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "JenK": {
-                "skill": "PublicSpeaking-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "PublicSpeaking-py": 4,
-                    "_name_": "JenK",
-                    "assigned-projects": [
-                        {
-                            "project": "WearOSLitev5",
-                            "start": 0,
-                            "end": 15
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "ClementL": {
-                "skill": "JavaScript-2+0",
-                "index-in-desc": 0,
-                "contributor": {
-                    "JavaScript-2+0": 5,
-                    "_name_": "ClementL",
-                    "assigned-projects": [
-                        {
-                            "project": "SitesSv1",
-                            "start": 0,
-                            "end": 14
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            }
-        },
-        "end": 33
-    },
-    {
-        "score": 6354,
-        "days": 16,
-        "deadline": 984,
-        "skills": {
-            "HTML-js": [
+            "Angular-NET": [
                 7
             ],
-            "HTML++": [
-                3
-            ]
-        },
-        "skills-in-order": [
-            "HTML-js",
-            "HTML++"
-        ],
-        "name": "GlassOSSv3",
-        "start": 21,
-        "assigned-contributors": {
-            "MatasW": {
-                "skill": "HTML-js",
-                "index-in-desc": 0,
-                "contributor": {
-                    "HTML-js": 8,
-                    "_name_": "MatasW"
-                },
-                "increase": false
-            },
-            "JenZ": {
-                "skill": "HTML++",
-                "index-in-desc": 0,
-                "contributor": {
-                    "HTML++": 3,
-                    "_name_": "JenZ",
-                    "assigned-projects": [
-                        {
-                            "project": "SlidesNextv2",
-                            "start": 0,
-                            "end": 20
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            }
-        },
-        "end": 37
-    },
-    {
-        "score": 5493,
-        "days": 16,
-        "deadline": 691,
-        "skills": {
-            "HTML++": [
+            "HTML-py": [
+                2
+            ],
+            "HTML-js": [
                 1
             ],
-            "MATLAB": [
-                3
-            ],
-            "Angular-NET": [
-                5
+            "Go-NET": [
+                4
             ]
         },
         "skills-in-order": [
-            "HTML++",
-            "MATLAB",
-            "Angular-NET"
+            "Angular-NET",
+            "HTML-py",
+            "HTML-js",
+            "Go-NET"
         ],
-        "name": "SmartLitev9",
-        "start": 28,
+        "name": "GameLitev8",
+        "start": 19,
         "assigned-contributors": {
-            "JenZ": {
-                "skill": "HTML++",
-                "index-in-desc": 0,
-                "contributor": {
-                    "HTML++": 3,
-                    "_name_": "JenZ",
-                    "assigned-projects": [
-                        {
-                            "project": "SlidesNextv2",
-                            "start": 0,
-                            "end": 20
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "ThomasK": {
-                "skill": "MATLAB",
-                "index-in-desc": 0,
-                "contributor": {
-                    "MATLAB": 3,
-                    "_name_": "ThomasK"
-                },
-                "increase": true
-            },
             "PhilippP": {
                 "skill": "Angular-NET",
                 "index-in-desc": 0,
@@ -1241,9 +1099,84 @@
                     "_working_": null
                 },
                 "increase": false
+            },
+            "PhilippK": {
+                "skill": "HTML-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML-py": 2,
+                    "_name_": "PhilippK"
+                },
+                "increase": true
+            },
+            "MatasW": {
+                "skill": "HTML-js",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML-js": 8,
+                    "_name_": "MatasW"
+                },
+                "increase": false
+            },
+            "SergeyN": {
+                "skill": "Go-NET",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Go-NET": 8,
+                    "_name_": "SergeyN"
+                },
+                "increase": false
             }
         },
-        "end": 44
+        "end": 38
+    },
+    {
+        "score": 3110,
+        "days": 20,
+        "deadline": 295,
+        "skills": {
+            "COBOL-lib": [
+                1
+            ],
+            "Objective-C-lib": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "COBOL-lib",
+            "Objective-C-lib"
+        ],
+        "name": "ShoppingProv8",
+        "start": 21,
+        "assigned-contributors": {
+            "FionaN": {
+                "skill": "COBOL-lib",
+                "index-in-desc": 0,
+                "contributor": {
+                    "COBOL-lib": 9,
+                    "_name_": "FionaN"
+                },
+                "increase": false
+            },
+            "PhilippI": {
+                "skill": "Objective-C-lib",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Objective-C-lib": 4,
+                    "_name_": "PhilippI",
+                    "assigned-projects": [
+                        {
+                            "project": "WearOSLitev5",
+                            "start": 0,
+                            "end": 15
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            }
+        },
+        "end": 41
     },
     {
         "score": 7932,
@@ -1285,12 +1218,12 @@
                 },
                 "increase": false
             },
-            "PrabhakarR": {
+            "HiroshiF": {
                 "skill": "CloudComputing-NET",
                 "index-in-desc": 0,
                 "contributor": {
                     "CloudComputing-NET": 5,
-                    "_name_": "PrabhakarR",
+                    "_name_": "HiroshiF",
                     "assigned-projects": [
                         {
                             "project": "MarsXv1",
@@ -1310,9 +1243,9 @@
                     "_name_": "MichalP",
                     "assigned-projects": [
                         {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
                         }
                     ],
                     "_working_": null
@@ -1435,20 +1368,12 @@
                 },
                 "increase": false
             },
-            "StefanQ": {
+            "SergeyT": {
                 "skill": "Ajax-3+0",
                 "index-in-desc": 0,
                 "contributor": {
                     "Ajax-3+0": 9,
-                    "_name_": "StefanQ",
-                    "assigned-projects": [
-                        {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
-                        }
-                    ],
-                    "_working_": null
+                    "_name_": "SergeyT"
                 },
                 "increase": false
             }
@@ -1512,22 +1437,14 @@
                 },
                 "increase": false
             },
-            "HiroshiF": {
+            "PrabhakarR": {
                 "skill": "CloudComputing-NET",
                 "index-in-desc": 0,
                 "contributor": {
-                    "CloudComputing-NET": 6,
-                    "_name_": "HiroshiF",
-                    "assigned-projects": [
-                        {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
-                        }
-                    ],
-                    "_working_": null
+                    "CloudComputing-NET": 5,
+                    "_name_": "PrabhakarR"
                 },
-                "increase": false
+                "increase": true
             }
         },
         "end": 43
@@ -1634,7 +1551,7 @@
             "PHP-py"
         ],
         "name": "BloggerNextv8",
-        "start": 38,
+        "start": 39,
         "assigned-contributors": {
             "PhilippP": {
                 "skill": "Angular-NET",
@@ -1678,9 +1595,9 @@
                     "_name_": "MatasW",
                     "assigned-projects": [
                         {
-                            "project": "GlassOSSv3",
-                            "start": 21,
-                            "end": 37
+                            "project": "GameLitev8",
+                            "start": 19,
+                            "end": 38
                         }
                     ],
                     "_working_": null
@@ -1692,74 +1609,32 @@
                 "index-in-desc": 0,
                 "contributor": {
                     "PHP-py": 7,
-                    "_name_": "SundarL",
-                    "assigned-projects": [
-                        {
-                            "project": "FuchsiaXv6",
-                            "start": 18,
-                            "end": 36
-                        }
-                    ],
-                    "_working_": null
+                    "_name_": "SundarL"
                 },
                 "increase": false
             }
         },
-        "end": 57
+        "end": 58
     },
     {
-        "score": 12336,
-        "days": 19,
-        "deadline": 865,
+        "score": 6354,
+        "days": 16,
+        "deadline": 984,
         "skills": {
-            "Angular-NET": [
+            "HTML-js": [
                 7
             ],
-            "HTML-py": [
-                2
-            ],
-            "HTML-js": [
-                1
-            ],
-            "Go-NET": [
-                4
+            "HTML++": [
+                3
             ]
         },
         "skills-in-order": [
-            "Angular-NET",
-            "HTML-py",
             "HTML-js",
-            "Go-NET"
+            "HTML++"
         ],
-        "name": "GameLitev8",
-        "start": 40,
+        "name": "GlassOSSv3",
+        "start": 39,
         "assigned-contributors": {
-            "PhilippP": {
-                "skill": "Angular-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Angular-NET": 9,
-                    "_name_": "PhilippP",
-                    "assigned-projects": [
-                        {
-                            "project": "WebserverProv6",
-                            "start": 0,
-                            "end": 13
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "PhilippK": {
-                "skill": "HTML-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "HTML-py": 2,
-                    "_name_": "PhilippK"
-                },
-                "increase": true
-            },
             "MatasW": {
                 "skill": "HTML-js",
                 "index-in-desc": 0,
@@ -1768,103 +1643,34 @@
                     "_name_": "MatasW",
                     "assigned-projects": [
                         {
-                            "project": "GlassOSSv3",
-                            "start": 21,
-                            "end": 37
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "SergeyN": {
-                "skill": "Go-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Go-NET": 8,
-                    "_name_": "SergeyN"
-                },
-                "increase": false
-            }
-        },
-        "end": 59
-    },
-    {
-        "score": 5055,
-        "days": 14,
-        "deadline": 909,
-        "skills": {
-            "CloudComputing-NET": [
-                4
-            ],
-            "Delphi": [
-                3
-            ],
-            "HTML-py": [
-                1
-            ]
-        },
-        "skills-in-order": [
-            "CloudComputing-NET",
-            "Delphi",
-            "HTML-py"
-        ],
-        "name": "AndroidTVMaxv5",
-        "start": 68,
-        "assigned-contributors": {
-            "HiroshiF": {
-                "skill": "CloudComputing-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "CloudComputing-NET": 6,
-                    "_name_": "HiroshiF",
-                    "assigned-projects": [
-                        {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "SundarP": {
-                "skill": "Delphi",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Delphi": 7,
-                    "_name_": "SundarP",
-                    "assigned-projects": [
-                        {
-                            "project": "ResearchXv8",
-                            "start": 0,
-                            "end": 14
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "PhilippK": {
-                "skill": "HTML-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "HTML-py": 3,
-                    "_name_": "PhilippK",
-                    "assigned-projects": [
-                        {
                             "project": "GameLitev8",
-                            "start": 40,
-                            "end": 59
+                            "start": 19,
+                            "end": 38
                         }
                     ],
                     "_working_": null
                 },
                 "increase": false
+            },
+            "JenZ": {
+                "skill": "HTML++",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML++": 3,
+                    "_name_": "JenZ",
+                    "assigned-projects": [
+                        {
+                            "project": "SlidesNextv2",
+                            "start": 0,
+                            "end": 20
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": true
             }
         },
-        "end": 82
+        "end": 55
     },
     {
         "score": 4455,
@@ -1887,7 +1693,7 @@
             "TypeScript-lib"
         ],
         "name": "ChromeOSLitev3",
-        "start": 77,
+        "start": 43,
         "assigned-contributors": {
             "PhilippP": {
                 "skill": "Angular-NET",
@@ -1933,7 +1739,63 @@
                 "increase": false
             }
         },
-        "end": 91
+        "end": 57
+    },
+    {
+        "score": 4156,
+        "days": 18,
+        "deadline": 938,
+        "skills": {
+            "PHP-py": [
+                4
+            ],
+            "Blockchain++": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "PHP-py",
+            "Blockchain++"
+        ],
+        "name": "FuchsiaXv6",
+        "start": 61,
+        "assigned-contributors": {
+            "SundarL": {
+                "skill": "PHP-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "PHP-py": 7,
+                    "_name_": "SundarL",
+                    "assigned-projects": [
+                        {
+                            "project": "BloggerNextv8",
+                            "start": 39,
+                            "end": 58
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "SundarA": {
+                "skill": "Blockchain++",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Blockchain++": 4,
+                    "_name_": "SundarA",
+                    "assigned-projects": [
+                        {
+                            "project": "ConnectLitev9",
+                            "start": 0,
+                            "end": 12
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            }
+        },
+        "end": 79
     },
     {
         "score": 9450,
@@ -1956,7 +1818,7 @@
             "CloudComputing++"
         ],
         "name": "MapsProv8",
-        "start": 97,
+        "start": 62,
         "assigned-contributors": {
             "HiroshiW": {
                 "skill": "Parallelization-NET",
@@ -1967,25 +1829,25 @@
                     "assigned-projects": [
                         {
                             "project": "ChromeOSLitev3",
-                            "start": 77,
-                            "end": 91
+                            "start": 43,
+                            "end": 57
                         }
                     ],
                     "_working_": null
                 },
                 "increase": false
             },
-            "StefanQ": {
+            "SergeyT": {
                 "skill": "Ajax-3+0",
                 "index-in-desc": 0,
                 "contributor": {
                     "Ajax-3+0": 9,
-                    "_name_": "StefanQ",
+                    "_name_": "SergeyT",
                     "assigned-projects": [
                         {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
+                            "project": "GameProv6",
+                            "start": 30,
+                            "end": 43
                         }
                     ],
                     "_working_": null
@@ -2010,7 +1872,221 @@
                 "increase": false
             }
         },
-        "end": 115
+        "end": 80
+    },
+    {
+        "score": 5055,
+        "days": 14,
+        "deadline": 909,
+        "skills": {
+            "CloudComputing-NET": [
+                4
+            ],
+            "Delphi": [
+                3
+            ],
+            "HTML-py": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-NET",
+            "Delphi",
+            "HTML-py"
+        ],
+        "name": "AndroidTVMaxv5",
+        "start": 62,
+        "assigned-contributors": {
+            "HiroshiF": {
+                "skill": "CloudComputing-NET",
+                "index-in-desc": 0,
+                "contributor": {
+                    "CloudComputing-NET": 6,
+                    "_name_": "HiroshiF",
+                    "assigned-projects": [
+                        {
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "SundarP": {
+                "skill": "Delphi",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Delphi": 7,
+                    "_name_": "SundarP",
+                    "assigned-projects": [
+                        {
+                            "project": "ResearchXv8",
+                            "start": 0,
+                            "end": 14
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "PhilippK": {
+                "skill": "HTML-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML-py": 3,
+                    "_name_": "PhilippK",
+                    "assigned-projects": [
+                        {
+                            "project": "GameLitev8",
+                            "start": 19,
+                            "end": 38
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            }
+        },
+        "end": 76
+    },
+    {
+        "score": 14968,
+        "days": 19,
+        "deadline": 682,
+        "skills": {
+            "MATLAB": [
+                3
+            ],
+            "Delphi": [
+                4
+            ],
+            "CloudComputing++": [
+                2
+            ],
+            "BusinessAnalysis-lib": [
+                9
+            ],
+            "HTML-py": [
+                1
+            ],
+            "Shell-py": [
+                5
+            ],
+            "Assembly-py": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "MATLAB",
+            "Delphi",
+            "CloudComputing++",
+            "BusinessAnalysis-lib",
+            "HTML-py",
+            "Shell-py",
+            "Assembly-py"
+        ],
+        "name": "DuoZv4",
+        "start": 75,
+        "assigned-contributors": {
+            "ThomasK": {
+                "skill": "MATLAB",
+                "index-in-desc": 0,
+                "contributor": {
+                    "MATLAB": 3,
+                    "_name_": "ThomasK"
+                },
+                "increase": true
+            },
+            "SundarP": {
+                "skill": "Delphi",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Delphi": 7,
+                    "_name_": "SundarP",
+                    "assigned-projects": [
+                        {
+                            "project": "ResearchXv8",
+                            "start": 0,
+                            "end": 14
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "BakhodirD": {
+                "skill": "CloudComputing++",
+                "index-in-desc": 0,
+                "contributor": {
+                    "CloudComputing++": 9,
+                    "_name_": "BakhodirD",
+                    "assigned-projects": [
+                        {
+                            "project": "WearOSLitev5",
+                            "start": 0,
+                            "end": 15
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "FionaJ": {
+                "skill": "BusinessAnalysis-lib",
+                "index-in-desc": 0,
+                "contributor": {
+                    "BusinessAnalysis-lib": 10,
+                    "_name_": "FionaJ",
+                    "assigned-projects": [
+                        {
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "PhilippK": {
+                "skill": "HTML-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML-py": 3,
+                    "_name_": "PhilippK",
+                    "assigned-projects": [
+                        {
+                            "project": "GameLitev8",
+                            "start": 19,
+                            "end": 38
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "RuthX": {
+                "skill": "Shell-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Shell-py": 5,
+                    "_name_": "RuthX"
+                },
+                "increase": true
+            },
+            "ThomasM": {
+                "skill": "Assembly-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Assembly-py": 3,
+                    "_name_": "ThomasM"
+                },
+                "increase": false
+            }
+        },
+        "end": 94
     },
     {
         "score": 7999,
@@ -2033,7 +2109,7 @@
             "HTML++"
         ],
         "name": "StreetViewNextv3",
-        "start": 102,
+        "start": 91,
         "assigned-contributors": {
             "SusanQ": {
                 "skill": "TechWriting-js",
@@ -2087,7 +2163,84 @@
                 "increase": true
             }
         },
-        "end": 119
+        "end": 108
+    },
+    {
+        "score": 5493,
+        "days": 16,
+        "deadline": 691,
+        "skills": {
+            "HTML++": [
+                1
+            ],
+            "MATLAB": [
+                3
+            ],
+            "Angular-NET": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "HTML++",
+            "MATLAB",
+            "Angular-NET"
+        ],
+        "name": "SmartLitev9",
+        "start": 143,
+        "assigned-contributors": {
+            "JenZ": {
+                "skill": "HTML++",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML++": 5,
+                    "_name_": "JenZ",
+                    "assigned-projects": [
+                        {
+                            "project": "SlidesNextv2",
+                            "start": 0,
+                            "end": 20
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "ThomasK": {
+                "skill": "MATLAB",
+                "index-in-desc": 0,
+                "contributor": {
+                    "MATLAB": 4,
+                    "_name_": "ThomasK",
+                    "assigned-projects": [
+                        {
+                            "project": "DuoZv4",
+                            "start": 75,
+                            "end": 94
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "PhilippP": {
+                "skill": "Angular-NET",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Angular-NET": 9,
+                    "_name_": "PhilippP",
+                    "assigned-projects": [
+                        {
+                            "project": "WebserverProv6",
+                            "start": 0,
+                            "end": 13
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            }
+        },
+        "end": 159
     },
     {
         "score": 14477,
@@ -2126,7 +2279,7 @@
             "BusinessAnalysis-lib"
         ],
         "name": "CollectionsZv7",
-        "start": 123,
+        "start": 188,
         "assigned-contributors": {
             "HiroshiW": {
                 "skill": "Parallelization-NET",
@@ -2137,25 +2290,25 @@
                     "assigned-projects": [
                         {
                             "project": "ChromeOSLitev3",
-                            "start": 77,
-                            "end": 91
+                            "start": 43,
+                            "end": 57
                         }
                     ],
                     "_working_": null
                 },
                 "increase": true
             },
-            "SergeyV": {
+            "SundarL": {
                 "skill": "PHP-py",
                 "index-in-desc": 0,
                 "contributor": {
-                    "PHP-py": 10,
-                    "_name_": "SergeyV",
+                    "PHP-py": 7,
+                    "_name_": "SundarL",
                     "assigned-projects": [
                         {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
+                            "project": "BloggerNextv8",
+                            "start": 39,
+                            "end": 58
                         }
                     ],
                     "_working_": null
@@ -2222,8 +2375,8 @@
                     "assigned-projects": [
                         {
                             "project": "GameLitev8",
-                            "start": 40,
-                            "end": 59
+                            "start": 19,
+                            "end": 38
                         }
                     ],
                     "_working_": null
@@ -2238,9 +2391,9 @@
                     "_name_": "FionaJ",
                     "assigned-projects": [
                         {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
                         }
                     ],
                     "_working_": null
@@ -2248,7 +2401,7 @@
                 "increase": false
             }
         },
-        "end": 139
+        "end": 204
     },
     {
         "score": 5673,
@@ -2271,7 +2424,7 @@
             "Angular-NET"
         ],
         "name": "MapsUltrav3",
-        "start": 140,
+        "start": 205,
         "assigned-contributors": {
             "TatiyanaC": {
                 "skill": "Dart",
@@ -2299,8 +2452,8 @@
                     "assigned-projects": [
                         {
                             "project": "ChromeOSLitev3",
-                            "start": 77,
-                            "end": 91
+                            "start": 43,
+                            "end": 57
                         }
                     ],
                     "_working_": null
@@ -2325,7 +2478,223 @@
                 "increase": false
             }
         },
-        "end": 151
+        "end": 216
+    },
+    {
+        "score": 29038,
+        "days": 20,
+        "deadline": 341,
+        "skills": {
+            "Parallelization-NET": [
+                4
+            ],
+            "Assembly-py": [
+                2
+            ],
+            "Accessibility-js": [
+                6
+            ],
+            "Security-js": [
+                4
+            ],
+            "JavaScript-2+0": [
+                4
+            ],
+            "BusinessAnalysis-lib": [
+                4
+            ],
+            "JavaScript-NET": [
+                2
+            ],
+            "MySQL": [
+                4
+            ],
+            "TechWriting-js": [
+                1
+            ],
+            "Blockchain": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "Parallelization-NET",
+            "Assembly-py",
+            "Accessibility-js",
+            "Security-js",
+            "JavaScript-2+0",
+            "BusinessAnalysis-lib",
+            "JavaScript-NET",
+            "MySQL",
+            "TechWriting-js",
+            "Blockchain"
+        ],
+        "name": "SantaTrackerXv4",
+        "start": 218,
+        "assigned-contributors": {
+            "HiroshiW": {
+                "skill": "Parallelization-NET",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Parallelization-NET": 4,
+                    "_name_": "HiroshiW",
+                    "assigned-projects": [
+                        {
+                            "project": "ChromeOSLitev3",
+                            "start": 43,
+                            "end": 57
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": true
+            },
+            "ThomasM": {
+                "skill": "Assembly-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Assembly-py": 3,
+                    "_name_": "ThomasM",
+                    "assigned-projects": [
+                        {
+                            "project": "DuoZv4",
+                            "start": 75,
+                            "end": 94
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "ClementE": {
+                "skill": "Accessibility-js",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Accessibility-js": 8,
+                    "_name_": "ClementE",
+                    "assigned-projects": [
+                        {
+                            "project": "ResearchXv8",
+                            "start": 0,
+                            "end": 14
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "BakhodirG": {
+                "skill": "Security-js",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Security-js": 9,
+                    "_name_": "BakhodirG"
+                },
+                "increase": false
+            },
+            "ClementL": {
+                "skill": "JavaScript-2+0",
+                "index-in-desc": 0,
+                "contributor": {
+                    "JavaScript-2+0": 5,
+                    "_name_": "ClementL",
+                    "assigned-projects": [
+                        {
+                            "project": "SitesSv1",
+                            "start": 0,
+                            "end": 14
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "ClementT": {
+                "skill": "BusinessAnalysis-lib",
+                "index-in-desc": 0,
+                "contributor": {
+                    "BusinessAnalysis-lib": 9,
+                    "_name_": "ClementT",
+                    "assigned-projects": [
+                        {
+                            "project": "ReleaseUltrav1",
+                            "start": 16,
+                            "end": 31
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "SergeyU": {
+                "skill": "JavaScript-NET",
+                "index-in-desc": 0,
+                "contributor": {
+                    "JavaScript-NET": 5,
+                    "_name_": "SergeyU",
+                    "assigned-projects": [
+                        {
+                            "project": "SitesSv1",
+                            "start": 0,
+                            "end": 14
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "PhilippH": {
+                "skill": "MySQL",
+                "index-in-desc": 0,
+                "contributor": {
+                    "MySQL": 4,
+                    "_name_": "PhilippH",
+                    "assigned-projects": [
+                        {
+                            "project": "SlidesNextv2",
+                            "start": 0,
+                            "end": 20
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": true
+            },
+            "SusanQ": {
+                "skill": "TechWriting-js",
+                "index-in-desc": 0,
+                "contributor": {
+                    "TechWriting-js": 8,
+                    "_name_": "SusanQ",
+                    "assigned-projects": [
+                        {
+                            "project": "ExploreUltrav8",
+                            "start": 16,
+                            "end": 29
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "MichalP": {
+                "skill": "Blockchain",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Blockchain": 10,
+                    "_name_": "MichalP",
+                    "assigned-projects": [
+                        {
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            }
+        },
+        "end": 238
     },
     {
         "score": 11801,
@@ -2356,7 +2725,7 @@
             "Dart"
         ],
         "name": "VoiceProv8",
-        "start": 154,
+        "start": 222,
         "assigned-contributors": {
             "MatasW": {
                 "skill": "HTML-js",
@@ -2366,9 +2735,9 @@
                     "_name_": "MatasW",
                     "assigned-projects": [
                         {
-                            "project": "GlassOSSv3",
-                            "start": 21,
-                            "end": 37
+                            "project": "GameLitev8",
+                            "start": 19,
+                            "end": 38
                         }
                     ],
                     "_working_": null
@@ -2444,152 +2813,7 @@
                 "increase": true
             }
         },
-        "end": 172
-    },
-    {
-        "score": 14968,
-        "days": 19,
-        "deadline": 682,
-        "skills": {
-            "MATLAB": [
-                3
-            ],
-            "Delphi": [
-                4
-            ],
-            "CloudComputing++": [
-                2
-            ],
-            "BusinessAnalysis-lib": [
-                9
-            ],
-            "HTML-py": [
-                1
-            ],
-            "Shell-py": [
-                5
-            ],
-            "Assembly-py": [
-                2
-            ]
-        },
-        "skills-in-order": [
-            "MATLAB",
-            "Delphi",
-            "CloudComputing++",
-            "BusinessAnalysis-lib",
-            "HTML-py",
-            "Shell-py",
-            "Assembly-py"
-        ],
-        "name": "DuoZv4",
-        "start": 166,
-        "assigned-contributors": {
-            "ThomasK": {
-                "skill": "MATLAB",
-                "index-in-desc": 0,
-                "contributor": {
-                    "MATLAB": 4,
-                    "_name_": "ThomasK",
-                    "assigned-projects": [
-                        {
-                            "project": "SmartLitev9",
-                            "start": 28,
-                            "end": 44
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "SundarP": {
-                "skill": "Delphi",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Delphi": 7,
-                    "_name_": "SundarP",
-                    "assigned-projects": [
-                        {
-                            "project": "ResearchXv8",
-                            "start": 0,
-                            "end": 14
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "BakhodirD": {
-                "skill": "CloudComputing++",
-                "index-in-desc": 0,
-                "contributor": {
-                    "CloudComputing++": 9,
-                    "_name_": "BakhodirD",
-                    "assigned-projects": [
-                        {
-                            "project": "WearOSLitev5",
-                            "start": 0,
-                            "end": 15
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "ClementT": {
-                "skill": "BusinessAnalysis-lib",
-                "index-in-desc": 0,
-                "contributor": {
-                    "BusinessAnalysis-lib": 9,
-                    "_name_": "ClementT",
-                    "assigned-projects": [
-                        {
-                            "project": "MarsXv1",
-                            "start": 0,
-                            "end": 10
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "PhilippK": {
-                "skill": "HTML-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "HTML-py": 3,
-                    "_name_": "PhilippK",
-                    "assigned-projects": [
-                        {
-                            "project": "GameLitev8",
-                            "start": 40,
-                            "end": 59
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "RuthX": {
-                "skill": "Shell-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Shell-py": 5,
-                    "_name_": "RuthX"
-                },
-                "increase": true
-            },
-            "ThomasM": {
-                "skill": "Assembly-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Assembly-py": 3,
-                    "_name_": "ThomasM"
-                },
-                "increase": false
-            }
-        },
-        "end": 185
+        "end": 240
     },
     {
         "score": 5887,
@@ -2616,7 +2840,7 @@
             "HTML++"
         ],
         "name": "ChatSv4",
-        "start": 173,
+        "start": 241,
         "assigned-contributors": {
             "TatiyanaC": {
                 "skill": "Dart",
@@ -2635,12 +2859,12 @@
                 },
                 "increase": true
             },
-            "BakhodirG": {
+            "PetarF": {
                 "skill": "Security-js",
                 "index-in-desc": 0,
                 "contributor": {
                     "Security-js": 9,
-                    "_name_": "BakhodirG"
+                    "_name_": "PetarF"
                 },
                 "increase": false
             },
@@ -2679,7 +2903,7 @@
                 "increase": true
             }
         },
-        "end": 185
+        "end": 253
     },
     {
         "score": 4931,
@@ -2702,19 +2926,19 @@
             "HTML++"
         ],
         "name": "StreetViewUltrav4",
-        "start": 220,
+        "start": 262,
         "assigned-contributors": {
             "HiroshiW": {
                 "skill": "Parallelization-NET",
                 "index-in-desc": 0,
                 "contributor": {
-                    "Parallelization-NET": 4,
+                    "Parallelization-NET": 5,
                     "_name_": "HiroshiW",
                     "assigned-projects": [
                         {
                             "project": "ChromeOSLitev3",
-                            "start": 77,
-                            "end": 91
+                            "start": 43,
+                            "end": 57
                         }
                     ],
                     "_working_": null
@@ -2756,118 +2980,68 @@
                 "increase": true
             }
         },
-        "end": 230
+        "end": 272
     },
     {
-        "score": 29038,
-        "days": 20,
-        "deadline": 341,
+        "score": 3967,
+        "days": 10,
+        "deadline": 658,
         "skills": {
-            "Parallelization-NET": [
-                4
+            "MachineLearning-2+0": [
+                1
             ],
-            "Assembly-py": [
-                2
-            ],
-            "Accessibility-js": [
-                6
-            ],
-            "Security-js": [
+            "MATLAB": [
                 4
             ],
             "JavaScript-2+0": [
-                4
+                3
             ],
-            "BusinessAnalysis-lib": [
-                4
-            ],
-            "JavaScript-NET": [
-                2
-            ],
-            "MySQL": [
-                4
-            ],
-            "TechWriting-js": [
+            "CloudComputing-NET": [
                 1
-            ],
-            "Blockchain": [
-                8
             ]
         },
         "skills-in-order": [
-            "Parallelization-NET",
-            "Assembly-py",
-            "Accessibility-js",
-            "Security-js",
+            "MachineLearning-2+0",
+            "MATLAB",
             "JavaScript-2+0",
-            "BusinessAnalysis-lib",
-            "JavaScript-NET",
-            "MySQL",
-            "TechWriting-js",
-            "Blockchain"
+            "CloudComputing-NET"
         ],
-        "name": "SantaTrackerXv4",
-        "start": 225,
+        "name": "FeedBurnerMaxv1",
+        "start": 502,
         "assigned-contributors": {
-            "HiroshiW": {
-                "skill": "Parallelization-NET",
+            "MichalB": {
+                "skill": "MachineLearning-2+0",
                 "index-in-desc": 0,
                 "contributor": {
-                    "Parallelization-NET": 4,
-                    "_name_": "HiroshiW",
+                    "MachineLearning-2+0": 5,
+                    "_name_": "MichalB",
                     "assigned-projects": [
                         {
-                            "project": "ChromeOSLitev3",
-                            "start": 77,
-                            "end": 91
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            },
+            "ThomasK": {
+                "skill": "MATLAB",
+                "index-in-desc": 0,
+                "contributor": {
+                    "MATLAB": 4,
+                    "_name_": "ThomasK",
+                    "assigned-projects": [
+                        {
+                            "project": "DuoZv4",
+                            "start": 75,
+                            "end": 94
                         }
                     ],
                     "_working_": null
                 },
                 "increase": true
-            },
-            "ThomasM": {
-                "skill": "Assembly-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Assembly-py": 3,
-                    "_name_": "ThomasM",
-                    "assigned-projects": [
-                        {
-                            "project": "DuoZv4",
-                            "start": 166,
-                            "end": 185
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "ClementE": {
-                "skill": "Accessibility-js",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Accessibility-js": 8,
-                    "_name_": "ClementE",
-                    "assigned-projects": [
-                        {
-                            "project": "ResearchXv8",
-                            "start": 0,
-                            "end": 14
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "PetarF": {
-                "skill": "Security-js",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Security-js": 9,
-                    "_name_": "PetarF"
-                },
-                "increase": false
             },
             "ClementL": {
                 "skill": "JavaScript-2+0",
@@ -2886,428 +3060,55 @@
                 },
                 "increase": false
             },
-            "ClementT": {
-                "skill": "BusinessAnalysis-lib",
-                "index-in-desc": 0,
-                "contributor": {
-                    "BusinessAnalysis-lib": 10,
-                    "_name_": "ClementT",
-                    "assigned-projects": [
-                        {
-                            "project": "MarsXv1",
-                            "start": 0,
-                            "end": 10
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "SergeyU": {
-                "skill": "JavaScript-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "JavaScript-NET": 5,
-                    "_name_": "SergeyU",
-                    "assigned-projects": [
-                        {
-                            "project": "SitesSv1",
-                            "start": 0,
-                            "end": 14
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "PhilippH": {
-                "skill": "MySQL",
-                "index-in-desc": 0,
-                "contributor": {
-                    "MySQL": 4,
-                    "_name_": "PhilippH",
-                    "assigned-projects": [
-                        {
-                            "project": "SlidesNextv2",
-                            "start": 0,
-                            "end": 20
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "SusanQ": {
-                "skill": "TechWriting-js",
-                "index-in-desc": 0,
-                "contributor": {
-                    "TechWriting-js": 8,
-                    "_name_": "SusanQ",
-                    "assigned-projects": [
-                        {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "MichalP": {
-                "skill": "Blockchain",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Blockchain": 10,
-                    "_name_": "MichalP",
-                    "assigned-projects": [
-                        {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            }
-        },
-        "end": 245
-    },
-    {
-        "score": 13742,
-        "days": 16,
-        "deadline": 774,
-        "skills": {
-            "SQL-js": [
-                10
-            ],
-            "CloudComputing-2+0": [
-                8
-            ],
-            "HTML-py": [
-                1
-            ],
-            "Haskell": [
-                2
-            ],
-            "COBOL-lib": [
-                1
-            ]
-        },
-        "skills-in-order": [
-            "SQL-js",
-            "CloudComputing-2+0",
-            "HTML-py",
-            "Haskell",
-            "COBOL-lib"
-        ],
-        "name": "SmartSv2",
-        "start": 276,
-        "assigned-contributors": {
-            "FionaF": {
-                "skill": "SQL-js",
-                "index-in-desc": 0,
-                "contributor": {
-                    "SQL-js": 10,
-                    "_name_": "FionaF",
-                    "assigned-projects": [
-                        {
-                            "project": "StreetViewXv1",
-                            "start": 16,
-                            "end": 31
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "BakhodirW": {
-                "skill": "CloudComputing-2+0",
-                "index-in-desc": 0,
-                "contributor": {
-                    "CloudComputing-2+0": 8,
-                    "_name_": "BakhodirW",
-                    "assigned-projects": [
-                        {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "PhilippK": {
-                "skill": "HTML-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "HTML-py": 3,
-                    "_name_": "PhilippK",
-                    "assigned-projects": [
-                        {
-                            "project": "GameLitev8",
-                            "start": 40,
-                            "end": 59
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "BenjaminT": {
-                "skill": "Haskell",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Haskell": 2,
-                    "_name_": "BenjaminT"
-                },
-                "increase": true
-            },
-            "FionaN": {
-                "skill": "COBOL-lib",
-                "index-in-desc": 0,
-                "contributor": {
-                    "COBOL-lib": 9,
-                    "_name_": "FionaN",
-                    "assigned-projects": [
-                        {
-                            "project": "ShoppingProv8",
-                            "start": 19,
-                            "end": 39
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            }
-        },
-        "end": 292
-    },
-    {
-        "score": 20428,
-        "days": 15,
-        "deadline": 582,
-        "skills": {
-            "TypeScript-lib": [
-                3
-            ],
-            "Haskell": [
-                3
-            ],
-            "MATLAB": [
-                3
-            ],
-            "BusinessAnalysis-lib": [
-                5
-            ],
-            "CloudComputing-2+0": [
-                7
-            ],
-            "Objective-C-lib": [
-                3
-            ],
-            "PHP-py": [
-                10
-            ]
-        },
-        "skills-in-order": [
-            "TypeScript-lib",
-            "Haskell",
-            "MATLAB",
-            "BusinessAnalysis-lib",
-            "CloudComputing-2+0",
-            "Objective-C-lib",
-            "PHP-py"
-        ],
-        "name": "FuchsiaLitev6",
-        "start": 293,
-        "assigned-contributors": {
-            "PhilippY": {
-                "skill": "TypeScript-lib",
-                "index-in-desc": 0,
-                "contributor": {
-                    "TypeScript-lib": 7,
-                    "_name_": "PhilippY",
-                    "assigned-projects": [
-                        {
-                            "project": "GameProv3",
-                            "start": 0,
-                            "end": 15
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "BenjaminT": {
-                "skill": "Haskell",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Haskell": 3,
-                    "_name_": "BenjaminT",
-                    "assigned-projects": [
-                        {
-                            "project": "SmartSv2",
-                            "start": 276,
-                            "end": 292
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "ThomasK": {
-                "skill": "MATLAB",
-                "index-in-desc": 0,
-                "contributor": {
-                    "MATLAB": 4,
-                    "_name_": "ThomasK",
-                    "assigned-projects": [
-                        {
-                            "project": "SmartLitev9",
-                            "start": 28,
-                            "end": 44
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "ClementT": {
-                "skill": "BusinessAnalysis-lib",
-                "index-in-desc": 0,
-                "contributor": {
-                    "BusinessAnalysis-lib": 10,
-                    "_name_": "ClementT",
-                    "assigned-projects": [
-                        {
-                            "project": "MarsXv1",
-                            "start": 0,
-                            "end": 10
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "BakhodirW": {
-                "skill": "CloudComputing-2+0",
-                "index-in-desc": 0,
-                "contributor": {
-                    "CloudComputing-2+0": 9,
-                    "_name_": "BakhodirW",
-                    "assigned-projects": [
-                        {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "PhilippI": {
-                "skill": "Objective-C-lib",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Objective-C-lib": 4,
-                    "_name_": "PhilippI",
-                    "assigned-projects": [
-                        {
-                            "project": "WearOSLitev5",
-                            "start": 0,
-                            "end": 15
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "SergeyV": {
-                "skill": "PHP-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "PHP-py": 10,
-                    "_name_": "SergeyV",
-                    "assigned-projects": [
-                        {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            }
-        },
-        "end": 308
-    },
-    {
-        "score": 15916,
-        "days": 18,
-        "deadline": 358,
-        "skills": {
-            "Ajax-3+0": [
-                10
-            ],
-            "CloudComputing-NET": [
-                5
-            ],
-            "CloudComputing++": [
-                6
-            ],
-            "TechWriting-js": [
-                8
-            ],
-            "Blockchain": [
-                8
-            ],
-            "PHP-py": [
-                11
-            ],
-            "JavaScript-NET": [
-                1
-            ]
-        },
-        "skills-in-order": [
-            "Ajax-3+0",
-            "CloudComputing-NET",
-            "CloudComputing++",
-            "TechWriting-js",
-            "Blockchain",
-            "PHP-py",
-            "JavaScript-NET"
-        ],
-        "name": "PhotoProv3",
-        "start": 357,
-        "assigned-contributors": {
-            "StefanQ": {
-                "skill": "Ajax-3+0",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Ajax-3+0": 10,
-                    "_name_": "StefanQ",
-                    "assigned-projects": [
-                        {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
             "HiroshiF": {
                 "skill": "CloudComputing-NET",
                 "index-in-desc": 0,
                 "contributor": {
                     "CloudComputing-NET": 6,
                     "_name_": "HiroshiF",
+                    "assigned-projects": [
+                        {
+                            "project": "MarsXv1",
+                            "start": 0,
+                            "end": 10
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            }
+        },
+        "end": 512
+    },
+    {
+        "score": 8381,
+        "days": 14,
+        "deadline": 459,
+        "skills": {
+            "PHP-py": [
+                1
+            ],
+            "CloudComputing++": [
+                7
+            ],
+            "TypeScript-lib": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "PHP-py",
+            "CloudComputing++",
+            "TypeScript-lib"
+        ],
+        "name": "ChromeNextv7",
+        "start": 630,
+        "assigned-contributors": {
+            "SergeyV": {
+                "skill": "PHP-py",
+                "index-in-desc": 0,
+                "contributor": {
+                    "PHP-py": 10,
+                    "_name_": "SergeyV",
                     "assigned-projects": [
                         {
                             "project": "ExploreUltrav8",
@@ -3336,68 +3137,17 @@
                 },
                 "increase": false
             },
-            "SusanQ": {
-                "skill": "TechWriting-js",
+            "PhilippY": {
+                "skill": "TypeScript-lib",
                 "index-in-desc": 0,
                 "contributor": {
-                    "TechWriting-js": 8,
-                    "_name_": "SusanQ",
+                    "TypeScript-lib": 7,
+                    "_name_": "PhilippY",
                     "assigned-projects": [
                         {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "MichalP": {
-                "skill": "Blockchain",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Blockchain": 10,
-                    "_name_": "MichalP",
-                    "assigned-projects": [
-                        {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "SergeyV": {
-                "skill": "PHP-py",
-                "index-in-desc": 0,
-                "contributor": {
-                    "PHP-py": 11,
-                    "_name_": "SergeyV",
-                    "assigned-projects": [
-                        {
-                            "project": "ExploreUltrav8",
-                            "start": 16,
-                            "end": 29
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "SergeyU": {
-                "skill": "JavaScript-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "JavaScript-NET": 5,
-                    "_name_": "SergeyU",
-                    "assigned-projects": [
-                        {
-                            "project": "SitesSv1",
+                            "project": "GameProv3",
                             "start": 0,
-                            "end": 14
+                            "end": 15
                         }
                     ],
                     "_working_": null
@@ -3405,202 +3155,6 @@
                 "increase": false
             }
         },
-        "end": 375
-    },
-    {
-        "score": 11882,
-        "days": 19,
-        "deadline": 727,
-        "skills": {
-            "Go-NET": [
-                4
-            ],
-            "CloudComputing-NET": [
-                5
-            ],
-            "Ajax-3+0": [
-                11
-            ],
-            "Haskell": [
-                3
-            ]
-        },
-        "skills-in-order": [
-            "Go-NET",
-            "CloudComputing-NET",
-            "Ajax-3+0",
-            "Haskell"
-        ],
-        "name": "AlertsLitev7",
-        "start": 376,
-        "assigned-contributors": {
-            "SergeyN": {
-                "skill": "Go-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Go-NET": 8,
-                    "_name_": "SergeyN",
-                    "assigned-projects": [
-                        {
-                            "project": "GameLitev8",
-                            "start": 40,
-                            "end": 59
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "PrabhakarR": {
-                "skill": "CloudComputing-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "CloudComputing-NET": 5,
-                    "_name_": "PrabhakarR",
-                    "assigned-projects": [
-                        {
-                            "project": "MarsXv1",
-                            "start": 0,
-                            "end": 10
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "StefanQ": {
-                "skill": "Ajax-3+0",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Ajax-3+0": 11,
-                    "_name_": "StefanQ",
-                    "assigned-projects": [
-                        {
-                            "project": "AssistantUltrav2",
-                            "start": 15,
-                            "end": 28
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "BenjaminT": {
-                "skill": "Haskell",
-                "index-in-desc": 0,
-                "contributor": {
-                    "Haskell": 4,
-                    "_name_": "BenjaminT",
-                    "assigned-projects": [
-                        {
-                            "project": "SmartSv2",
-                            "start": 276,
-                            "end": 292
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            }
-        },
-        "end": 395
-    },
-    {
-        "score": 3967,
-        "days": 10,
-        "deadline": 658,
-        "skills": {
-            "MachineLearning-2+0": [
-                1
-            ],
-            "MATLAB": [
-                4
-            ],
-            "JavaScript-2+0": [
-                3
-            ],
-            "CloudComputing-NET": [
-                1
-            ]
-        },
-        "skills-in-order": [
-            "MachineLearning-2+0",
-            "MATLAB",
-            "JavaScript-2+0",
-            "CloudComputing-NET"
-        ],
-        "name": "FeedBurnerMaxv1",
-        "start": 712,
-        "assigned-contributors": {
-            "MichalB": {
-                "skill": "MachineLearning-2+0",
-                "index-in-desc": 0,
-                "contributor": {
-                    "MachineLearning-2+0": 5,
-                    "_name_": "MichalB",
-                    "assigned-projects": [
-                        {
-                            "project": "MarsXv1",
-                            "start": 0,
-                            "end": 10
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "ThomasK": {
-                "skill": "MATLAB",
-                "index-in-desc": 0,
-                "contributor": {
-                    "MATLAB": 4,
-                    "_name_": "ThomasK",
-                    "assigned-projects": [
-                        {
-                            "project": "SmartLitev9",
-                            "start": 28,
-                            "end": 44
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": true
-            },
-            "ClementL": {
-                "skill": "JavaScript-2+0",
-                "index-in-desc": 0,
-                "contributor": {
-                    "JavaScript-2+0": 5,
-                    "_name_": "ClementL",
-                    "assigned-projects": [
-                        {
-                            "project": "SitesSv1",
-                            "start": 0,
-                            "end": 14
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            },
-            "PrabhakarR": {
-                "skill": "CloudComputing-NET",
-                "index-in-desc": 0,
-                "contributor": {
-                    "CloudComputing-NET": 6,
-                    "_name_": "PrabhakarR",
-                    "assigned-projects": [
-                        {
-                            "project": "MarsXv1",
-                            "start": 0,
-                            "end": 10
-                        }
-                    ],
-                    "_working_": null
-                },
-                "increase": false
-            }
-        },
-        "end": 722
+        "end": 644
     }
 ]

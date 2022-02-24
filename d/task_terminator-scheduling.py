@@ -125,9 +125,10 @@ def schedule_projects(mechanism, queue, max_timestamp):
     shuffle_limit = args.shuffle_limit
 
     print("scheduling in [{}] mechanism".format(mechanism))
+    score = 0
     while timestamp < max_timestamp:
-        print("  current time: {}, max time: {}, working projects: {}, finished projects: {}".format(
-            timestamp, max_timestamp, len(working_projects), len(finished_projects),
+        print("  current time: {}, max time: {}, working projects: {}, finished projects: {}, score: {}".format(
+            timestamp, max_timestamp, len(working_projects), len(finished_projects), score
         ))
         if len(finished_projects) >= len(queue):
             break
@@ -198,7 +199,7 @@ def schedule_projects(mechanism, queue, max_timestamp):
 
                     if not is_project_workable:
                         break
-                        
+
                 if is_project_workable:
                     for contr_name in available_contributors:
                         assign_contributor(contr_name, proj["name"], timestamp)
@@ -231,6 +232,7 @@ def schedule_projects(mechanism, queue, max_timestamp):
             line = str(len(project_sequence)) + "\n"
             lines.append(line)
             
+            score = 0
             for proj in project_sequence:
                 # if "end" in proj and proj["end"] is not None:
                 lines.append(proj["name"]+"\n")
@@ -245,6 +247,11 @@ def schedule_projects(mechanism, queue, max_timestamp):
                                 else:
                                     line = line + " " + contr["contributor"]["_name_"]
                 lines.append(line+ "\n")
+                penalty = ( proj["start"] + proj["days"] - proj["deadline"] )
+                if penalty < 0:
+                    penalty = 0
+                if proj["score"] > penalty:
+                    score += proj["score"] - penalty
 
             with open(args.output, "w") as f:
                 f.writelines(lines)
