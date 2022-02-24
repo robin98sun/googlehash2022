@@ -72,8 +72,10 @@ def assign_contributor(contributor_name, project_name, timestamp):
         })
         contributors[contributor_name]["_working_"] = project_name
 
-def release_contributor(contributor_name, project_name, timestamp):    
+def release_contributor(contributor_name, project_name, timestamp, skill, increase_level = False):    
     contributors[contributor_name]["_working_"] = None
+    if increase_level:
+        contributors[contributor_name][skill] += 1
     for proj in contributors[contributor_name]["assigned-projects"]:
         if proj["project"] == project_name:
             proj["end"] = timestamp
@@ -175,7 +177,11 @@ def schedule_projects(mechanism, queue, max_timestamp):
                                 "skill": skill_name,
                                 "index-in-desc": index_in_position_desc,
                                 "contributor": contr_obj,
+                                "increase": False,
                             }
+                            if available_level == 1 or available_level == 2:
+                                available_contributors[contr_obj["_name_"]]["increase"] = True
+
 
                     if not is_project_workable:
                         break
@@ -196,7 +202,7 @@ def schedule_projects(mechanism, queue, max_timestamp):
                     shuffle_idx += 1
                     shuffle_contributors()
                     # print("    shuffled contributors {} times".format(shuffle_idx))
-                
+
 
 
         finished_at_this_time = []
@@ -206,7 +212,8 @@ def schedule_projects(mechanism, queue, max_timestamp):
                 finished_projects[proj_name] = proj
                 proj["end"] = timestamp
                 for contr_name in proj["assigned-contributors"]:
-                    release_contributor(contr_name, proj_name, timestamp)
+                    contr_obj = proj["assigned-contributors"][contr_name]
+                    release_contributor(contr_name, proj_name, timestamp, contr_obj["skill"],contr_obj["increase"] )
                 finished_at_this_time.append(proj)
 
         for p in finished_at_this_time:

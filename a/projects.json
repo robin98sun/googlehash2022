@@ -1,0 +1,49 @@
+{
+    "Logging": {
+        "score": 10,
+        "days": 5,
+        "deadline": 5,
+        "skills": {
+            "C++": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "C++"
+        ]
+    },
+    "WebServer": {
+        "score": 10,
+        "days": 7,
+        "deadline": 7,
+        "skills": {
+            "HTML": [
+                3
+            ],
+            "C++": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "HTML",
+            "C++"
+        ]
+    },
+    "WebChat": {
+        "score": 20,
+        "days": 10,
+        "deadline": 20,
+        "skills": {
+            "Python": [
+                3
+            ],
+            "HTML": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Python",
+            "HTML"
+        ]
+    }
+}

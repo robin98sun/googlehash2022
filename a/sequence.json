@@ -1,0 +1,127 @@
+[
+    {
+        "score": 10,
+        "days": 7,
+        "deadline": 7,
+        "skills": {
+            "HTML": [
+                3
+            ],
+            "C++": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "HTML",
+            "C++"
+        ],
+        "name": "WebServer",
+        "start": 0,
+        "assigned-contributors": {
+            "Bob": {
+                "skill": "HTML",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML": 5,
+                    "CSS": 5,
+                    "_name_": "Bob"
+                },
+                "increase": false
+            },
+            "Anna": {
+                "skill": "C++",
+                "index-in-desc": 0,
+                "contributor": {
+                    "C++": 2,
+                    "_name_": "Anna"
+                },
+                "increase": true
+            }
+        },
+        "end": 7
+    },
+    {
+        "score": 10,
+        "days": 5,
+        "deadline": 5,
+        "skills": {
+            "C++": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "C++"
+        ],
+        "name": "Logging",
+        "start": 8,
+        "assigned-contributors": {
+            "Anna": {
+                "skill": "C++",
+                "index-in-desc": 0,
+                "contributor": {
+                    "C++": 3,
+                    "_name_": "Anna",
+                    "assigned-projects": [
+                        {
+                            "project": "WebServer",
+                            "start": 0,
+                            "end": 7
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": true
+            }
+        },
+        "end": 13
+    },
+    {
+        "score": 20,
+        "days": 10,
+        "deadline": 20,
+        "skills": {
+            "Python": [
+                3
+            ],
+            "HTML": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Python",
+            "HTML"
+        ],
+        "name": "WebChat",
+        "start": 8,
+        "assigned-contributors": {
+            "Maria": {
+                "skill": "Python",
+                "index-in-desc": 0,
+                "contributor": {
+                    "Python": 3,
+                    "_name_": "Maria"
+                },
+                "increase": true
+            },
+            "Bob": {
+                "skill": "HTML",
+                "index-in-desc": 0,
+                "contributor": {
+                    "HTML": 5,
+                    "CSS": 5,
+                    "_name_": "Bob",
+                    "assigned-projects": [
+                        {
+                            "project": "WebServer",
+                            "start": 0,
+                            "end": 7
+                        }
+                    ],
+                    "_working_": null
+                },
+                "increase": false
+            }
+        },
+        "end": 18
+    }
+]

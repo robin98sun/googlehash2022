@@ -1,0 +1,1502 @@
+{
+    "BakhodirT": {
+        "Blockchain++": 2
+    },
+    "JenE": {
+        "Blockchain++": 4
+    },
+    "MichalR": {
+        "Pascal-py": 3
+    },
+    "RuthQ": {
+        "Parallelization-py": 3
+    },
+    "MatasP": {
+        "SignalProcessing-3+0": 3
+    },
+    "MaxZ": {
+        "BusinessAnalysis++": 2
+    },
+    "TatiyanaT": {
+        "R-NET": 4
+    },
+    "LarryJ": {
+        "Analysis++": 3
+    },
+    "SundarX": {
+        "Shell-lib": 3
+    },
+    "PrzemekU": {
+        "Pascal-3+0": 3
+    },
+    "StepanW": {
+        "Ajax-2+0": 4
+    },
+    "TatiyanaB": {
+        "Bash": 5
+    },
+    "TatiyanaK": {
+        "BusinessAnalysis-lib": 5
+    },
+    "PrzemekV": {
+        "Ajax-py": 1
+    },
+    "StepanZ": {
+        "Go-lib": 4
+    },
+    "JenL": {
+        "TechWriting": 4
+    },
+    "StefanH": {
+        "C-3+0": 2
+    },
+    "SusanK": {
+        "Parallelization-NET": 3
+    },
+    "LarryG": {
+        "XML-js": 3
+    },
+    "PrabhakarA": {
+        "Go++": 3
+    },
+    "HiroshiL": {
+        "PHP-py": 3
+    },
+    "ThomasL": {
+        "TechWriting++": 5
+    },
+    "BakhodirP": {
+        "SignalProcessing-py": 3
+    },
+    "SergeyK": {
+        "R-2+0": 2
+    },
+    "SergeyA": {
+        "MakingMemes-js": 1
+    },
+    "TatiyanaX": {
+        "TypeScript": 2
+    },
+    "RuthF": {
+        "Management-lib": 3
+    },
+    "PrzemekN": {
+        "JavaScript-NET": 2
+    },
+    "StepanN": {
+        "Communication-NET": 4
+    },
+    "SergeyG": {
+        "VisualBasic-NET": 3
+    },
+    "MatasZ": {
+        "SignalProcessing-3+0": 2
+    },
+    "LarryT": {
+        "Dart": 2
+    },
+    "ThomasI": {
+        "Ada-lib": 3
+    },
+    "FionaK": {
+        "Shell-py": 5
+    },
+    "SusanT": {
+        "MakingMemes-lib": 4
+    },
+    "PrzemekB": {
+        "BusinessAnalysis-lib": 4
+    },
+    "PrabhakarX": {
+        "R-NET": 2
+    },
+    "SergeyY": {
+        "Ruby-3+0": 2
+    },
+    "PhilippO": {
+        "Angular-2+0": 4
+    },
+    "RuthT": {
+        "Swift-js": 2
+    },
+    "BakhodirG": {
+        "MachineLearning-lib": 4
+    },
+    "HiroshiD": {
+        "Go-js": 4
+    },
+    "MichalV": {
+        "VideoProduction-js": 5
+    },
+    "PetarQ": {
+        "Security-3+0": 2
+    },
+    "ClementI": {
+        "HTML-js": 3
+    },
+    "MaxH": {
+        "Perl-NET": 3
+    },
+    "PrabhakarI": {
+        "R-NET": 1
+    },
+    "PrabhakarQ": {
+        "Assembly-lib": 1
+    },
+    "FionaZ": {
+        "MakingMemes++": 4
+    },
+    "ClementQ": {
+        "Creativity": 1
+    },
+    "PetarY": {
+        "Blockchain++": 1
+    },
+    "NellyV": {
+        "VideoProduction-lib": 4
+    },
+    "PrzemekM": {
+        "SQL-js": 4
+    },
+    "RuthB": {
+        "Java-3+0": 1
+    },
+    "MatasY": {
+        "Science-lib": 3
+    },
+    "PetarM": {
+        "VideoProduction++": 4
+    },
+    "BakhodirM": {
+        "Accessibility-js": 1
+    },
+    "BenjaminP": {
+        "MakingMemes-lib": 5
+    },
+    "LarryD": {
+        "R-py": 4
+    },
+    "BenjaminF": {
+        "Angular-NET": 3
+    },
+    "ThomasQ": {
+        "Objective-C-py": 4
+    },
+    "StefanZ": {
+        "BusinessAnalysis-3+0": 5
+    },
+    "StefanA": {
+        "BusinessAnalysis": 3
+    },
+    "MatasH": {
+        "Ada-py": 1
+    },
+    "BenjaminJ": {
+        "Analysis-NET": 2
+    },
+    "TatiyanaU": {
+        "TypeScript": 3
+    },
+    "RuthK": {
+        "Pascal-py": 3
+    },
+    "LarryS": {
+        "MySQL-lib": 3
+    },
+    "PrabhakarE": {
+        "Go-NET": 2
+    },
+    "SusanU": {
+        "HTML-py": 3
+    },
+    "PrabhakarL": {
+        "Dart-lib": 5
+    },
+    "NellyC": {
+        "Bash-2+0": 5
+    },
+    "MichalK": {
+        "Shell-lib": 2
+    },
+    "BakhodirF": {
+        "Python": 4
+    },
+    "PetarI": {
+        "Swift-js": 5
+    },
+    "MichalG": {
+        "Communication-js": 1
+    },
+    "StepanQ": {
+        "VideoProduction++": 1
+    },
+    "FionaD": {
+        "BusinessAnalysis++": 5
+    },
+    "ClementY": {
+        "SignalProcessing-py": 1
+    },
+    "StefanU": {
+        "Swift-lib": 1
+    },
+    "SundarJ": {
+        "PHP-py": 4
+    },
+    "MaxK": {
+        "Privacy-js": 2
+    },
+    "PrzemekH": {
+        "Management++": 1
+    },
+    "SusanY": {
+        "C++-py": 4
+    },
+    "MatasO": {
+        "Ada-NET": 3
+    },
+    "SergeyJ": {
+        "Haskell-js": 3
+    },
+    "ClementV": {
+        "Kotlin-3+0": 4
+    },
+    "StefanW": {
+        "Ada-NET": 2
+    },
+    "PhilippY": {
+        "Bash-NET": 4
+    },
+    "MichalZ": {
+        "Accessibility": 4
+    },
+    "JenS": {
+        "Dart-js": 5
+    },
+    "BakhodirD": {
+        "Ada-py": 4
+    },
+    "SusanR": {
+        "JavaScript": 5
+    },
+    "SusanH": {
+        "C++-NET": 4
+    },
+    "StepanV": {
+        "Python": 3
+    },
+    "SergeyQ": {
+        "SQL": 2
+    },
+    "MatasF": {
+        "VisualBasic++": 3
+    },
+    "SergeyB": {
+        "C++-NET": 4
+    },
+    "MichalE": {
+        "TypeScript": 3
+    },
+    "BenjaminD": {
+        "Swift-NET": 3
+    },
+    "ThomasK": {
+        "VisualBasic++": 4
+    },
+    "ThomasD": {
+        "Java-2+0": 2
+    },
+    "JenQ": {
+        "Science-py": 5
+    },
+    "SundarB": {
+        "Ada-NET": 5
+    },
+    "BakhodirJ": {
+        "Kotlin-3+0": 3
+    },
+    "NellyG": {
+        "Angular-lib": 2
+    },
+    "HiroshiQ": {
+        "HTML-2+0": 5
+    },
+    "NellyI": {
+        "VideoProduction": 4
+    },
+    "PhilippT": {
+        "Java-js": 2
+    },
+    "ThomasN": {
+        "SQL++": 5
+    },
+    "PrzemekC": {
+        "Science++": 4
+    },
+    "HiroshiC": {
+        "Management-lib": 2
+    },
+    "RuthX": {
+        "Dart-3+0": 3
+    },
+    "SusanV": {
+        "HTML-js": 1
+    },
+    "PetarF": {
+        "SignalProcessing-py": 5
+    },
+    "StepanY": {
+        "BusinessAnalysis-lib": 2
+    },
+    "RuthI": {
+        "Go-js": 1
+    },
+    "PetarR": {
+        "SQL-NET": 2
+    },
+    "PetarE": {
+        "SQL-js": 3
+    },
+    "HiroshiI": {
+        "Kotlin-js": 3
+    },
+    "PrabhakarR": {
+        "VideoProduction-lib": 1
+    },
+    "BakhodirO": {
+        "Delphi-js": 4
+    },
+    "TatiyanaG": {
+        "Assembly-NET": 3
+    },
+    "NellyU": {
+        "SQL-2+0": 5
+    },
+    "NellyR": {
+        "JavaScript": 5
+    },
+    "MaxF": {
+        "TypeScript": 4
+    },
+    "MichalI": {
+        "Assembly-NET": 2
+    },
+    "BakhodirA": {
+        "MakingMemes-py": 5
+    },
+    "BenjaminV": {
+        "Shell-3+0": 3
+    },
+    "PrabhakarN": {
+        "Bash-js": 1
+    },
+    "ThomasC": {
+        "Ruby": 1
+    },
+    "HiroshiR": {
+        "COBOL": 4
+    },
+    "MaxB": {
+        "Assembly-2+0": 5
+    },
+    "MatasM": {
+        "Delphi-lib": 1
+    },
+    "SundarO": {
+        "Bash-NET": 4
+    },
+    "SusanI": {
+        "Perl-NET": 3
+    },
+    "HiroshiY": {
+        "Kotlin-3+0": 1
+    },
+    "BakhodirL": {
+        "Management-2+0": 2
+    },
+    "StepanJ": {
+        "Communication": 2
+    },
+    "SundarD": {
+        "Management": 2
+    },
+    "ClementN": {
+        "Dart-3+0": 4
+    },
+    "TatiyanaC": {
+        "MySQL": 3
+    },
+    "PrzemekT": {
+        "MachineLearning-lib": 4
+    },
+    "MichalF": {
+        "Pascal-2+0": 1
+    },
+    "SundarS": {
+        "HTML++": 1
+    },
+    "NellyW": {
+        "Angular-lib": 5
+    },
+    "JenX": {
+        "Creativity": 1
+    },
+    "RuthA": {
+        "Science++": 5
+    },
+    "TatiyanaM": {
+        "Blockchain-3+0": 1
+    },
+    "BenjaminS": {
+        "SQL++": 2
+    },
+    "ThomasP": {
+        "BusinessAnalysis++": 1
+    },
+    "RuthJ": {
+        "TypeScript++": 3
+    },
+    "PrzemekR": {
+        "Creativity-js": 5
+    },
+    "LarryO": {
+        "Python-2+0": 3
+    },
+    "MatasK": {
+        "Communication-py": 5
+    },
+    "PhilippM": {
+        "Ada-py": 2
+    },
+    "StepanL": {
+        "MySQL": 2
+    },
+    "NellyS": {
+        "Ada-NET": 3
+    },
+    "StefanR": {
+        "Java-3+0": 1
+    },
+    "PetarC": {
+        "Delphi-lib": 1
+    },
+    "ThomasO": {
+        "Security-js": 2
+    },
+    "HiroshiK": {
+        "TechWriting": 4
+    },
+    "SundarA": {
+        "Delphi-py": 4
+    },
+    "JenH": {
+        "HTML-js": 4
+    },
+    "BenjaminN": {
+        "VideoProduction-3+0": 4
+    },
+    "RuthW": {
+        "Communication": 1
+    },
+    "JenG": {
+        "Accessibility": 4
+    },
+    "SergeyW": {
+        "COBOL-lib": 1
+    },
+    "BakhodirC": {
+        "Accessibility": 3
+    },
+    "TatiyanaO": {
+        "Bash-py": 5
+    },
+    "JenR": {
+        "JavaScript-NET": 5
+    },
+    "PrzemekW": {
+        "Privacy-js": 4
+    },
+    "StefanS": {
+        "SignalProcessing-py": 4
+    },
+    "MatasR": {
+        "UXDesign": 3
+    },
+    "RuthN": {
+        "Accessibility": 4
+    },
+    "ThomasE": {
+        "PHP-js": 4
+    },
+    "HiroshiV": {
+        "VisualBasic-NET": 3
+    },
+    "RuthY": {
+        "JavaScript": 4
+    },
+    "FionaT": {
+        "MATLAB++": 2
+    },
+    "HiroshiB": {
+        "Communication-3+0": 1
+    },
+    "TatiyanaJ": {
+        "Communication-3+0": 3
+    },
+    "NellyM": {
+        "Java-2+0": 5
+    },
+    "StefanD": {
+        "MySQL": 2
+    },
+    "PrabhakarD": {
+        "TypeScript": 2
+    },
+    "StepanG": {
+        "C++-js": 3
+    },
+    "ClementS": {
+        "MySQL-lib": 1
+    },
+    "PetarX": {
+        "R-py": 1
+    },
+    "PhilippC": {
+        "PublicSpeaking-NET": 1
+    },
+    "MatasQ": {
+        "R-2+0": 2
+    },
+    "StefanM": {
+        "Security-NET": 1
+    },
+    "ThomasW": {
+        "Kotlin-js": 3
+    },
+    "JenU": {
+        "BigQuery-2+0": 1
+    },
+    "ClementW": {
+        "Analysis": 4
+    },
+    "PetarH": {
+        "XML-py": 5
+    },
+    "PhilippJ": {
+        "PHP-2+0": 2
+    },
+    "LarryU": {
+        "Analysis-NET": 5
+    },
+    "TatiyanaZ": {
+        "Ada-lib": 4
+    },
+    "RuthO": {
+        "Ruby-2+0": 5
+    },
+    "PrzemekL": {
+        "VideoProduction-lib": 4
+    },
+    "HiroshiG": {
+        "CloudComputing": 1
+    },
+    "MaxA": {
+        "Accessibility++": 4
+    },
+    "PrabhakarF": {
+        "SQL": 1
+    },
+    "MaxJ": {
+        "SQL++": 3
+    },
+    "StefanQ": {
+        "TechWriting-js": 2
+    },
+    "MaxS": {
+        "C++-js": 5
+    },
+    "StefanY": {
+        "Ruby-js": 4
+    },
+    "SundarC": {
+        "SignalProcessing-3+0": 3
+    },
+    "LarryE": {
+        "Bash-2+0": 3
+    },
+    "MatasT": {
+        "Java-NET": 2
+    },
+    "RuthH": {
+        "Shell-py": 5
+    },
+    "StepanS": {
+        "Pascal-2+0": 2
+    },
+    "HiroshiE": {
+        "Bash-py": 4
+    },
+    "HiroshiJ": {
+        "MySQL-NET": 5
+    },
+    "ClementC": {
+        "Swift-js": 2
+    },
+    "NellyA": {
+        "COBOL": 2
+    },
+    "SergeyN": {
+        "Shell-3+0": 2
+    },
+    "FionaQ": {
+        "Perl-py": 2
+    },
+    "MaxO": {
+        "Management-lib": 5
+    },
+    "BenjaminH": {
+        "Analysis-NET": 4
+    },
+    "SergeyL": {
+        "Communication-lib": 5
+    },
+    "TatiyanaA": {
+        "Dart": 4
+    },
+    "MichalQ": {
+        "PHP-3+0": 2
+    },
+    "StefanB": {
+        "Communication-lib": 2
+    },
+    "LarryC": {
+        "VisualBasic-2+0": 4
+    },
+    "StefanO": {
+        "Java-2+0": 1
+    },
+    "SundarY": {
+        "Communication-NET": 4
+    },
+    "RuthP": {
+        "MATLAB-py": 4
+    },
+    "ThomasB": {
+        "Kotlin-3+0": 3
+    },
+    "BenjaminK": {
+        "PHP-js": 3
+    },
+    "FionaO": {
+        "JavaScript-NET": 5
+    },
+    "PhilippZ": {
+        "Dart": 2
+    },
+    "PhilippK": {
+        "CloudComputing-2+0": 4
+    },
+    "SergeyX": {
+        "Management-3+0": 1
+    },
+    "LarryW": {
+        "MachineLearning-2+0": 3
+    },
+    "StepanD": {
+        "Perl-lib": 2
+    },
+    "PetarK": {
+        "CloudComputing-lib": 3
+    },
+    "FionaJ": {
+        "Ruby-js": 2
+    },
+    "ClementX": {
+        "PublicSpeaking-2+0": 5
+    },
+    "MaxE": {
+        "Ajax-3+0": 5
+    },
+    "MichalM": {
+        "C++-NET": 5
+    },
+    "NellyB": {
+        "MakingMemes-js": 1
+    },
+    "NellyX": {
+        "VisualBasic++": 3
+    },
+    "BakhodirS": {
+        "BusinessAnalysis++": 4
+    },
+    "PrzemekA": {
+        "MakingMemes-py": 5
+    },
+    "HiroshiX": {
+        "Shell-lib": 3
+    },
+    "PhilippB": {
+        "Communication-NET": 3
+    },
+    "TatiyanaY": {
+        "SQL-js": 2
+    },
+    "FionaV": {
+        "Management-3+0": 4
+    },
+    "FionaL": {
+        "BusinessAnalysis-js": 5
+    },
+    "PhilippA": {
+        "Assembly-2+0": 4
+    },
+    "ClementE": {
+        "Communication-lib": 1
+    },
+    "StefanK": {
+        "UXDesign-NET": 5
+    },
+    "LarryY": {
+        "Privacy-lib": 1
+    },
+    "ClementU": {
+        "PublicSpeaking-2+0": 4
+    },
+    "MichalD": {
+        "Python-2+0": 2
+    },
+    "NellyT": {
+        "UXDesign-NET": 5
+    },
+    "NellyD": {
+        "CloudComputing-NET": 4
+    },
+    "StefanF": {
+        "Parallelization-NET": 3
+    },
+    "PetarV": {
+        "Shell-2+0": 2
+    },
+    "PhilippR": {
+        "JavaScript": 5
+    },
+    "SundarH": {
+        "Swift-lib": 5
+    },
+    "SergeyV": {
+        "TypeScript++": 2
+    },
+    "TatiyanaP": {
+        "Go-lib": 5
+    },
+    "PhilippS": {
+        "C++-py": 3
+    },
+    "JenP": {
+        "VideoProduction-3+0": 2
+    },
+    "MichalY": {
+        "Creativity-NET": 5
+    },
+    "BenjaminE": {
+        "Dart-lib": 1
+    },
+    "JenM": {
+        "Parallelization-py": 2
+    },
+    "SusanO": {
+        "Accessibility-js": 4
+    },
+    "BenjaminB": {
+        "Creativity": 4
+    },
+    "BenjaminR": {
+        "Delphi-lib": 5
+    },
+    "HiroshiH": {
+        "Bash-py": 3
+    },
+    "TatiyanaI": {
+        "CSS-NET": 5
+    },
+    "SergeyD": {
+        "TechWriting": 4
+    },
+    "PrabhakarU": {
+        "C++-js": 2
+    },
+    "NellyN": {
+        "Science++": 5
+    },
+    "PetarG": {
+        "R-NET": 5
+    },
+    "StepanP": {
+        "VisualBasic-NET": 5
+    },
+    "PhilippL": {
+        "Analysis++": 4
+    },
+    "MaxT": {
+        "BusinessAnalysis-js": 1
+    },
+    "TatiyanaH": {
+        "Communication-py": 5
+    },
+    "PrabhakarY": {
+        "Pascal-2+0": 2
+    },
+    "PrzemekI": {
+        "Shell-py": 4
+    },
+    "ClementB": {
+        "Security-js": 2
+    },
+    "JenZ": {
+        "Parallelization-py": 2
+    },
+    "FionaA": {
+        "AI-py": 3
+    },
+    "PhilippQ": {
+        "Dart-lib": 4
+    },
+    "BenjaminT": {
+        "Ajax-3+0": 2
+    },
+    "MaxV": {
+        "Angular-2+0": 1
+    },
+    "ThomasR": {
+        "Ajax-py": 2
+    },
+    "StepanR": {
+        "XML-3+0": 1
+    },
+    "TatiyanaQ": {
+        "Ruby-js": 4
+    },
+    "MatasS": {
+        "Communication-2+0": 5
+    },
+    "StefanN": {
+        "Shell-lib": 1
+    },
+    "JenW": {
+        "TypeScript": 3
+    },
+    "SundarZ": {
+        "Kotlin-3+0": 1
+    },
+    "JenY": {
+        "R-py": 5
+    },
+    "NellyK": {
+        "MakingMemes-py": 4
+    },
+    "MichalS": {
+        "PHP-py": 1
+    },
+    "MatasD": {
+        "HTML-2+0": 1
+    },
+    "LarryM": {
+        "Delphi-lib": 5
+    },
+    "LarryZ": {
+        "Perl-3+0": 5
+    },
+    "ClementT": {
+        "Kotlin-3+0": 1
+    },
+    "ClementJ": {
+        "Haskell-py": 4
+    },
+    "StefanP": {
+        "Java-NET": 4
+    },
+    "MaxR": {
+        "Ruby-3+0": 3
+    },
+    "HiroshiS": {
+        "VideoProduction++": 3
+    },
+    "PhilippI": {
+        "BigQuery-2+0": 5
+    },
+    "StepanX": {
+        "C++-lib": 1
+    },
+    "NellyQ": {
+        "Haskell": 3
+    },
+    "HiroshiZ": {
+        "UXDesign-NET": 3
+    },
+    "BenjaminI": {
+        "MakingMemes-py": 4
+    },
+    "StefanT": {
+        "CloudComputing": 5
+    },
+    "MichalA": {
+        "Objective-C-py": 2
+    },
+    "FionaR": {
+        "VisualBasic-2+0": 4
+    },
+    "MaxN": {
+        "Shell-3+0": 3
+    },
+    "JenI": {
+        "CloudComputing-lib": 5
+    },
+    "PrabhakarW": {
+        "CloudComputing-lib": 2
+    },
+    "HiroshiT": {
+        "AI++": 5
+    },
+    "StepanI": {
+        "VideoProduction-3+0": 3
+    },
+    "MichalW": {
+        "UXDesign": 4
+    },
+    "BenjaminY": {
+        "Swift": 3
+    },
+    "MaxP": {
+        "Python": 4
+    },
+    "HiroshiO": {
+        "Perl-3+0": 5
+    },
+    "MatasE": {
+        "Ajax-3+0": 1
+    },
+    "SusanS": {
+        "Creativity-js": 4
+    },
+    "LarryL": {
+        "SQL-js": 1
+    },
+    "FionaU": {
+        "COBOL": 5
+    },
+    "PrabhakarC": {
+        "Angular-py": 1
+    },
+    "PrabhakarB": {
+        "CloudComputing++": 5
+    },
+    "JenK": {
+        "Angular-NET": 1
+    },
+    "JenN": {
+        "Angular-NET": 1
+    },
+    "StepanH": {
+        "Bash-py": 2
+    },
+    "TatiyanaR": {
+        "JavaScript-NET": 4
+    },
+    "StepanC": {
+        "Blockchain": 1
+    },
+    "PrabhakarT": {
+        "CloudComputing": 3
+    },
+    "BenjaminM": {
+        "Ajax-2+0": 1
+    },
+    "SergeyR": {
+        "Bash-js": 2
+    },
+    "HiroshiN": {
+        "Security-js": 3
+    },
+    "RuthU": {
+        "JavaScript-NET": 2
+    },
+    "SergeyI": {
+        "MakingMemes-py": 5
+    },
+    "MaxI": {
+        "Ada-lib": 2
+    },
+    "StepanF": {
+        "Perl-py": 2
+    },
+    "PetarW": {
+        "Blockchain-3+0": 3
+    },
+    "PrabhakarV": {
+        "PublicSpeaking-2+0": 2
+    },
+    "SergeyH": {
+        "Communication-NET": 5
+    },
+    "MichalL": {
+        "Communication-NET": 5
+    },
+    "MichalU": {
+        "Analysis": 3
+    },
+    "PrzemekF": {
+        "COBOL-3+0": 5
+    },
+    "FionaW": {
+        "HTML-js": 5
+    },
+    "SergeyP": {
+        "Science++": 4
+    },
+    "RuthR": {
+        "VideoProduction++": 1
+    },
+    "MichalB": {
+        "SQL-2+0": 5
+    },
+    "BakhodirR": {
+        "Analysis++": 2
+    },
+    "TatiyanaW": {
+        "Dart-js": 4
+    },
+    "MichalX": {
+        "MySQL-NET": 5
+    },
+    "JenC": {
+        "Science-lib": 4
+    },
+    "BakhodirH": {
+        "SQL-2+0": 2
+    },
+    "HiroshiW": {
+        "Analysis-3+0": 4
+    },
+    "RuthL": {
+        "AI-py": 1
+    },
+    "FionaH": {
+        "Communication-js": 4
+    },
+    "MaxD": {
+        "VideoProduction-lib": 4
+    },
+    "MaxM": {
+        "TechWriting-2+0": 2
+    },
+    "SundarV": {
+        "Delphi": 3
+    },
+    "PetarZ": {
+        "Ajax-3+0": 3
+    },
+    "LarryR": {
+        "PublicSpeaking-js": 1
+    },
+    "RuthG": {
+        "Swift-lib": 5
+    },
+    "FionaG": {
+        "SQL-js": 4
+    },
+    "JenO": {
+        "Ajax-py": 2
+    },
+    "StefanJ": {
+        "Communication-NET": 5
+    },
+    "SundarT": {
+        "Ada-NET": 3
+    },
+    "PhilippG": {
+        "VideoProduction": 1
+    },
+    "BenjaminQ": {
+        "Swift-NET": 3
+    },
+    "PetarO": {
+        "MATLAB++": 5
+    },
+    "BenjaminG": {
+        "Haskell-lib": 4
+    },
+    "LarryN": {
+        "SignalProcessing-js": 5
+    },
+    "JenF": {
+        "PublicSpeaking-NET": 5
+    },
+    "StepanB": {
+        "MySQL-NET": 5
+    },
+    "MatasC": {
+        "Science-py": 2
+    },
+    "PrabhakarJ": {
+        "Communication-2+0": 3
+    },
+    "PhilippU": {
+        "XML-py": 1
+    },
+    "StepanU": {
+        "C++-lib": 3
+    },
+    "BakhodirY": {
+        "Java-NET": 2
+    },
+    "SusanG": {
+        "Haskell-py": 5
+    },
+    "ThomasF": {
+        "C++-py": 4
+    },
+    "FionaS": {
+        "Management-lib": 3
+    },
+    "MichalO": {
+        "CloudComputing-lib": 4
+    },
+    "ThomasY": {
+        "Science-py": 1
+    },
+    "SusanA": {
+        "TypeScript-lib": 2
+    },
+    "PhilippV": {
+        "VideoProduction-3+0": 5
+    },
+    "PetarA": {
+        "Haskell-2+0": 3
+    },
+    "StefanE": {
+        "Creativity-NET": 1
+    },
+    "SusanP": {
+        "SignalProcessing++": 1
+    },
+    "StefanX": {
+        "JavaScript-2+0": 1
+    },
+    "LarryI": {
+        "SQL-NET": 5
+    },
+    "LarryQ": {
+        "HTML-2+0": 1
+    },
+    "SergeyU": {
+        "TechWriting-2+0": 1
+    },
+    "MatasV": {
+        "Swift-NET": 3
+    },
+    "FionaY": {
+        "Haskell": 3
+    },
+    "LarryX": {
+        "Assembly-lib": 1
+    },
+    "StefanG": {
+        "Ajax-py": 4
+    },
+    "StepanA": {
+        "TechWriting-2+0": 2
+    },
+    "NellyE": {
+        "Blockchain++": 1
+    },
+    "JenJ": {
+        "AI++": 5
+    },
+    "SundarM": {
+        "BigQuery-NET": 1
+    },
+    "SundarI": {
+        "XML-3+0": 3
+    },
+    "TatiyanaV": {
+        "Pascal-2+0": 1
+    },
+    "SergeyT": {
+        "Python-2+0": 2
+    },
+    "BenjaminX": {
+        "VideoProduction-js": 2
+    },
+    "PrzemekY": {
+        "TypeScript-lib": 3
+    },
+    "SundarE": {
+        "Dart-js": 4
+    },
+    "SundarP": {
+        "Go-js": 2
+    },
+    "ThomasM": {
+        "Privacy-lib": 4
+    },
+    "PetarT": {
+        "R-2+0": 3
+    },
+    "ThomasV": {
+        "Go-NET": 2
+    },
+    "RuthV": {
+        "VideoProduction-js": 2
+    },
+    "BenjaminL": {
+        "MATLAB": 5
+    },
+    "MichalJ": {
+        "Creativity": 5
+    },
+    "SusanL": {
+        "Java-3+0": 1
+    },
+    "SusanD": {
+        "Pascal-2+0": 5
+    },
+    "PrzemekX": {
+        "TechWriting-2+0": 2
+    },
+    "PrzemekP": {
+        "TechWriting-2+0": 5
+    },
+    "SundarW": {
+        "Ruby-js": 5
+    },
+    "SusanQ": {
+        "Ajax-2+0": 4
+    },
+    "RuthM": {
+        "Assembly-py": 5
+    },
+    "PetarB": {
+        "BusinessAnalysis++": 3
+    },
+    "ClementF": {
+        "MachineLearning-2+0": 3
+    },
+    "BenjaminO": {
+        "Delphi-py": 2
+    },
+    "MichalP": {
+        "Haskell-lib": 5
+    },
+    "FionaM": {
+        "MySQL-NET": 5
+    },
+    "RuthD": {
+        "Ada-py": 4
+    },
+    "ClementG": {
+        "Ruby-js": 3
+    },
+    "BakhodirU": {
+        "MATLAB": 1
+    },
+    "MaxU": {
+        "Ajax-3+0": 3
+    },
+    "BakhodirK": {
+        "MakingMemes-lib": 1
+    },
+    "StepanM": {
+        "Parallelization-NET": 5
+    },
+    "PrabhakarS": {
+        "VideoProduction-js": 5
+    },
+    "TatiyanaL": {
+        "XML-js": 3
+    },
+    "ClementP": {
+        "TypeScript-lib": 3
+    },
+    "PhilippN": {
+        "Science-lib": 1
+    },
+    "RuthZ": {
+        "MakingMemes-lib": 1
+    },
+    "PetarU": {
+        "Shell-3+0": 1
+    },
+    "NellyZ": {
+        "Ajax-3+0": 1
+    },
+    "BakhodirQ": {
+        "Kotlin-lib": 3
+    },
+    "PhilippF": {
+        "CloudComputing-lib": 5
+    },
+    "HiroshiU": {
+        "Kotlin-3+0": 5
+    },
+    "PetarN": {
+        "C-2+0": 3
+    },
+    "MaxY": {
+        "SignalProcessing-js": 4
+    },
+    "ThomasT": {
+        "Ajax-2+0": 5
+    },
+    "FionaB": {
+        "PHP-2+0": 1
+    },
+    "LarryK": {
+        "MachineLearning-NET": 2
+    },
+    "TatiyanaD": {
+        "CloudComputing-2+0": 2
+    },
+    "NellyO": {
+        "C++-lib": 2
+    },
+    "ThomasX": {
+        "BigQuery-2+0": 4
+    },
+    "ThomasZ": {
+        "Bash-3+0": 1
+    },
+    "PhilippE": {
+        "HTML++": 3
+    },
+    "FionaI": {
+        "Delphi": 4
+    },
+    "SusanC": {
+        "Delphi-3+0": 5
+    },
+    "HiroshiM": {
+        "TypeScript-py": 2
+    },
+    "PrabhakarZ": {
+        "BigQuery-2+0": 2
+    },
+    "ThomasA": {
+        "Accessibility-js": 2
+    },
+    "FionaE": {
+        "Delphi-py": 4
+    },
+    "BakhodirB": {
+        "Assembly-lib": 4
+    },
+    "PrzemekG": {
+        "Shell-py": 3
+    },
+    "SusanE": {
+        "MySQL-NET": 1
+    },
+    "MatasI": {
+        "Angular-2+0": 3
+    },
+    "MaxL": {
+        "VideoProduction-3+0": 2
+    },
+    "NellyY": {
+        "Bash-3+0": 3
+    },
+    "StepanK": {
+        "Objective-C-2+0": 5
+    },
+    "PrabhakarK": {
+        "Dart-js": 4
+    },
+    "HiroshiF": {
+        "Security-NET": 1
+    },
+    "StefanV": {
+        "Security-NET": 3
+    },
+    "StepanO": {
+        "UXDesign": 5
+    },
+    "ThomasU": {
+        "Bash-3+0": 5
+    },
+    "PrzemekQ": {
+        "SQL++": 4
+    },
+    "MaxW": {
+        "PHP-2+0": 4
+    },
+    "ClementA": {
+        "Kotlin-lib": 4
+    },
+    "NellyH": {
+        "CloudComputing-lib": 1
+    },
+    "StefanI": {
+        "Science-py": 2
+    },
+    "PetarD": {
+        "SQL-2+0": 4
+    },
+    "RuthS": {
+        "VideoProduction++": 3
+    },
+    "SundarL": {
+        "VisualBasic": 1
+    },
+    "PrabhakarO": {
+        "AI-py": 2
+    },
+    "ThomasG": {
+        "MachineLearning-lib": 1
+    },
+    "SusanX": {
+        "Management-lib": 4
+    },
+    "RuthE": {
+        "Privacy-lib": 3
+    },
+    "PetarJ": {
+        "Haskell": 4
+    },
+    "SusanN": {
+        "Perl-3+0": 4
+    },
+    "FionaX": {
+        "Management-lib": 5
+    },
+    "ClementD": {
+        "Science-py": 3
+    },
+    "PrabhakarM": {
+        "MachineLearning-NET": 5
+    },
+    "StefanL": {
+        "Accessibility-js": 1
+    },
+    "ClementO": {
+        "SignalProcessing++": 4
+    },
+    "LarryF": {
+        "UXDesign": 3
+    },
+    "LarryP": {
+        "Java-NET": 3
+    },
+    "SusanM": {
+        "BusinessAnalysis++": 3
+    },
+    "MatasA": {
+        "Dart-3+0": 3
+    },
+    "StefanC": {
+        "Pascal-3+0": 3
+    },
+    "LarryV": {
+        "MakingMemes++": 4
+    },
+    "SergeyF": {
+        "Delphi": 4
+    }
+}

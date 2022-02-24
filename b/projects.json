@@ -1,0 +1,2948 @@
+{
+    "StadiaNextv9": {
+        "score": 16813,
+        "days": 20,
+        "deadline": 763,
+        "skills": {
+            "MySQL": [
+                3
+            ],
+            "TechWriting-js": [
+                6
+            ],
+            "Go-NET": [
+                9
+            ],
+            "Blockchain": [
+                6,
+                9
+            ],
+            "JavaScript-2+0": [
+                3
+            ],
+            "Ajax-3+0": [
+                10
+            ],
+            "BusinessAnalysis-lib": [
+                6
+            ],
+            "Haskell": [
+                3
+            ],
+            "MATLAB": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "MySQL",
+            "TechWriting-js",
+            "Go-NET",
+            "Blockchain",
+            "JavaScript-2+0",
+            "Ajax-3+0",
+            "Blockchain",
+            "BusinessAnalysis-lib",
+            "Haskell",
+            "MATLAB"
+        ]
+    },
+    "SlidesNextv2": {
+        "score": 7950,
+        "days": 20,
+        "deadline": 259,
+        "skills": {
+            "HTML++": [
+                2
+            ],
+            "MySQL": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "HTML++",
+            "MySQL"
+        ]
+    },
+    "WearOSProv2": {
+        "score": 22883,
+        "days": 19,
+        "deadline": 683,
+        "skills": {
+            "COBOL-lib": [
+                5
+            ],
+            "UXDesign": [
+                4
+            ],
+            "PHP-py": [
+                8
+            ],
+            "TypeScript-lib": [
+                4
+            ],
+            "BusinessAnalysis-lib": [
+                8
+            ],
+            "Assembly-py": [
+                7
+            ],
+            "HTML-js": [
+                3
+            ],
+            "MySQL": [
+                3
+            ],
+            "Ajax-3+0": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "COBOL-lib",
+            "UXDesign",
+            "PHP-py",
+            "TypeScript-lib",
+            "BusinessAnalysis-lib",
+            "Assembly-py",
+            "HTML-js",
+            "MySQL",
+            "Ajax-3+0"
+        ]
+    },
+    "CollectionsNextv1": {
+        "score": 8246,
+        "days": 11,
+        "deadline": 826,
+        "skills": {
+            "Dart": [
+                2
+            ],
+            "Go-NET": [
+                5,
+                1
+            ],
+            "HTML-js": [
+                7
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "Go-NET",
+            "HTML-js",
+            "Go-NET"
+        ]
+    },
+    "GlassOSSv3": {
+        "score": 6354,
+        "days": 16,
+        "deadline": 984,
+        "skills": {
+            "HTML-js": [
+                7
+            ],
+            "HTML++": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "HTML-js",
+            "HTML++"
+        ]
+    },
+    "StreamXv9": {
+        "score": 1518,
+        "days": 18,
+        "deadline": 283,
+        "skills": {
+            "Communication-lib": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "Communication-lib"
+        ]
+    },
+    "MoonMaxv4": {
+        "score": 11001,
+        "days": 12,
+        "deadline": 690,
+        "skills": {
+            "Blockchain": [
+                10
+            ],
+            "Parallelization-NET": [
+                1
+            ],
+            "SQL-js": [
+                7
+            ],
+            "Blockchain++": [
+                1
+            ],
+            "CloudComputing-2+0": [
+                1
+            ],
+            "Assembly-py": [
+                3
+            ],
+            "Ajax-3+0": [
+                5
+            ],
+            "MATLAB": [
+                4
+            ],
+            "CloudComputing-NET": [
+                1
+            ],
+            "CloudComputing++": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Blockchain",
+            "Parallelization-NET",
+            "SQL-js",
+            "Blockchain++",
+            "CloudComputing-2+0",
+            "Assembly-py",
+            "Ajax-3+0",
+            "MATLAB",
+            "CloudComputing-NET",
+            "CloudComputing++"
+        ]
+    },
+    "CastOSProv6": {
+        "score": 1817,
+        "days": 10,
+        "deadline": 882,
+        "skills": {
+            "CloudComputing++": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing++"
+        ]
+    },
+    "ShoppingProv8": {
+        "score": 3110,
+        "days": 20,
+        "deadline": 295,
+        "skills": {
+            "COBOL-lib": [
+                1
+            ],
+            "Objective-C-lib": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "COBOL-lib",
+            "Objective-C-lib"
+        ]
+    },
+    "AndroidTVNextv1": {
+        "score": 12497,
+        "days": 13,
+        "deadline": 337,
+        "skills": {
+            "PublicSpeaking-py": [
+                6
+            ],
+            "Dart-lib": [
+                5
+            ],
+            "PHP-py": [
+                8,
+                4
+            ],
+            "Communication-lib": [
+                4
+            ],
+            "Angular-NET": [
+                2
+            ],
+            "Assembly-py": [
+                3
+            ],
+            "JavaScript-NET": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "PublicSpeaking-py",
+            "Dart-lib",
+            "PHP-py",
+            "Communication-lib",
+            "Angular-NET",
+            "Assembly-py",
+            "JavaScript-NET",
+            "PHP-py"
+        ]
+    },
+    "MapsUltrav3": {
+        "score": 5673,
+        "days": 11,
+        "deadline": 823,
+        "skills": {
+            "Dart": [
+                5
+            ],
+            "Parallelization-NET": [
+                3
+            ],
+            "Angular-NET": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "Parallelization-NET",
+            "Angular-NET"
+        ]
+    },
+    "ExploreUltrav8": {
+        "score": 16882,
+        "days": 13,
+        "deadline": 492,
+        "skills": {
+            "CloudComputing++": [
+                4
+            ],
+            "Communication-3+0": [
+                5
+            ],
+            "PHP-py": [
+                2
+            ],
+            "CloudComputing-NET": [
+                5
+            ],
+            "BusinessAnalysis-lib": [
+                5
+            ],
+            "TechWriting-js": [
+                2
+            ],
+            "Accessibility-js": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing++",
+            "Communication-3+0",
+            "PHP-py",
+            "CloudComputing-NET",
+            "BusinessAnalysis-lib",
+            "TechWriting-js",
+            "Accessibility-js"
+        ]
+    },
+    "ChromeNextv7": {
+        "score": 8381,
+        "days": 14,
+        "deadline": 459,
+        "skills": {
+            "PHP-py": [
+                1
+            ],
+            "CloudComputing++": [
+                7
+            ],
+            "TypeScript-lib": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "PHP-py",
+            "CloudComputing++",
+            "TypeScript-lib"
+        ]
+    },
+    "ClassroomMaxv2": {
+        "score": 3836,
+        "days": 12,
+        "deadline": 863,
+        "skills": {
+            "Dart": [
+                3
+            ],
+            "TechWriting-js": [
+                7
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "TechWriting-js"
+        ]
+    },
+    "StreamXv6": {
+        "score": 12240,
+        "days": 12,
+        "deadline": 711,
+        "skills": {
+            "CloudComputing-2+0": [
+                1
+            ],
+            "PublicSpeaking-py": [
+                2
+            ],
+            "Go-NET": [
+                1
+            ],
+            "Communication-3+0": [
+                1
+            ],
+            "BusinessAnalysis-lib": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-2+0",
+            "PublicSpeaking-py",
+            "Go-NET",
+            "Communication-3+0",
+            "BusinessAnalysis-lib"
+        ]
+    },
+    "DocsNextv2": {
+        "score": 4373,
+        "days": 14,
+        "deadline": 626,
+        "skills": {
+            "Delphi": [
+                6
+            ],
+            "PublicSpeaking-py": [
+                3
+            ],
+            "JavaScript-2+0": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "Delphi",
+            "PublicSpeaking-py",
+            "JavaScript-2+0"
+        ]
+    },
+    "BuildMaxv1": {
+        "score": 6712,
+        "days": 12,
+        "deadline": 707,
+        "skills": {
+            "MachineLearning-2+0": [
+                1
+            ],
+            "Shell-py": [
+                1
+            ],
+            "UXDesign": [
+                1
+            ],
+            "Security-js": [
+                8
+            ],
+            "PHP-py": [
+                9
+            ]
+        },
+        "skills-in-order": [
+            "MachineLearning-2+0",
+            "Shell-py",
+            "UXDesign",
+            "Security-js",
+            "PHP-py"
+        ]
+    },
+    "DrawingsXv6": {
+        "score": 14686,
+        "days": 16,
+        "deadline": 515,
+        "skills": {
+            "HTML++": [
+                4
+            ],
+            "MachineLearning-2+0": [
+                6
+            ],
+            "JavaScript-NET": [
+                1
+            ],
+            "Accessibility-js": [
+                2
+            ],
+            "CloudComputing++": [
+                8,
+                1
+            ],
+            "COBOL-lib": [
+                5
+            ],
+            "Shell-py": [
+                4
+            ],
+            "Objective-C-lib": [
+                8,
+                5
+            ]
+        },
+        "skills-in-order": [
+            "HTML++",
+            "MachineLearning-2+0",
+            "JavaScript-NET",
+            "Accessibility-js",
+            "CloudComputing++",
+            "COBOL-lib",
+            "CloudComputing++",
+            "Shell-py",
+            "Objective-C-lib",
+            "Objective-C-lib"
+        ]
+    },
+    "GameProv3": {
+        "score": 1732,
+        "days": 15,
+        "deadline": 400,
+        "skills": {
+            "TypeScript-lib": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "TypeScript-lib"
+        ]
+    },
+    "ShortsNextv7": {
+        "score": 2957,
+        "days": 11,
+        "deadline": 582,
+        "skills": {
+            "SQL-js": [
+                7
+            ],
+            "TypeScript-lib": [
+                5
+            ],
+            "CloudComputing-NET": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "SQL-js",
+            "TypeScript-lib",
+            "CloudComputing-NET"
+        ]
+    },
+    "DuoLitev3": {
+        "score": 17561,
+        "days": 19,
+        "deadline": 304,
+        "skills": {
+            "BusinessAnalysis-lib": [
+                3
+            ],
+            "Go-NET": [
+                4
+            ],
+            "Accessibility-js": [
+                4
+            ],
+            "Angular-NET": [
+                1
+            ],
+            "Shell-py": [
+                1
+            ],
+            "MATLAB": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "BusinessAnalysis-lib",
+            "Go-NET",
+            "Accessibility-js",
+            "Angular-NET",
+            "Shell-py",
+            "MATLAB"
+        ]
+    },
+    "GmailSv4": {
+        "score": 5166,
+        "days": 18,
+        "deadline": 352,
+        "skills": {
+            "Security-js": [
+                10
+            ],
+            "UXDesign": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "Security-js",
+            "UXDesign"
+        ]
+    },
+    "SearchNextv1": {
+        "score": 8768,
+        "days": 20,
+        "deadline": 906,
+        "skills": {
+            "PHP-py": [
+                10
+            ],
+            "Assembly-py": [
+                4
+            ],
+            "MachineLearning-2+0": [
+                2
+            ],
+            "Delphi": [
+                7
+            ],
+            "MATLAB": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "PHP-py",
+            "Assembly-py",
+            "MachineLearning-2+0",
+            "Delphi",
+            "MATLAB"
+        ]
+    },
+    "WearOSLitev5": {
+        "score": 16854,
+        "days": 15,
+        "deadline": 296,
+        "skills": {
+            "UXDesign": [
+                2
+            ],
+            "CloudComputing++": [
+                5
+            ],
+            "Dart": [
+                4
+            ],
+            "PublicSpeaking-py": [
+                3
+            ],
+            "Objective-C-lib": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "UXDesign",
+            "CloudComputing++",
+            "Dart",
+            "PublicSpeaking-py",
+            "Objective-C-lib"
+        ]
+    },
+    "LoggingLitev6": {
+        "score": 11633,
+        "days": 14,
+        "deadline": 528,
+        "skills": {
+            "Communication-3+0": [
+                4
+            ],
+            "JavaScript-2+0": [
+                3
+            ],
+            "Delphi": [
+                1,
+                4
+            ],
+            "Communication-lib": [
+                4
+            ],
+            "Go-NET": [
+                2
+            ],
+            "CloudComputing-2+0": [
+                5
+            ],
+            "Accessibility-js": [
+                3
+            ],
+            "CloudComputing-NET": [
+                1
+            ],
+            "TechWriting-js": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Communication-3+0",
+            "JavaScript-2+0",
+            "Delphi",
+            "Communication-lib",
+            "Go-NET",
+            "CloudComputing-2+0",
+            "Accessibility-js",
+            "CloudComputing-NET",
+            "Delphi",
+            "TechWriting-js"
+        ]
+    },
+    "DaydreamLitev7": {
+        "score": 2202,
+        "days": 12,
+        "deadline": 535,
+        "skills": {
+            "CloudComputing-2+0": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-2+0"
+        ]
+    },
+    "BloggerNextv8": {
+        "score": 14306,
+        "days": 19,
+        "deadline": 467,
+        "skills": {
+            "Angular-NET": [
+                6
+            ],
+            "Accessibility-js": [
+                7
+            ],
+            "HTML-js": [
+                8
+            ],
+            "PHP-py": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Angular-NET",
+            "Accessibility-js",
+            "HTML-js",
+            "PHP-py"
+        ]
+    },
+    "MapsProv8": {
+        "score": 9450,
+        "days": 18,
+        "deadline": 831,
+        "skills": {
+            "Parallelization-NET": [
+                1
+            ],
+            "Ajax-3+0": [
+                9
+            ],
+            "CloudComputing++": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Parallelization-NET",
+            "Ajax-3+0",
+            "CloudComputing++"
+        ]
+    },
+    "ChatProv6": {
+        "score": 29023,
+        "days": 18,
+        "deadline": 377,
+        "skills": {
+            "Go-NET": [
+                5,
+                8
+            ],
+            "HTML++": [
+                1
+            ],
+            "Security-js": [
+                2,
+                3
+            ],
+            "Blockchain++": [
+                1
+            ],
+            "CloudComputing-NET": [
+                6
+            ],
+            "JavaScript-2+0": [
+                4
+            ],
+            "Delphi": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "Go-NET",
+            "HTML++",
+            "Go-NET",
+            "Security-js",
+            "Blockchain++",
+            "Security-js",
+            "CloudComputing-NET",
+            "JavaScript-2+0",
+            "Delphi"
+        ]
+    },
+    "FeedBurnerNextv3": {
+        "score": 22221,
+        "days": 16,
+        "deadline": 302,
+        "skills": {
+            "BusinessAnalysis-lib": [
+                9
+            ],
+            "Dart": [
+                2
+            ],
+            "MachineLearning-2+0": [
+                3,
+                5
+            ],
+            "PublicSpeaking-py": [
+                7
+            ],
+            "Go-NET": [
+                3
+            ],
+            "CloudComputing++": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "BusinessAnalysis-lib",
+            "Dart",
+            "MachineLearning-2+0",
+            "PublicSpeaking-py",
+            "Go-NET",
+            "CloudComputing++",
+            "MachineLearning-2+0"
+        ]
+    },
+    "ConnectLitev9": {
+        "score": 1191,
+        "days": 12,
+        "deadline": 448,
+        "skills": {
+            "Blockchain++": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Blockchain++"
+        ]
+    },
+    "AndroidTVXv9": {
+        "score": 4199,
+        "days": 10,
+        "deadline": 542,
+        "skills": {
+            "Dart": [
+                2
+            ],
+            "HTML-js": [
+                2,
+                2
+            ],
+            "PHP-py": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "HTML-js",
+            "PHP-py",
+            "HTML-js"
+        ]
+    },
+    "CollectionsZv7": {
+        "score": 14477,
+        "days": 16,
+        "deadline": 282,
+        "skills": {
+            "Parallelization-NET": [
+                2
+            ],
+            "PHP-py": [
+                6
+            ],
+            "CloudComputing++": [
+                6
+            ],
+            "Objective-C-lib": [
+                1
+            ],
+            "Blockchain++": [
+                3
+            ],
+            "Go-NET": [
+                7
+            ],
+            "BusinessAnalysis-lib": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Parallelization-NET",
+            "PHP-py",
+            "CloudComputing++",
+            "Objective-C-lib",
+            "Blockchain++",
+            "Go-NET",
+            "BusinessAnalysis-lib"
+        ]
+    },
+    "StadiaZv2": {
+        "score": 18257,
+        "days": 17,
+        "deadline": 991,
+        "skills": {
+            "Security-js": [
+                7
+            ],
+            "HTML++": [
+                3
+            ],
+            "Blockchain": [
+                11,
+                2
+            ],
+            "SQL-js": [
+                10
+            ],
+            "MATLAB": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "Security-js",
+            "HTML++",
+            "Blockchain",
+            "SQL-js",
+            "MATLAB",
+            "Blockchain"
+        ]
+    },
+    "KeepXv5": {
+        "score": 7932,
+        "days": 17,
+        "deadline": 977,
+        "skills": {
+            "Angular-NET": [
+                2
+            ],
+            "CloudComputing-NET": [
+                4
+            ],
+            "Blockchain": [
+                9
+            ]
+        },
+        "skills-in-order": [
+            "Angular-NET",
+            "CloudComputing-NET",
+            "Blockchain"
+        ]
+    },
+    "GameProv6": {
+        "score": 7306,
+        "days": 13,
+        "deadline": 936,
+        "skills": {
+            "Communication-lib": [
+                2
+            ],
+            "TechWriting-js": [
+                7
+            ],
+            "Ajax-3+0": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "Communication-lib",
+            "TechWriting-js",
+            "Ajax-3+0"
+        ]
+    },
+    "ChromeOSLitev3": {
+        "score": 4455,
+        "days": 14,
+        "deadline": 810,
+        "skills": {
+            "Angular-NET": [
+                2
+            ],
+            "Parallelization-NET": [
+                1
+            ],
+            "TypeScript-lib": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Angular-NET",
+            "Parallelization-NET",
+            "TypeScript-lib"
+        ]
+    },
+    "SitesUltrav5": {
+        "score": 29943,
+        "days": 18,
+        "deadline": 837,
+        "skills": {
+            "JavaScript-NET": [
+                2
+            ],
+            "Objective-C-lib": [
+                6
+            ],
+            "HTML-js": [
+                2
+            ],
+            "Dart": [
+                5
+            ],
+            "CloudComputing++": [
+                1
+            ],
+            "Ajax-3+0": [
+                10
+            ],
+            "TypeScript-lib": [
+                1
+            ],
+            "Delphi": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "JavaScript-NET",
+            "Objective-C-lib",
+            "HTML-js",
+            "Dart",
+            "CloudComputing++",
+            "Ajax-3+0",
+            "TypeScript-lib",
+            "Delphi"
+        ]
+    },
+    "MarsXv1": {
+        "score": 3676,
+        "days": 10,
+        "deadline": 549,
+        "skills": {
+            "CloudComputing-NET": [
+                4
+            ],
+            "BusinessAnalysis-lib": [
+                3
+            ],
+            "MachineLearning-2+0": [
+                4
+            ],
+            "Blockchain": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-NET",
+            "BusinessAnalysis-lib",
+            "MachineLearning-2+0",
+            "Blockchain"
+        ]
+    },
+    "StreetViewProv9": {
+        "score": 13693,
+        "days": 12,
+        "deadline": 328,
+        "skills": {
+            "Blockchain++": [
+                3
+            ],
+            "PublicSpeaking-py": [
+                5,
+                2
+            ],
+            "Accessibility-js": [
+                1
+            ],
+            "HTML-js": [
+                5
+            ],
+            "HTML-py": [
+                2
+            ],
+            "UXDesign": [
+                3
+            ],
+            "Communication-lib": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "Blockchain++",
+            "PublicSpeaking-py",
+            "Accessibility-js",
+            "HTML-js",
+            "PublicSpeaking-py",
+            "HTML-py",
+            "UXDesign",
+            "Communication-lib"
+        ]
+    },
+    "GlassOSProv9": {
+        "score": 14751,
+        "days": 19,
+        "deadline": 811,
+        "skills": {
+            "CloudComputing++": [
+                7,
+                6
+            ],
+            "CloudComputing-NET": [
+                4
+            ],
+            "MATLAB": [
+                5,
+                4
+            ],
+            "JavaScript-2+0": [
+                2,
+                3
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing++",
+            "CloudComputing++",
+            "CloudComputing-NET",
+            "MATLAB",
+            "JavaScript-2+0",
+            "JavaScript-2+0",
+            "MATLAB"
+        ]
+    },
+    "FeedBurnerMaxv3": {
+        "score": 4572,
+        "days": 12,
+        "deadline": 547,
+        "skills": {
+            "Dart": [
+                3
+            ],
+            "Communication-lib": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "Communication-lib"
+        ]
+    },
+    "AndroidTVMaxv5": {
+        "score": 5055,
+        "days": 14,
+        "deadline": 909,
+        "skills": {
+            "CloudComputing-NET": [
+                4
+            ],
+            "Delphi": [
+                3
+            ],
+            "HTML-py": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-NET",
+            "Delphi",
+            "HTML-py"
+        ]
+    },
+    "DuoZv2": {
+        "score": 10817,
+        "days": 18,
+        "deadline": 832,
+        "skills": {
+            "TypeScript-lib": [
+                2
+            ],
+            "Delphi": [
+                4
+            ],
+            "SQL-js": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "TypeScript-lib",
+            "Delphi",
+            "SQL-js"
+        ]
+    },
+    "CalendarProv3": {
+        "score": 19634,
+        "days": 19,
+        "deadline": 846,
+        "skills": {
+            "UXDesign": [
+                5
+            ],
+            "Blockchain++": [
+                3
+            ],
+            "CloudComputing-NET": [
+                7
+            ],
+            "JavaScript-NET": [
+                3
+            ],
+            "Accessibility-js": [
+                6
+            ],
+            "CloudComputing++": [
+                5
+            ],
+            "Go-NET": [
+                6
+            ],
+            "JavaScript-2+0": [
+                4
+            ],
+            "Objective-C-lib": [
+                8,
+                7
+            ]
+        },
+        "skills-in-order": [
+            "UXDesign",
+            "Blockchain++",
+            "CloudComputing-NET",
+            "JavaScript-NET",
+            "Accessibility-js",
+            "CloudComputing++",
+            "Go-NET",
+            "JavaScript-2+0",
+            "Objective-C-lib",
+            "Objective-C-lib"
+        ]
+    },
+    "StadiaZv1": {
+        "score": 11728,
+        "days": 14,
+        "deadline": 754,
+        "skills": {
+            "Dart": [
+                5
+            ],
+            "Communication-3+0": [
+                1
+            ],
+            "Haskell": [
+                1
+            ],
+            "Angular-NET": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "Communication-3+0",
+            "Haskell",
+            "Angular-NET"
+        ]
+    },
+    "CastOSNextv8": {
+        "score": 31519,
+        "days": 19,
+        "deadline": 372,
+        "skills": {
+            "Communication-lib": [
+                3
+            ],
+            "CloudComputing++": [
+                3
+            ],
+            "Communication-3+0": [
+                4
+            ],
+            "Security-js": [
+                1
+            ],
+            "Assembly-py": [
+                6
+            ],
+            "CloudComputing-2+0": [
+                4
+            ],
+            "UXDesign": [
+                5
+            ],
+            "Dart": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "Communication-lib",
+            "CloudComputing++",
+            "Communication-3+0",
+            "Security-js",
+            "Assembly-py",
+            "CloudComputing-2+0",
+            "UXDesign",
+            "Dart"
+        ]
+    },
+    "ResearchUltrav8": {
+        "score": 29968,
+        "days": 20,
+        "deadline": 307,
+        "skills": {
+            "CloudComputing-NET": [
+                5,
+                8
+            ],
+            "CloudComputing-2+0": [
+                3
+            ],
+            "PHP-py": [
+                2
+            ],
+            "Communication-3+0": [
+                8
+            ],
+            "UXDesign": [
+                3
+            ],
+            "Accessibility-js": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-NET",
+            "CloudComputing-2+0",
+            "PHP-py",
+            "Communication-3+0",
+            "UXDesign",
+            "CloudComputing-NET",
+            "Accessibility-js"
+        ]
+    },
+    "CalendarNextv8": {
+        "score": 6002,
+        "days": 16,
+        "deadline": 892,
+        "skills": {
+            "Security-js": [
+                1
+            ],
+            "MachineLearning-2+0": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Security-js",
+            "MachineLearning-2+0"
+        ]
+    },
+    "WebserverProv4": {
+        "score": 21563,
+        "days": 12,
+        "deadline": 307,
+        "skills": {
+            "CloudComputing-NET": [
+                3
+            ],
+            "Dart-lib": [
+                2
+            ],
+            "Angular-NET": [
+                6
+            ],
+            "Objective-C-lib": [
+                6
+            ],
+            "MySQL": [
+                5
+            ],
+            "Accessibility-js": [
+                5
+            ],
+            "JavaScript-NET": [
+                1
+            ],
+            "HTML-js": [
+                5
+            ],
+            "TypeScript-lib": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-NET",
+            "Dart-lib",
+            "Angular-NET",
+            "Objective-C-lib",
+            "MySQL",
+            "Accessibility-js",
+            "JavaScript-NET",
+            "HTML-js",
+            "TypeScript-lib"
+        ]
+    },
+    "YouTubeZv2": {
+        "score": 15521,
+        "days": 17,
+        "deadline": 769,
+        "skills": {
+            "MATLAB": [
+                6
+            ],
+            "Angular-NET": [
+                3,
+                3
+            ],
+            "Communication-lib": [
+                2
+            ],
+            "Assembly-py": [
+                7
+            ],
+            "TechWriting-js": [
+                8
+            ],
+            "HTML-py": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "MATLAB",
+            "Angular-NET",
+            "Communication-lib",
+            "Angular-NET",
+            "Assembly-py",
+            "TechWriting-js",
+            "HTML-py"
+        ]
+    },
+    "SkySv8": {
+        "score": 18244,
+        "days": 17,
+        "deadline": 715,
+        "skills": {
+            "PublicSpeaking-py": [
+                2,
+                4
+            ],
+            "CloudComputing-NET": [
+                6,
+                7
+            ],
+            "PHP-py": [
+                8
+            ],
+            "Angular-NET": [
+                7
+            ],
+            "HTML++": [
+                7
+            ]
+        },
+        "skills-in-order": [
+            "PublicSpeaking-py",
+            "CloudComputing-NET",
+            "PublicSpeaking-py",
+            "PHP-py",
+            "Angular-NET",
+            "CloudComputing-NET",
+            "HTML++"
+        ]
+    },
+    "ResearchXv8": {
+        "score": 12213,
+        "days": 14,
+        "deadline": 394,
+        "skills": {
+            "Delphi": [
+                6
+            ],
+            "Communication-3+0": [
+                5
+            ],
+            "CloudComputing-2+0": [
+                5
+            ],
+            "PublicSpeaking-py": [
+                3
+            ],
+            "Accessibility-js": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "Delphi",
+            "Communication-3+0",
+            "CloudComputing-2+0",
+            "PublicSpeaking-py",
+            "Accessibility-js"
+        ]
+    },
+    "ReleaseUltrav1": {
+        "score": 3808,
+        "days": 15,
+        "deadline": 865,
+        "skills": {
+            "BusinessAnalysis-lib": [
+                8
+            ],
+            "CloudComputing++": [
+                7
+            ]
+        },
+        "skills-in-order": [
+            "BusinessAnalysis-lib",
+            "CloudComputing++"
+        ]
+    },
+    "MapsSv7": {
+        "score": 21465,
+        "days": 12,
+        "deadline": 836,
+        "skills": {
+            "Blockchain++": [
+                3
+            ],
+            "HTML-py": [
+                1
+            ],
+            "SQL-js": [
+                7
+            ],
+            "Communication-lib": [
+                1
+            ],
+            "Communication-3+0": [
+                3
+            ],
+            "MATLAB": [
+                2
+            ],
+            "HTML-js": [
+                2
+            ],
+            "CloudComputing++": [
+                2,
+                3
+            ],
+            "Accessibility-js": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Blockchain++",
+            "HTML-py",
+            "SQL-js",
+            "Communication-lib",
+            "Communication-3+0",
+            "MATLAB",
+            "HTML-js",
+            "CloudComputing++",
+            "Accessibility-js",
+            "CloudComputing++"
+        ]
+    },
+    "ChromecastXv8": {
+        "score": 5584,
+        "days": 19,
+        "deadline": 708,
+        "skills": {
+            "Haskell": [
+                2
+            ],
+            "CloudComputing-NET": [
+                7
+            ]
+        },
+        "skills-in-order": [
+            "Haskell",
+            "CloudComputing-NET"
+        ]
+    },
+    "DreamSv2": {
+        "score": 12473,
+        "days": 18,
+        "deadline": 698,
+        "skills": {
+            "TechWriting-js": [
+                3
+            ],
+            "Angular-NET": [
+                6
+            ],
+            "Go-NET": [
+                1
+            ],
+            "Communication-lib": [
+                1
+            ],
+            "Objective-C-lib": [
+                5
+            ],
+            "HTML-js": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "TechWriting-js",
+            "Angular-NET",
+            "Go-NET",
+            "Communication-lib",
+            "Objective-C-lib",
+            "HTML-js"
+        ]
+    },
+    "SlidesUltrav7": {
+        "score": 8118,
+        "days": 13,
+        "deadline": 509,
+        "skills": {
+            "CloudComputing++": [
+                2,
+                1
+            ],
+            "SQL-js": [
+                11
+            ],
+            "PublicSpeaking-py": [
+                7,
+                8
+            ],
+            "Blockchain": [
+                5
+            ],
+            "Shell-py": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing++",
+            "SQL-js",
+            "PublicSpeaking-py",
+            "Blockchain",
+            "CloudComputing++",
+            "Shell-py",
+            "PublicSpeaking-py"
+        ]
+    },
+    "PhoneUltrav1": {
+        "score": 12964,
+        "days": 20,
+        "deadline": 583,
+        "skills": {
+            "CloudComputing-2+0": [
+                2,
+                2
+            ],
+            "Communication-lib": [
+                4
+            ],
+            "Assembly-py": [
+                6
+            ],
+            "Ajax-3+0": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing-2+0",
+            "Communication-lib",
+            "Assembly-py",
+            "CloudComputing-2+0",
+            "Ajax-3+0"
+        ]
+    },
+    "SitesSv1": {
+        "score": 4734,
+        "days": 14,
+        "deadline": 394,
+        "skills": {
+            "JavaScript-NET": [
+                2
+            ],
+            "JavaScript-2+0": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "JavaScript-NET",
+            "JavaScript-2+0"
+        ]
+    },
+    "SmartSv2": {
+        "score": 13742,
+        "days": 16,
+        "deadline": 774,
+        "skills": {
+            "SQL-js": [
+                10
+            ],
+            "CloudComputing-2+0": [
+                8
+            ],
+            "HTML-py": [
+                1
+            ],
+            "Haskell": [
+                2
+            ],
+            "COBOL-lib": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "SQL-js",
+            "CloudComputing-2+0",
+            "HTML-py",
+            "Haskell",
+            "COBOL-lib"
+        ]
+    },
+    "VideoUltrav1": {
+        "score": 11830,
+        "days": 12,
+        "deadline": 353,
+        "skills": {
+            "Blockchain++": [
+                1,
+                3
+            ],
+            "Angular-NET": [
+                4
+            ],
+            "Communication-3+0": [
+                1
+            ],
+            "BusinessAnalysis-lib": [
+                1
+            ],
+            "CloudComputing-2+0": [
+                5
+            ],
+            "MachineLearning-2+0": [
+                5
+            ],
+            "Security-js": [
+                9
+            ]
+        },
+        "skills-in-order": [
+            "Blockchain++",
+            "Angular-NET",
+            "Communication-3+0",
+            "BusinessAnalysis-lib",
+            "CloudComputing-2+0",
+            "Blockchain++",
+            "MachineLearning-2+0",
+            "Security-js"
+        ]
+    },
+    "AndroidAutoZv2": {
+        "score": 10769,
+        "days": 18,
+        "deadline": 345,
+        "skills": {
+            "MySQL": [
+                2
+            ],
+            "PublicSpeaking-py": [
+                2
+            ],
+            "Objective-C-lib": [
+                1
+            ],
+            "CloudComputing++": [
+                1
+            ],
+            "JavaScript-NET": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "MySQL",
+            "PublicSpeaking-py",
+            "Objective-C-lib",
+            "CloudComputing++",
+            "JavaScript-NET"
+        ]
+    },
+    "StreetViewXv1": {
+        "score": 9960,
+        "days": 15,
+        "deadline": 486,
+        "skills": {
+            "Dart": [
+                2
+            ],
+            "PublicSpeaking-py": [
+                3
+            ],
+            "SQL-js": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "PublicSpeaking-py",
+            "SQL-js"
+        ]
+    },
+    "PhoneXv6": {
+        "score": 11003,
+        "days": 15,
+        "deadline": 300,
+        "skills": {
+            "MachineLearning-2+0": [
+                5
+            ],
+            "PublicSpeaking-py": [
+                3
+            ],
+            "MATLAB": [
+                5
+            ],
+            "Objective-C-lib": [
+                9
+            ],
+            "Blockchain": [
+                6
+            ],
+            "Shell-py": [
+                6
+            ],
+            "Dart": [
+                5
+            ],
+            "Assembly-py": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "MachineLearning-2+0",
+            "PublicSpeaking-py",
+            "MATLAB",
+            "Objective-C-lib",
+            "Blockchain",
+            "Shell-py",
+            "Dart",
+            "Assembly-py"
+        ]
+    },
+    "AlertsLitev7": {
+        "score": 11882,
+        "days": 19,
+        "deadline": 727,
+        "skills": {
+            "Go-NET": [
+                4
+            ],
+            "CloudComputing-NET": [
+                5
+            ],
+            "Ajax-3+0": [
+                11
+            ],
+            "Haskell": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Go-NET",
+            "CloudComputing-NET",
+            "Ajax-3+0",
+            "Haskell"
+        ]
+    },
+    "SnapshotZv3": {
+        "score": 11622,
+        "days": 12,
+        "deadline": 504,
+        "skills": {
+            "Dart-lib": [
+                2
+            ],
+            "Objective-C-lib": [
+                4
+            ],
+            "Angular-NET": [
+                5
+            ],
+            "Delphi": [
+                1
+            ],
+            "TypeScript-lib": [
+                6,
+                4
+            ]
+        },
+        "skills-in-order": [
+            "Dart-lib",
+            "Objective-C-lib",
+            "Angular-NET",
+            "Delphi",
+            "TypeScript-lib",
+            "TypeScript-lib"
+        ]
+    },
+    "ChromeOSUltrav5": {
+        "score": 7065,
+        "days": 13,
+        "deadline": 743,
+        "skills": {
+            "PublicSpeaking-py": [
+                1
+            ],
+            "MySQL": [
+                3
+            ],
+            "JavaScript-NET": [
+                1
+            ],
+            "Parallelization-NET": [
+                1
+            ],
+            "HTML-py": [
+                3
+            ],
+            "JavaScript-2+0": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "PublicSpeaking-py",
+            "MySQL",
+            "JavaScript-NET",
+            "Parallelization-NET",
+            "HTML-py",
+            "JavaScript-2+0"
+        ]
+    },
+    "SmartLitev9": {
+        "score": 5493,
+        "days": 16,
+        "deadline": 691,
+        "skills": {
+            "HTML++": [
+                1
+            ],
+            "MATLAB": [
+                3
+            ],
+            "Angular-NET": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "HTML++",
+            "MATLAB",
+            "Angular-NET"
+        ]
+    },
+    "GameLitev8": {
+        "score": 12336,
+        "days": 19,
+        "deadline": 865,
+        "skills": {
+            "Angular-NET": [
+                7
+            ],
+            "HTML-py": [
+                2
+            ],
+            "HTML-js": [
+                1
+            ],
+            "Go-NET": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "Angular-NET",
+            "HTML-py",
+            "HTML-js",
+            "Go-NET"
+        ]
+    },
+    "DatasetSearchNextv1": {
+        "score": 17493,
+        "days": 13,
+        "deadline": 928,
+        "skills": {
+            "JavaScript-NET": [
+                4
+            ],
+            "Parallelization-NET": [
+                4
+            ],
+            "SQL-js": [
+                6
+            ],
+            "CloudComputing-NET": [
+                7,
+                2
+            ],
+            "Security-js": [
+                9
+            ],
+            "Accessibility-js": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "JavaScript-NET",
+            "Parallelization-NET",
+            "SQL-js",
+            "CloudComputing-NET",
+            "Security-js",
+            "CloudComputing-NET",
+            "Accessibility-js"
+        ]
+    },
+    "DriveZv9": {
+        "score": 8585,
+        "days": 13,
+        "deadline": 325,
+        "skills": {
+            "UXDesign": [
+                1
+            ],
+            "Parallelization-NET": [
+                3,
+                2
+            ]
+        },
+        "skills-in-order": [
+            "UXDesign",
+            "Parallelization-NET",
+            "Parallelization-NET"
+        ]
+    },
+    "PhotoProv3": {
+        "score": 15916,
+        "days": 18,
+        "deadline": 358,
+        "skills": {
+            "Ajax-3+0": [
+                10
+            ],
+            "CloudComputing-NET": [
+                5
+            ],
+            "CloudComputing++": [
+                6
+            ],
+            "TechWriting-js": [
+                8
+            ],
+            "Blockchain": [
+                8
+            ],
+            "PHP-py": [
+                11
+            ],
+            "JavaScript-NET": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "Ajax-3+0",
+            "CloudComputing-NET",
+            "CloudComputing++",
+            "TechWriting-js",
+            "Blockchain",
+            "PHP-py",
+            "JavaScript-NET"
+        ]
+    },
+    "VoiceProv8": {
+        "score": 11801,
+        "days": 18,
+        "deadline": 839,
+        "skills": {
+            "HTML-js": [
+                8
+            ],
+            "Accessibility-js": [
+                3
+            ],
+            "PublicSpeaking-py": [
+                5
+            ],
+            "Communication-3+0": [
+                6
+            ],
+            "Dart": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "HTML-js",
+            "Accessibility-js",
+            "PublicSpeaking-py",
+            "Communication-3+0",
+            "Dart"
+        ]
+    },
+    "DataZv2": {
+        "score": 22091,
+        "days": 19,
+        "deadline": 522,
+        "skills": {
+            "TechWriting-js": [
+                4
+            ],
+            "Assembly-py": [
+                5
+            ],
+            "Communication-3+0": [
+                2
+            ],
+            "SQL-js": [
+                9
+            ],
+            "Ajax-3+0": [
+                2,
+                6
+            ],
+            "MySQL": [
+                1
+            ],
+            "Go-NET": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "TechWriting-js",
+            "Assembly-py",
+            "Communication-3+0",
+            "SQL-js",
+            "Ajax-3+0",
+            "MySQL",
+            "Go-NET",
+            "Ajax-3+0"
+        ]
+    },
+    "SkyLitev6": {
+        "score": 5120,
+        "days": 11,
+        "deadline": 565,
+        "skills": {
+            "Dart": [
+                3
+            ],
+            "Assembly-py": [
+                4
+            ],
+            "Objective-C-lib": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "Assembly-py",
+            "Objective-C-lib"
+        ]
+    },
+    "AssistantUltrav2": {
+        "score": 9128,
+        "days": 13,
+        "deadline": 573,
+        "skills": {
+            "PublicSpeaking-py": [
+                6
+            ],
+            "JavaScript-NET": [
+                3
+            ],
+            "Ajax-3+0": [
+                8
+            ],
+            "Blockchain": [
+                8
+            ],
+            "CloudComputing-2+0": [
+                6
+            ],
+            "Angular-NET": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "PublicSpeaking-py",
+            "JavaScript-NET",
+            "Ajax-3+0",
+            "Blockchain",
+            "CloudComputing-2+0",
+            "Angular-NET"
+        ]
+    },
+    "DuoZv4": {
+        "score": 14968,
+        "days": 19,
+        "deadline": 682,
+        "skills": {
+            "MATLAB": [
+                3
+            ],
+            "Delphi": [
+                4
+            ],
+            "CloudComputing++": [
+                2
+            ],
+            "BusinessAnalysis-lib": [
+                9
+            ],
+            "HTML-py": [
+                1
+            ],
+            "Shell-py": [
+                5
+            ],
+            "Assembly-py": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "MATLAB",
+            "Delphi",
+            "CloudComputing++",
+            "BusinessAnalysis-lib",
+            "HTML-py",
+            "Shell-py",
+            "Assembly-py"
+        ]
+    },
+    "GmailLitev9": {
+        "score": 27535,
+        "days": 13,
+        "deadline": 924,
+        "skills": {
+            "Angular-NET": [
+                3
+            ],
+            "Security-js": [
+                3,
+                9,
+                1
+            ],
+            "MATLAB": [
+                1
+            ],
+            "Ajax-3+0": [
+                5
+            ],
+            "HTML-js": [
+                7
+            ],
+            "CloudComputing++": [
+                2
+            ],
+            "CloudComputing-NET": [
+                2
+            ],
+            "Go-NET": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Angular-NET",
+            "Security-js",
+            "MATLAB",
+            "Ajax-3+0",
+            "Security-js",
+            "HTML-js",
+            "CloudComputing++",
+            "CloudComputing-NET",
+            "Security-js",
+            "Go-NET"
+        ]
+    },
+    "ChatSv4": {
+        "score": 5887,
+        "days": 12,
+        "deadline": 771,
+        "skills": {
+            "Dart": [
+                7
+            ],
+            "Security-js": [
+                4
+            ],
+            "Angular-NET": [
+                8
+            ],
+            "HTML++": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "Dart",
+            "Security-js",
+            "Angular-NET",
+            "HTML++"
+        ]
+    },
+    "MarsLitev5": {
+        "score": 4829,
+        "days": 11,
+        "deadline": 698,
+        "skills": {
+            "CloudComputing++": [
+                8
+            ],
+            "Dart": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing++",
+            "Dart"
+        ]
+    },
+    "SantaTrackerXv4": {
+        "score": 29038,
+        "days": 20,
+        "deadline": 341,
+        "skills": {
+            "Parallelization-NET": [
+                4
+            ],
+            "Assembly-py": [
+                2
+            ],
+            "Accessibility-js": [
+                6
+            ],
+            "Security-js": [
+                4
+            ],
+            "JavaScript-2+0": [
+                4
+            ],
+            "BusinessAnalysis-lib": [
+                4
+            ],
+            "JavaScript-NET": [
+                2
+            ],
+            "MySQL": [
+                4
+            ],
+            "TechWriting-js": [
+                1
+            ],
+            "Blockchain": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "Parallelization-NET",
+            "Assembly-py",
+            "Accessibility-js",
+            "Security-js",
+            "JavaScript-2+0",
+            "BusinessAnalysis-lib",
+            "JavaScript-NET",
+            "MySQL",
+            "TechWriting-js",
+            "Blockchain"
+        ]
+    },
+    "ChatXv5": {
+        "score": 27039,
+        "days": 14,
+        "deadline": 999,
+        "skills": {
+            "Delphi": [
+                1,
+                7
+            ],
+            "HTML-py": [
+                1
+            ],
+            "MachineLearning-2+0": [
+                1
+            ],
+            "Communication-lib": [
+                3
+            ],
+            "CloudComputing-NET": [
+                3
+            ],
+            "Haskell": [
+                3
+            ],
+            "JavaScript-NET": [
+                1
+            ],
+            "Ajax-3+0": [
+                8
+            ],
+            "CloudComputing-2+0": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "Delphi",
+            "HTML-py",
+            "MachineLearning-2+0",
+            "Communication-lib",
+            "CloudComputing-NET",
+            "Delphi",
+            "Haskell",
+            "JavaScript-NET",
+            "Ajax-3+0",
+            "CloudComputing-2+0"
+        ]
+    },
+    "MarsUltrav8": {
+        "score": 28250,
+        "days": 15,
+        "deadline": 657,
+        "skills": {
+            "Objective-C-lib": [
+                4
+            ],
+            "JavaScript-NET": [
+                1
+            ],
+            "TechWriting-js": [
+                4
+            ],
+            "Angular-NET": [
+                2
+            ],
+            "Ajax-3+0": [
+                1
+            ],
+            "Haskell": [
+                1
+            ],
+            "Shell-py": [
+                3
+            ],
+            "Security-js": [
+                3
+            ],
+            "HTML-js": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "Objective-C-lib",
+            "JavaScript-NET",
+            "TechWriting-js",
+            "Angular-NET",
+            "Ajax-3+0",
+            "Haskell",
+            "Shell-py",
+            "Security-js",
+            "HTML-js"
+        ]
+    },
+    "CastOSXv6": {
+        "score": 16203,
+        "days": 18,
+        "deadline": 262,
+        "skills": {
+            "Communication-lib": [
+                4,
+                1
+            ],
+            "Delphi": [
+                2
+            ],
+            "Security-js": [
+                4
+            ],
+            "Ajax-3+0": [
+                9
+            ],
+            "JavaScript-2+0": [
+                3
+            ],
+            "Blockchain++": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "Communication-lib",
+            "Delphi",
+            "Communication-lib",
+            "Security-js",
+            "Ajax-3+0",
+            "JavaScript-2+0",
+            "Blockchain++"
+        ]
+    },
+    "CultureProv7": {
+        "score": 17371,
+        "days": 19,
+        "deadline": 458,
+        "skills": {
+            "HTML-js": [
+                3
+            ],
+            "Dart": [
+                1
+            ],
+            "TypeScript-lib": [
+                6
+            ],
+            "JavaScript-NET": [
+                1
+            ],
+            "BusinessAnalysis-lib": [
+                9
+            ],
+            "Assembly-py": [
+                4
+            ],
+            "CloudComputing-2+0": [
+                5
+            ],
+            "Accessibility-js": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "HTML-js",
+            "Dart",
+            "TypeScript-lib",
+            "JavaScript-NET",
+            "BusinessAnalysis-lib",
+            "Assembly-py",
+            "CloudComputing-2+0",
+            "Accessibility-js"
+        ]
+    },
+    "PhoneLitev3": {
+        "score": 2655,
+        "days": 16,
+        "deadline": 329,
+        "skills": {
+            "PublicSpeaking-py": [
+                8
+            ],
+            "MySQL": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "PublicSpeaking-py",
+            "MySQL"
+        ]
+    },
+    "CastOSLitev5": {
+        "score": 6915,
+        "days": 19,
+        "deadline": 302,
+        "skills": {
+            "CloudComputing++": [
+                8
+            ],
+            "Communication-3+0": [
+                1,
+                5
+            ],
+            "Security-js": [
+                8
+            ]
+        },
+        "skills-in-order": [
+            "CloudComputing++",
+            "Communication-3+0",
+            "Communication-3+0",
+            "Security-js"
+        ]
+    },
+    "ChartsProv9": {
+        "score": 34449,
+        "days": 16,
+        "deadline": 661,
+        "skills": {
+            "Shell-py": [
+                1
+            ],
+            "Blockchain++": [
+                2
+            ],
+            "PHP-py": [
+                11
+            ],
+            "Communication-3+0": [
+                7
+            ],
+            "Objective-C-lib": [
+                1,
+                8
+            ],
+            "TypeScript-lib": [
+                2,
+                2
+            ],
+            "TechWriting-js": [
+                8
+            ],
+            "JavaScript-NET": [
+                3
+            ]
+        },
+        "skills-in-order": [
+            "Shell-py",
+            "Blockchain++",
+            "PHP-py",
+            "Communication-3+0",
+            "Objective-C-lib",
+            "TypeScript-lib",
+            "TechWriting-js",
+            "Objective-C-lib",
+            "TypeScript-lib",
+            "JavaScript-NET"
+        ]
+    },
+    "StreetViewUltrav4": {
+        "score": 4931,
+        "days": 10,
+        "deadline": 271,
+        "skills": {
+            "Parallelization-NET": [
+                1
+            ],
+            "JavaScript-NET": [
+                2
+            ],
+            "HTML++": [
+                6
+            ]
+        },
+        "skills-in-order": [
+            "Parallelization-NET",
+            "JavaScript-NET",
+            "HTML++"
+        ]
+    },
+    "BuildLitev6": {
+        "score": 36807,
+        "days": 17,
+        "deadline": 933,
+        "skills": {
+            "Security-js": [
+                4
+            ],
+            "Dart": [
+                6
+            ],
+            "PublicSpeaking-py": [
+                4
+            ],
+            "Objective-C-lib": [
+                5
+            ],
+            "MachineLearning-2+0": [
+                6
+            ],
+            "UXDesign": [
+                2
+            ],
+            "JavaScript-NET": [
+                2
+            ],
+            "COBOL-lib": [
+                8
+            ],
+            "HTML-py": [
+                3
+            ],
+            "MySQL": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "Security-js",
+            "Dart",
+            "PublicSpeaking-py",
+            "Objective-C-lib",
+            "MachineLearning-2+0",
+            "UXDesign",
+            "JavaScript-NET",
+            "COBOL-lib",
+            "HTML-py",
+            "MySQL"
+        ]
+    },
+    "DuoMaxv1": {
+        "score": 18203,
+        "days": 17,
+        "deadline": 314,
+        "skills": {
+            "BusinessAnalysis-lib": [
+                10
+            ],
+            "UXDesign": [
+                4
+            ],
+            "Objective-C-lib": [
+                5
+            ],
+            "Angular-NET": [
+                3
+            ],
+            "JavaScript-2+0": [
+                2
+            ]
+        },
+        "skills-in-order": [
+            "BusinessAnalysis-lib",
+            "UXDesign",
+            "Objective-C-lib",
+            "Angular-NET",
+            "JavaScript-2+0"
+        ]
+    },
+    "GlassOSLitev9": {
+        "score": 10858,
+        "days": 15,
+        "deadline": 840,
+        "skills": {
+            "BusinessAnalysis-lib": [
+                9
+            ],
+            "Security-js": [
+                7
+            ],
+            "Blockchain++": [
+                3
+            ],
+            "HTML-py": [
+                1
+            ],
+            "CloudComputing-NET": [
+                1
+            ],
+            "MySQL": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "BusinessAnalysis-lib",
+            "Security-js",
+            "Blockchain++",
+            "HTML-py",
+            "CloudComputing-NET",
+            "MySQL"
+        ]
+    },
+    "StreetViewNextv3": {
+        "score": 7999,
+        "days": 17,
+        "deadline": 899,
+        "skills": {
+            "TechWriting-js": [
+                1
+            ],
+            "MySQL": [
+                3
+            ],
+            "HTML++": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "TechWriting-js",
+            "MySQL",
+            "HTML++"
+        ]
+    },
+    "FuchsiaLitev6": {
+        "score": 20428,
+        "days": 15,
+        "deadline": 582,
+        "skills": {
+            "TypeScript-lib": [
+                3
+            ],
+            "Haskell": [
+                3
+            ],
+            "MATLAB": [
+                3
+            ],
+            "BusinessAnalysis-lib": [
+                5
+            ],
+            "CloudComputing-2+0": [
+                7
+            ],
+            "Objective-C-lib": [
+                3
+            ],
+            "PHP-py": [
+                10
+            ]
+        },
+        "skills-in-order": [
+            "TypeScript-lib",
+            "Haskell",
+            "MATLAB",
+            "BusinessAnalysis-lib",
+            "CloudComputing-2+0",
+            "Objective-C-lib",
+            "PHP-py"
+        ]
+    },
+    "FuchsiaXv6": {
+        "score": 4156,
+        "days": 18,
+        "deadline": 938,
+        "skills": {
+            "PHP-py": [
+                4
+            ],
+            "Blockchain++": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "PHP-py",
+            "Blockchain++"
+        ]
+    },
+    "ExploreMaxv4": {
+        "score": 11385,
+        "days": 16,
+        "deadline": 852,
+        "skills": {
+            "Haskell": [
+                2,
+                3
+            ],
+            "Dart": [
+                1
+            ],
+            "HTML-py": [
+                2
+            ],
+            "TypeScript-lib": [
+                5,
+                7
+            ],
+            "Go-NET": [
+                3
+            ],
+            "Delphi": [
+                1
+            ],
+            "Communication-3+0": [
+                5
+            ]
+        },
+        "skills-in-order": [
+            "Haskell",
+            "Dart",
+            "HTML-py",
+            "Haskell",
+            "TypeScript-lib",
+            "TypeScript-lib",
+            "Go-NET",
+            "Delphi",
+            "Communication-3+0"
+        ]
+    },
+    "WebserverProv6": {
+        "score": 2316,
+        "days": 13,
+        "deadline": 826,
+        "skills": {
+            "Angular-NET": [
+                7
+            ]
+        },
+        "skills-in-order": [
+            "Angular-NET"
+        ]
+    },
+    "FeedBurnerMaxv1": {
+        "score": 3967,
+        "days": 10,
+        "deadline": 658,
+        "skills": {
+            "MachineLearning-2+0": [
+                1
+            ],
+            "MATLAB": [
+                4
+            ],
+            "JavaScript-2+0": [
+                3
+            ],
+            "CloudComputing-NET": [
+                1
+            ]
+        },
+        "skills-in-order": [
+            "MachineLearning-2+0",
+            "MATLAB",
+            "JavaScript-2+0",
+            "CloudComputing-NET"
+        ]
+    },
+    "AlertsUltrav2": {
+        "score": 24941,
+        "days": 13,
+        "deadline": 649,
+        "skills": {
+            "COBOL-lib": [
+                7
+            ],
+            "HTML++": [
+                3
+            ],
+            "Parallelization-NET": [
+                5,
+                5
+            ],
+            "BusinessAnalysis-lib": [
+                11
+            ],
+            "JavaScript-NET": [
+                1
+            ],
+            "Communication-3+0": [
+                4
+            ],
+            "PublicSpeaking-py": [
+                3
+            ],
+            "Security-js": [
+                4
+            ]
+        },
+        "skills-in-order": [
+            "COBOL-lib",
+            "HTML++",
+            "Parallelization-NET",
+            "Parallelization-NET",
+            "BusinessAnalysis-lib",
+            "JavaScript-NET",
+            "Communication-3+0",
+            "PublicSpeaking-py",
+            "Security-js"
+        ]
+    }
+}
