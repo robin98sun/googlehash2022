@@ -131,16 +131,21 @@ def schedule_projects(mechanism, queue, max_timestamp):
         ))
         if len(finished_projects) >= len(queue):
             break
+
+        started_at_this_time = []
         for proj in queue:
             if proj["name"] in working_projects:
                 continue
             if proj["name"] in finished_projects:
                 continue
+            if timestamp + proj["days"] >= proj["deadline"] + proj["score"]:
+                continue
+
+            is_project_workable = True
 
             shuffle_idx = 0
 
             available_contributors = {}
-            is_project_workable = True
 
             while shuffle_idx < shuffle_limit:
                 for skill_name in proj["skills-in-order"]:
@@ -193,11 +198,7 @@ def schedule_projects(mechanism, queue, max_timestamp):
 
                     if not is_project_workable:
                         break
-
-                if is_project_workable:
-                    if timestamp + proj["days"] >= proj["deadline"] + proj["score"]:
-                        is_project_workable = False
-
+                        
                 if is_project_workable:
                     for contr_name in available_contributors:
                         assign_contributor(contr_name, proj["name"], timestamp)
@@ -205,13 +206,11 @@ def schedule_projects(mechanism, queue, max_timestamp):
                     proj["start"] = timestamp
                     proj["assigned-contributors"] = available_contributors
                     project_sequence.append(proj)
+                    started_at_this_time.append(proj)
                     break
                 else:
                     shuffle_idx += 1
                     shuffle_contributors()
-                    # print("    shuffled contributors {} times".format(shuffle_idx))
-
-
 
         finished_at_this_time = []
         for proj_name in working_projects:
@@ -227,25 +226,25 @@ def schedule_projects(mechanism, queue, max_timestamp):
         for p in finished_at_this_time:
             del working_projects[p["name"]]
 
-        if len(finished_at_this_time):
+        if len(started_at_this_time):
             lines = []
-            line = str(len(finished_projects)) + "\n"
+            line = str(len(project_sequence)) + "\n"
             lines.append(line)
             
             for proj in project_sequence:
-                if "end" in proj and proj["end"] is not None:
-                    lines.append(proj["name"]+"\n")
-                    line = ""
-                    for skill in proj["skills-in-order"]:
-                        for idx in range(len(proj["skills"][skill])):
-                            for contr_name in proj["assigned-contributors"]:
-                                contr = proj["assigned-contributors"][contr_name]
-                                if contr["skill"] == skill and idx == contr["index-in-desc"]:
-                                    if line == "":
-                                        line = contr["contributor"]["_name_"]
-                                    else:
-                                        line = line + " " + contr["contributor"]["_name_"]
-                    lines.append(line+ "\n")
+                # if "end" in proj and proj["end"] is not None:
+                lines.append(proj["name"]+"\n")
+                line = ""
+                for skill in proj["skills-in-order"]:
+                    for idx in range(len(proj["skills"][skill])):
+                        for contr_name in proj["assigned-contributors"]:
+                            contr = proj["assigned-contributors"][contr_name]
+                            if contr["skill"] == skill and idx == contr["index-in-desc"]:
+                                if line == "":
+                                    line = contr["contributor"]["_name_"]
+                                else:
+                                    line = line + " " + contr["contributor"]["_name_"]
+                lines.append(line+ "\n")
 
             with open(args.output, "w") as f:
                 f.writelines(lines)
