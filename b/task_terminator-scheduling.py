@@ -15,7 +15,15 @@ parser.add_argument(
     '--output', type=str, required=False,
     help='the output file'
 )
+
+
+parser.add_argument(
+    '--shuffle-limit', type=int, required=False, default=10,
+    help='limits of shuffle times'
+)
+
 args = parser.parse_args()
+
 
 
 with open(project_file, 'r') as f:
@@ -114,7 +122,7 @@ def schedule_projects(mechanism, queue, max_timestamp):
     finished_projects = {}
     project_sequence = []
 
-    shuffle_limit = 100
+    shuffle_limit = args.shuffle_limit
 
     print("scheduling in [{}] mechanism".format(mechanism))
     while timestamp < max_timestamp:
@@ -223,15 +231,22 @@ def schedule_projects(mechanism, queue, max_timestamp):
             lines = []
             line = str(len(finished_projects)) + "\n"
             lines.append(line)
+            
             for proj in project_sequence:
                 if "end" in proj and proj["end"] is not None:
                     lines.append(proj["name"]+"\n")
+                    line = ""
                     for skill in proj["skills-in-order"]:
                         for idx in range(len(proj["skills"][skill])):
                             for contr_name in proj["assigned-contributors"]:
                                 contr = proj["assigned-contributors"][contr_name]
                                 if contr["skill"] == skill and idx == contr["index-in-desc"]:
-                                    lines.append(contr["contributor"]["_name_"]+"\n")
+                                    if line == "":
+                                        line = contr["contributor"]["_name_"]
+                                    else:
+                                        line = line + " " + contr["contributor"]["_name_"]
+                    lines.append(line+ "\n")
+
             with open(args.output, "w") as f:
                 f.writelines(lines)
 

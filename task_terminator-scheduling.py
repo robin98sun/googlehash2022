@@ -142,6 +142,7 @@ def schedule_projects(mechanism, queue, max_timestamp):
             available_contributors = {}
             is_project_workable = True
 
+            started_at_this_time = []
             while shuffle_idx < shuffle_limit:
                 for skill_name in proj["skills-in-order"]:
                     recruitments =  copy.deepcopy(proj["skills"][skill_name])
@@ -231,15 +232,22 @@ def schedule_projects(mechanism, queue, max_timestamp):
             lines = []
             line = str(len(finished_projects)) + "\n"
             lines.append(line)
+            
             for proj in project_sequence:
                 if "end" in proj and proj["end"] is not None:
                     lines.append(proj["name"]+"\n")
+                    line = ""
                     for skill in proj["skills-in-order"]:
                         for idx in range(len(proj["skills"][skill])):
                             for contr_name in proj["assigned-contributors"]:
                                 contr = proj["assigned-contributors"][contr_name]
                                 if contr["skill"] == skill and idx == contr["index-in-desc"]:
-                                    lines.append(contr["contributor"]["_name_"]+"\n")
+                                    if line == "":
+                                        line = contr["contributor"]["_name_"]
+                                    else:
+                                        line = line + " " + contr["contributor"]["_name_"]
+                    lines.append(line+ "\n")
+
             with open(args.output, "w") as f:
                 f.writelines(lines)
 
